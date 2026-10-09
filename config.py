@@ -63,7 +63,7 @@ url_blacklist = [
 # logo      → 频道图标 URL（m3u 中 tvg-logo 属性）
 announcements = [
     {
-        "channel": "公告-yuanzl77","更新时间：__TIME__",
+        "channel": "公告-yuanzl77",
         "entries": [
                     ]
     }
