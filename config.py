@@ -36,7 +36,7 @@ source_urls = [
 hotel_config = {
     "hotel_api": "",
     "enabled": True,
-    "allowed_orgs": ["China Mobile","Alibaba Cloud"],
+    "allowed_orgs": ["China Mobile","Alibaba Cloud","China Telecom","China Unicom"],
 }
 
 # ── URL 黑名单 ───────────────────────────────────────────────────────
