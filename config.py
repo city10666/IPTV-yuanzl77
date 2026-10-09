@@ -19,7 +19,10 @@ max_lines_per_channel = 8
 # main.py 会依次请求这些地址，提取频道名和播放地址
 # 注：被注释掉的源暂时停用，可取消注释启用
 source_urls = [
-    
+    https://guovin.github.io/iptv-api/result.m3u
+    https://github.com/hehonghui/simple-iptv/blob/main/simple.m3u
+    https://iamhelloandyou.github.io/iptv-aggregator/output/iptv.m3u
+    https://cdn.jsdelivr.net/gh/jas1n/iptv-list@main/iptv.m3u
 ]
 
 # ── 酒店源 ────────────────────────────────────────────
