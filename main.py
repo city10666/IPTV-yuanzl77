@@ -355,10 +355,10 @@ def updateChannelUrlsM3U(channels, template_channels, epg_id_map=None, check_res
                             for index, url in enumerate(filtered_urls, start=1):
                                 if is_ipv6(url):
                                     extra = _get_meta_suffix(url, check_results)
-                                    url_suffix = f"$LR—IPV6{extra}" if total_urls == 1 else f"$LR—IPV6【线路{index}】{extra}"
+                                    url_suffix = f"$LR—IPV6{extra}" if total_urls == 1 else f"$V6【线路{index}】{extra}"
                                 else:
                                     extra = _get_meta_suffix(url, check_results)
-                                    url_suffix = f"$LR—IPV4{extra}" if total_urls == 1 else f"$LR—IPV4【线路{index}】{extra}"
+                                    url_suffix = f"$LR—IPV4{extra}" if total_urls == 1 else f"$V4【线路{index}】{extra}"
                                 if "$" in url:
                                     base_url = url.split("$", 1)[0]
                                 else:
