@@ -23,7 +23,8 @@ source_urls = [
     "https://raw.githubusercontent.com/hehonghui/simple-iptv/refs/heads/main/simple.m3u",
     "https://iamhelloandyou.github.io/iptv-aggregator/output/iptv.m3u",
     "https://cdn.jsdelivr.net/gh/jas1n/iptv-list@main/iptv.m3u",
-    "https://raw.githubusercontent.com/Guovin/iptv-api/gd/output/result.m3u"
+    "https://raw.githubusercontent.com/Guovin/iptv-api/gd/output/result.m3u",
+    "https://raw.githubusercontent.com/vbskycn/iptv/refs/heads/master/tv/iptv4.txt"
 ]
 
 # ── 酒店源 ────────────────────────────────────────────
