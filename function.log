@@ -1,87 +1,101 @@
-2026-10-10 00:13:08,936 - WARNING - [EPG映射] 所有 EPG 源均加载失败，将使用默认数字 ID
-2026-10-10 00:13:09,089 - INFO - url: https://guovin.github.io/iptv-api/result.m3u 获取成功，判断为m3u格式
-2026-10-10 00:13:09,091 - INFO - url: https://guovin.github.io/iptv-api/result.m3u 抓取成功，包含频道分类: 🕘️更新时间, 📺央视频道, 💰央视付费频道, 📡卫视频道, ☘️广东频道, ☘️浙江频道, ☘️北京频道, ☘️上海频道, ☘️重庆频道, ☘️江苏频道, ☘️辽宁频道, ☘️湖南频道, ☘️湖北频道, ☘️广西频道, ☘️天津频道, ☘️四川频道, ☘️陕西频道, ☘️福建频道, ☘️海南频道, ☘️河南频道, ☘️河北频道, ☘️贵州频道, ☘️甘肃频道, ☘️新疆频道, ☘️山东频道, ☘️山西频道, ☘️安徽频道, ☘️吉林频道, ☘️内蒙古频道, ☘️云南频道, ☘️青海频道, ☘️黑龙江频道, 🌊港·澳·台, 🌊港·澳·台" catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}, 🎬电影频道, 🏀体育频道, 🪁动画频道, 🎮游戏频道, 🎵音乐频道, 🏛经典剧场
-2026-10-10 00:13:09,158 - INFO - url: https://raw.githubusercontent.com/hehonghui/simple-iptv/refs/heads/main/simple.m3u 获取成功，判断为m3u格式
-2026-10-10 00:13:09,158 - INFO - url: https://raw.githubusercontent.com/hehonghui/simple-iptv/refs/heads/main/simple.m3u 抓取成功，包含频道分类: 央视频道, 卫视频道, 浙江频道, 内蒙频道, 国际频道, 港澳台频道
-2026-10-10 00:13:09,256 - INFO - url: https://iamhelloandyou.github.io/iptv-aggregator/output/iptv.m3u 获取成功，判断为txt格式
-2026-10-10 00:13:09,297 - INFO - url: https://cdn.jsdelivr.net/gh/jas1n/iptv-list@main/iptv.m3u 获取成功，判断为m3u格式
-2026-10-10 00:13:09,297 - INFO - url: https://cdn.jsdelivr.net/gh/jas1n/iptv-list@main/iptv.m3u 抓取成功，包含频道分类: 央视频道, 卫视频道, 港澳台·新闻, 港澳台·电影, 港澳台·体育, 港澳台·娱乐, 港澳台·纪录, 港澳台·少儿, 港澳台·综合, 电影轮播, 体育频道, 纪录频道, 少儿频道, 其他频道
-2026-10-10 00:13:09,407 - INFO - url: https://raw.githubusercontent.com/Guovin/iptv-api/gd/output/result.m3u 获取成功，判断为m3u格式
-2026-10-10 00:13:09,411 - INFO - url: https://raw.githubusercontent.com/Guovin/iptv-api/gd/output/result.m3u 抓取成功，包含频道分类: 🕘️更新时间, 📺央视频道, 💰央视付费频道, 📡卫视频道, ☘️广东频道, ☘️浙江频道, ☘️北京频道, ☘️上海频道, ☘️重庆频道, ☘️江苏频道, ☘️辽宁频道, ☘️湖南频道, ☘️湖北频道, ☘️广西频道, ☘️天津频道, ☘️四川频道, ☘️陕西频道, ☘️福建频道, ☘️海南频道, ☘️河南频道, ☘️河北频道, ☘️贵州频道, ☘️甘肃频道, ☘️新疆频道, ☘️山东频道, ☘️山西频道, ☘️安徽频道, ☘️宁夏频道, ☘️吉林频道, ☘️内蒙古频道, ☘️云南频道, ☘️青海频道, ☘️黑龙江频道, 🌊港·澳·台, 🎬电影频道, 🏀体育频道, 🪁动画频道, 🎮游戏频道, 🎵音乐频道, 🏛经典剧场
-2026-10-10 00:13:09,478 - INFO - url: https://raw.githubusercontent.com/vbskycn/iptv/refs/heads/master/tv/iptv4.m3u 获取成功，判断为m3u格式
-2026-10-10 00:13:09,479 - INFO - url: https://raw.githubusercontent.com/vbskycn/iptv/refs/heads/master/tv/iptv4.m3u 抓取成功，包含频道分类: 央视频道, 卫视频道, 电影频道, 数字频道, 儿童频道, 地方频道, 纪录频道, 体育频道, 解说频道, 音乐频道, 春晚频道, 直播中国, 更新时间
-2026-10-10 00:13:09,900 - INFO - url: https://github.com/hujingguang/ChinaIPTV/blob/main/cnTV_AutoUpdate.m3u8 获取成功，判断为txt格式
-2026-10-10 00:13:10,978 - INFO - [酒店源] 开始抓取...
-2026-10-10 00:13:10,979 - WARNING - [酒店源] 未获取到节点数据
-2026-10-10 00:13:10,980 - INFO - [酒店源] 合并完成，共添加 0 个 URL
-2026-10-10 00:13:10,980 - INFO - [质量检测] 开始...
-2026-10-10 00:13:10,981 - INFO - 开始质量检测，共 1112 个 URL，并发数 80，HTTP 超时 3.5s，FFprobe 启用，超时 3.5s，深度探测启用，超时 5.0s，最小速度 2500kbps
-2026-10-10 00:18:36,785 - INFO - 质量检测完成: 总计=703 通过=391 失败=90 超时=94 错误=128
-2026-10-10 00:18:36,787 - INFO - 过滤后: 保留 501 个有效源，移除 401 个失效源
-2026-10-10 00:18:36,787 - INFO - [黑名单建议] 以下域名检测频繁失败，可考虑加入 url_blacklist：
-2026-10-10 00:18:36,787 - INFO -   https://stream1.freetv.fun  失败次数=126  (failed=126)
-2026-10-10 00:18:36,787 - INFO -   http://[2409:8087:8:21::18]  失败次数=64  (error=64)
-2026-10-10 00:18:36,787 - INFO -   https://zby.130519.xyz  失败次数=61  (error=61)
-2026-10-10 00:18:36,787 - INFO -   http://iptv.huuc.edu.cn  失败次数=37  (timeout=37)
-2026-10-10 00:18:36,787 - INFO -   https://live.264788.xyz  失败次数=27  (error=27)
-2026-10-10 00:18:36,788 - INFO -   http://101.66.194.125:9901  失败次数=25  (timeout=25)
-2026-10-10 00:18:36,788 - INFO -   https://hls-gateway.vpstv.net  失败次数=22  (failed=22)
-2026-10-10 00:18:36,788 - INFO -   http://php.jdshipin.com  失败次数=15  (error=2, failed=4, timeout=9)
-2026-10-10 00:18:36,788 - INFO -   http://[2409:8087:1a01:df::4077]  失败次数=12  (error=12)
-2026-10-10 00:18:36,788 - INFO -   https://www.freetv.top  失败次数=8  (failed=4, timeout=4)
-2026-10-10 00:18:36,788 - INFO -   https://smart.pendy.dpdns.org  失败次数=7  (error=7)
-2026-10-10 00:18:36,788 - INFO -   http://ottrrs.hl.chinamobile.com  失败次数=6  (timeout=6)
-2026-10-10 00:18:36,788 - INFO -   https://cdn6.163189.xyz  失败次数=6  (error=6)
-2026-10-10 00:18:36,788 - INFO -   https://litv.tzh911.qzz.io  失败次数=6  (failed=6)
-2026-10-10 00:18:36,788 - INFO -   http://[2409:8087:1a0a:df::404b]  失败次数=4  (error=4)
-2026-10-10 00:18:36,788 - INFO -   http://gslbmgsplive.miguvideo.com  失败次数=4  (failed=4)
-2026-10-10 00:18:36,788 - INFO -   http://rrs01.hw.gmcc.net:8088  失败次数=4  (timeout=4)
-2026-10-10 00:18:36,788 - INFO -   http://ott.mobaibox.com  失败次数=4  (timeout=4)
-2026-10-10 00:18:36,788 - INFO -   https://txmov2.a.kwimgs.com  失败次数=4  (timeout=4)
-2026-10-10 00:18:36,788 - INFO -   http://cctvtxyh5c.liveplay.myqcloud.com  失败次数=4  (failed=4)
-2026-10-10 00:18:36,788 - INFO -   https://cdn12.178.indevs.in  失败次数=4  (failed=4)
-2026-10-10 00:18:36,789 - INFO -   http://z.b.bkpcp.top  失败次数=3  (timeout=3)
-2026-10-10 00:18:36,789 - INFO -   http://cdn9.163189.xyz  失败次数=3  (failed=1, timeout=2)
-2026-10-10 00:18:36,789 - INFO -   http://31.43.191.125:8080  失败次数=3  (timeout=3)
-2026-10-10 00:18:36,789 - INFO -   http://112.30.73.119:229  失败次数=2  (error=2)
-2026-10-10 00:18:36,789 - INFO -   http://1.197.250.140:9901  失败次数=2  (timeout=2)
-2026-10-10 00:18:36,789 - INFO -   http://[2409:8087:1a01:df::4033]  失败次数=2  (error=2)
-2026-10-10 00:18:36,789 - INFO -   http://[2409:8087:1:20:20::2c]  失败次数=2  (error=2)
-2026-10-10 00:18:36,789 - INFO -   http://[2409:8087:1a0b:df::4013]  失败次数=2  (error=2)
-2026-10-10 00:18:36,789 - INFO -   http://bp-resource-dfl.bestv.cn  失败次数=2  (timeout=2)
-2026-10-10 00:18:36,789 - INFO -   https://idclive.hljtv.com:4430  失败次数=2  (timeout=2)
-2026-10-10 00:18:36,789 - INFO -   http://[2409:8087:1a01:df::4030]  失败次数=2  (error=2)
-2026-10-10 00:18:36,789 - INFO -   http://112.27.5.218:9901  失败次数=2  (timeout=2)
-2026-10-10 00:18:36,789 - INFO -   https://liveout.xntv.tv  失败次数=2  (failed=1, timeout=1)
-2026-10-10 00:18:36,789 - INFO -   http://43.152.224.209  失败次数=2  (timeout=2)
-2026-10-10 00:18:36,789 - INFO -   http://101.35.240.114:88  失败次数=2  (failed=2)
-2026-10-10 00:18:36,789 - INFO -   http://webcast.hkstv.tv  失败次数=2  (error=1, timeout=1)
-2026-10-10 00:18:36,790 - INFO -   http://zhibo.hkstv.tv  失败次数=2  (error=2)
-2026-10-10 00:18:36,790 - INFO -   http://smt.1678520.xyz  失败次数=2  (failed=2)
-2026-10-10 00:18:36,790 - INFO -   http://php.jdshipin.com:8880  失败次数=2  (timeout=2)
-2026-10-10 00:18:36,790 - INFO -   http://[2409:8087:5e00:24::2d]  失败次数=2  (error=2)
-2026-10-10 00:18:36,790 - INFO -   http://[2409:8087:1a0b:df::4002]  失败次数=2  (error=2)
-2026-10-10 00:18:36,790 - INFO -   http://[2409:8087:2001:20:2800:0:df6e:eb18]  失败次数=2  (error=2)
-2026-10-10 00:18:36,790 - INFO -   https://iptv.catvod.com  失败次数=2  (failed=2)
-2026-10-10 00:18:36,790 - INFO -   http://112.27.235.94:8000  失败次数=1  (failed=1)
-2026-10-10 00:18:36,790 - INFO -   http://112.30.73.119:9901  失败次数=1  (error=1)
-2026-10-10 00:18:36,790 - INFO -   http://go.bkpcp.top  失败次数=1  (failed=1)
-2026-10-10 00:18:36,790 - INFO -   https://migu.188766.xyz  失败次数=1  (timeout=1)
-2026-10-10 00:18:36,790 - INFO -   http://223.78.65.165:9901  失败次数=1  (timeout=1)
-2026-10-10 00:18:36,790 - INFO -   https://myip.pdtvhd.com  失败次数=1  (failed=1)
-2026-10-10 00:18:36,790 - INFO -   http://[2409:8087:7004:20:1000::22]  失败次数=1  (error=1)
-2026-10-10 00:18:36,790 - INFO -   http://gxyd.484947.xyz  失败次数=1  (failed=1)
-2026-10-10 00:18:36,790 - INFO -   http://38.75.136.137:98  失败次数=1  (failed=1)
-2026-10-10 00:18:36,791 - INFO -   http://gmxw.7766.org:808  失败次数=1  (timeout=1)
-2026-10-10 00:18:36,791 - INFO -   https://play-qukan.cztv.com  失败次数=1  (failed=1)
-2026-10-10 00:18:36,791 - INFO -   http://104.152.209.49:8181  失败次数=1  (timeout=1)
-2026-10-10 00:18:36,791 - INFO -   http://218.13.170.98:9901  失败次数=1  (timeout=1)
-2026-10-10 00:18:36,791 - INFO -   http://221.7.175.154:8445  失败次数=1  (error=1)
-2026-10-10 00:18:36,791 - INFO -   http://cssbyd.imwork.net:8082  失败次数=1  (timeout=1)
-2026-10-10 00:18:36,791 - INFO -   http://goo.bkpcp.top  失败次数=1  (timeout=1)
-2026-10-10 00:18:36,791 - INFO -   http://[2409:8087:2001:20:2800:0:df6e:eb0b]  失败次数=1  (error=1)
-2026-10-10 00:18:36,791 - INFO -   http://nn.7x9d.cn  失败次数=1  (timeout=1)
-2026-10-10 00:18:36,791 - INFO -   http://l.cztvcloud.com  失败次数=1  (timeout=1)
-2026-10-10 00:18:36,791 - INFO -   http://mytv.cdn.loc.cc  失败次数=1  (failed=1)
-2026-10-10 00:18:36,791 - INFO -   https://live.chinacert.cftest5.cn  失败次数=1  (failed=1)
-2026-10-10 00:18:36,791 - INFO - [质量检测] 完成
+2026-10-10 00:41:37,817 - WARNING - [EPG映射] 所有 EPG 源均加载失败，将使用默认数字 ID
+2026-10-10 00:41:38,101 - INFO - url: https://raw.githubusercontent.com/pq0000/iptv-auto/refs/heads/main/output/favorites.m3u 获取成功，判断为m3u格式
+2026-10-10 00:41:38,102 - INFO - url: https://raw.githubusercontent.com/pq0000/iptv-auto/refs/heads/main/output/favorites.m3u 抓取成功，包含频道分类: 📺央视频道, 📡卫视频道, ☘️苏州地方频道, 黑莓NEWTV
+2026-10-10 00:41:38,485 - INFO - url: https://guovin.github.io/iptv-api/result.m3u 获取成功，判断为m3u格式
+2026-10-10 00:41:38,488 - INFO - url: https://guovin.github.io/iptv-api/result.m3u 抓取成功，包含频道分类: 🕘️更新时间, 📺央视频道, 💰央视付费频道, 📡卫视频道, ☘️广东频道, ☘️浙江频道, ☘️北京频道, ☘️上海频道, ☘️重庆频道, ☘️江苏频道, ☘️辽宁频道, ☘️湖南频道, ☘️湖北频道, ☘️广西频道, ☘️天津频道, ☘️四川频道, ☘️陕西频道, ☘️福建频道, ☘️海南频道, ☘️河南频道, ☘️河北频道, ☘️贵州频道, ☘️甘肃频道, ☘️新疆频道, ☘️山东频道, ☘️山西频道, ☘️安徽频道, ☘️吉林频道, ☘️内蒙古频道, ☘️云南频道, ☘️青海频道, ☘️黑龙江频道, 🌊港·澳·台, 🌊港·澳·台" catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}, 🎬电影频道, 🏀体育频道, 🪁动画频道, 🎮游戏频道, 🎵音乐频道, 🏛经典剧场
+2026-10-10 00:41:38,644 - INFO - url: https://raw.githubusercontent.com/hehonghui/simple-iptv/refs/heads/main/simple.m3u 获取成功，判断为m3u格式
+2026-10-10 00:41:38,644 - INFO - url: https://raw.githubusercontent.com/hehonghui/simple-iptv/refs/heads/main/simple.m3u 抓取成功，包含频道分类: 央视频道, 卫视频道, 浙江频道, 内蒙频道, 国际频道, 港澳台频道
+2026-10-10 00:41:38,813 - INFO - url: https://iamhelloandyou.github.io/iptv-aggregator/output/iptv.m3u 获取成功，判断为txt格式
+2026-10-10 00:41:38,908 - INFO - url: https://cdn.jsdelivr.net/gh/jas1n/iptv-list@main/iptv.m3u 获取成功，判断为m3u格式
+2026-10-10 00:41:38,909 - INFO - url: https://cdn.jsdelivr.net/gh/jas1n/iptv-list@main/iptv.m3u 抓取成功，包含频道分类: 央视频道, 卫视频道, 港澳台·新闻, 港澳台·电影, 港澳台·体育, 港澳台·娱乐, 港澳台·纪录, 港澳台·少儿, 港澳台·综合, 电影轮播, 体育频道, 纪录频道, 少儿频道, 其他频道
+2026-10-10 00:41:39,005 - INFO - url: https://raw.githubusercontent.com/Guovin/iptv-api/gd/output/result.m3u 获取成功，判断为m3u格式
+2026-10-10 00:41:39,008 - INFO - url: https://raw.githubusercontent.com/Guovin/iptv-api/gd/output/result.m3u 抓取成功，包含频道分类: 🕘️更新时间, 📺央视频道, 💰央视付费频道, 📡卫视频道, ☘️广东频道, ☘️浙江频道, ☘️北京频道, ☘️上海频道, ☘️重庆频道, ☘️江苏频道, ☘️辽宁频道, ☘️湖南频道, ☘️湖北频道, ☘️广西频道, ☘️天津频道, ☘️四川频道, ☘️陕西频道, ☘️福建频道, ☘️海南频道, ☘️河南频道, ☘️河北频道, ☘️贵州频道, ☘️甘肃频道, ☘️新疆频道, ☘️山东频道, ☘️山西频道, ☘️安徽频道, ☘️宁夏频道, ☘️吉林频道, ☘️内蒙古频道, ☘️云南频道, ☘️青海频道, ☘️黑龙江频道, 🌊港·澳·台, 🎬电影频道, 🏀体育频道, 🪁动画频道, 🎮游戏频道, 🎵音乐频道, 🏛经典剧场
+2026-10-10 00:41:39,295 - INFO - url: https://raw.githubusercontent.com/vbskycn/iptv/refs/heads/master/tv/iptv4.m3u 获取成功，判断为m3u格式
+2026-10-10 00:41:39,296 - INFO - url: https://raw.githubusercontent.com/vbskycn/iptv/refs/heads/master/tv/iptv4.m3u 抓取成功，包含频道分类: 央视频道, 卫视频道, 电影频道, 数字频道, 儿童频道, 地方频道, 纪录频道, 体育频道, 解说频道, 音乐频道, 春晚频道, 直播中国, 更新时间
+2026-10-10 00:41:39,703 - INFO - url: https://github.com/hujingguang/ChinaIPTV/blob/main/cnTV_AutoUpdate.m3u8 获取成功，判断为txt格式
+2026-10-10 00:41:40,927 - INFO - [酒店源] 开始抓取...
+2026-10-10 00:41:40,928 - WARNING - [酒店源] 未获取到节点数据
+2026-10-10 00:41:40,928 - INFO - [酒店源] 合并完成，共添加 0 个 URL
+2026-10-10 00:41:40,928 - INFO - [质量检测] 开始...
+2026-10-10 00:41:40,929 - INFO - 开始质量检测，共 1629 个 URL，并发数 80，HTTP 超时 3.5s，FFprobe 启用，超时 3.5s，深度探测启用，超时 5.0s，最小速度 2500kbps
+2026-10-10 00:50:06,496 - INFO - 质量检测完成: 总计=1099 通过=489 失败=128 超时=216 错误=266
+2026-10-10 00:50:06,498 - INFO - 过滤后: 保留 632 个有效源，移除 780 个失效源
+2026-10-10 00:50:06,498 - INFO - [黑名单建议] 以下域名检测频繁失败，可考虑加入 url_blacklist：
+2026-10-10 00:50:06,499 - INFO -   http://kkk.888.3116598.xyz  失败次数=168  (empty=94, timeout=74)
+2026-10-10 00:50:06,499 - INFO -   https://stream1.freetv.fun  失败次数=126  (failed=126)
+2026-10-10 00:50:06,499 - INFO -   http://[2409:8087:8:21::18]  失败次数=82  (error=82)
+2026-10-10 00:50:06,499 - INFO -   https://zby.130519.xyz  失败次数=61  (error=61)
+2026-10-10 00:50:06,499 - INFO -   http://iptv.huuc.edu.cn  失败次数=37  (timeout=37)
+2026-10-10 00:50:06,499 - INFO -   http://101.66.194.125:9901  失败次数=37  (timeout=37)
+2026-10-10 00:50:06,499 - INFO -   http://ottrrs.hl.chinamobile.com  失败次数=32  (timeout=32)
+2026-10-10 00:50:06,499 - INFO -   https://live.264788.xyz  失败次数=29  (error=29)
+2026-10-10 00:50:06,499 - INFO -   https://hls-gateway.vpstv.net  失败次数=22  (failed=22)
+2026-10-10 00:50:06,499 - INFO -   http://hlsztemgsplive.miguvideo.com:8080  失败次数=18  (failed=18)
+2026-10-10 00:50:06,499 - INFO -   http://otttv.bj.chinamobile.com  失败次数=15  (timeout=15)
+2026-10-10 00:50:06,499 - INFO -   http://php.jdshipin.com  失败次数=15  (error=2, failed=4, timeout=9)
+2026-10-10 00:50:06,499 - INFO -   http://101.35.240.114:88  失败次数=13  (failed=13)
+2026-10-10 00:50:06,499 - INFO -   http://[2409:8087:1a01:df::4077]  失败次数=12  (error=12)
+2026-10-10 00:50:06,499 - INFO -   https://txmov2.a.kwimgs.com  失败次数=9  (failed=4, timeout=5)
+2026-10-10 00:50:06,499 - INFO -   https://www.freetv.top  失败次数=8  (failed=8)
+2026-10-10 00:50:06,499 - INFO -   https://smart.pendy.dpdns.org  失败次数=7  (error=7)
+2026-10-10 00:50:06,499 - INFO -   http://player.cntv.cn  失败次数=6  (error=6)
+2026-10-10 00:50:06,499 - INFO -   https://cdn6.163189.xyz  失败次数=6  (error=6)
+2026-10-10 00:50:06,499 - INFO -   https://litv.tzh911.qzz.io  失败次数=6  (failed=6)
+2026-10-10 00:50:06,499 - INFO -   http://genglei.8866.org:9901  失败次数=5  (timeout=5)
+2026-10-10 00:50:06,499 - INFO -   http://31.43.191.125:8080  失败次数=5  (timeout=5)
+2026-10-10 00:50:06,500 - INFO -   http://43.152.224.209  失败次数=5  (timeout=5)
+2026-10-10 00:50:06,500 - INFO -   http://1.197.250.140:9901  失败次数=4  (timeout=4)
+2026-10-10 00:50:06,500 - INFO -   http://182.85.163.86:1234  失败次数=4  (error=4)
+2026-10-10 00:50:06,500 - INFO -   https://player.cntv.cn  失败次数=4  (error=4)
+2026-10-10 00:50:06,500 - INFO -   http://[2409:8087:1a0a:df::404b]  失败次数=4  (error=4)
+2026-10-10 00:50:06,500 - INFO -   http://gslbmgsplive.miguvideo.com  失败次数=4  (failed=4)
+2026-10-10 00:50:06,500 - INFO -   http://rrs01.hw.gmcc.net:8088  失败次数=4  (timeout=4)
+2026-10-10 00:50:06,500 - INFO -   http://ott.mobaibox.com  失败次数=4  (timeout=4)
+2026-10-10 00:50:06,500 - INFO -   http://cctvtxyh5c.liveplay.myqcloud.com  失败次数=4  (failed=4)
+2026-10-10 00:50:06,500 - INFO -   https://cdn12.178.indevs.in  失败次数=4  (failed=4)
+2026-10-10 00:50:06,500 - INFO -   http://112.30.73.119:229  失败次数=3  (error=3)
+2026-10-10 00:50:06,500 - INFO -   http://118.113.40.13:1234  失败次数=3  (error=3)
+2026-10-10 00:50:06,500 - INFO -   http://192.168.123.1:23234  失败次数=3  (timeout=3)
+2026-10-10 00:50:06,500 - INFO -   http://114.240.111.49:7788  失败次数=3  (timeout=3)
+2026-10-10 00:50:06,500 - INFO -   http://z.b.bkpcp.top  失败次数=3  (timeout=3)
+2026-10-10 00:50:06,500 - INFO -   http://221.7.175.154:8445  失败次数=3  (error=3)
+2026-10-10 00:50:06,501 - INFO -   http://122.152.202.33  失败次数=3  (empty=3)
+2026-10-10 00:50:06,501 - INFO -   http://cdn9.163189.xyz  失败次数=3  (empty=1, failed=2)
+2026-10-10 00:50:06,501 - INFO -   https://iptv.catvod.com  失败次数=3  (failed=3)
+2026-10-10 00:50:06,501 - INFO -   http://[2409:8087:1a01:df::4033]  失败次数=2  (error=2)
+2026-10-10 00:50:06,501 - INFO -   http://[2409:8087:1:20:20::2c]  失败次数=2  (error=2)
+2026-10-10 00:50:06,501 - INFO -   http://[2409:8087:1a0b:df::4013]  失败次数=2  (error=2)
+2026-10-10 00:50:06,501 - INFO -   https://cdn.ttvb.eu.org  失败次数=2  (timeout=2)
+2026-10-10 00:50:06,501 - INFO -   https://idclive.hljtv.com:4430  失败次数=2  (timeout=2)
+2026-10-10 00:50:06,501 - INFO -   http://[2409:8087:1a01:df::4030]  失败次数=2  (error=2)
+2026-10-10 00:50:06,501 - INFO -   https://liveout.xntv.tv  失败次数=2  (failed=2)
+2026-10-10 00:50:06,501 - INFO -   http://webcast.hkstv.tv  失败次数=2  (error=2)
+2026-10-10 00:50:06,501 - INFO -   http://zhibo.hkstv.tv  失败次数=2  (error=2)
+2026-10-10 00:50:06,501 - INFO -   http://smt.1678520.xyz  失败次数=2  (failed=2)
+2026-10-10 00:50:06,501 - INFO -   http://php.jdshipin.com:8880  失败次数=2  (timeout=2)
+2026-10-10 00:50:06,501 - INFO -   http://8.138.7.223  失败次数=2  (failed=2)
+2026-10-10 00:50:06,501 - INFO -   http://[2409:8087:5e00:24::2d]  失败次数=2  (error=2)
+2026-10-10 00:50:06,501 - INFO -   http://[2409:8087:1a0b:df::4002]  失败次数=2  (error=2)
+2026-10-10 00:50:06,501 - INFO -   http://[2409:8087:2001:20:2800:0:df6e:eb18]  失败次数=2  (error=2)
+2026-10-10 00:50:06,501 - INFO -   http://112.27.235.94:8000  失败次数=1  (failed=1)
+2026-10-10 00:50:06,501 - INFO -   http://112.30.73.119:9901  失败次数=1  (error=1)
+2026-10-10 00:50:06,501 - INFO -   https://migu.188766.xyz  失败次数=1  (timeout=1)
+2026-10-10 00:50:06,501 - INFO -   http://183.11.239.36:808  失败次数=1  (timeout=1)
+2026-10-10 00:50:06,501 - INFO -   http://36.36.238.246:7788  失败次数=1  (error=1)
+2026-10-10 00:50:06,501 - INFO -   http://223.78.65.165:9901  失败次数=1  (timeout=1)
+2026-10-10 00:50:06,501 - INFO -   https://myip.pdtvhd.com  失败次数=1  (failed=1)
+2026-10-10 00:50:06,501 - INFO -   https://live.eac-news.com  失败次数=1  (failed=1)
+2026-10-10 00:50:06,501 - INFO -   http://drive.mxmy.net:8888  失败次数=1  (error=1)
+2026-10-10 00:50:06,501 - INFO -   http://[2409:8087:7004:20:1000::22]  失败次数=1  (error=1)
+2026-10-10 00:50:06,502 - INFO -   http://gxyd.484947.xyz  失败次数=1  (failed=1)
+2026-10-10 00:50:06,502 - INFO -   http://173.208.234.146  失败次数=1  (failed=1)
+2026-10-10 00:50:06,502 - INFO -   http://63.141.230.178:82  失败次数=1  (failed=1)
+2026-10-10 00:50:06,502 - INFO -   http://38.75.136.137:98  失败次数=1  (failed=1)
+2026-10-10 00:50:06,502 - INFO -   https://play-qukan.cztv.com  失败次数=1  (failed=1)
+2026-10-10 00:50:06,502 - INFO -   http://live.zohi.tv  失败次数=1  (timeout=1)
+2026-10-10 00:50:06,502 - INFO -   http://goo.bkpcp.top  失败次数=1  (timeout=1)
+2026-10-10 00:50:06,502 - INFO -   http://[2409:8087:2001:20:2800:0:df6e:eb0b]  失败次数=1  (error=1)
+2026-10-10 00:50:06,502 - INFO -   http://mytv.cdn.loc.cc  失败次数=1  (failed=1)
+2026-10-10 00:50:06,502 - INFO -   http://kkk.jjjj.jiduo.me  失败次数=1  (timeout=1)
+2026-10-10 00:50:06,502 - INFO -   https://live.chinacert.cftest5.cn  失败次数=1  (failed=1)
+2026-10-10 00:50:06,502 - INFO - [质量检测] 完成
