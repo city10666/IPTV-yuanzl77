@@ -12,7 +12,7 @@ ip_version_priority = "ipv4"
 source_priority = "hotel"
 
 # 每频道最大线路数，0 = 不限制
-max_lines_per_channel = 30
+max_lines_per_channel = 0
 
 # ── 订阅源 ───────────────────────────────────────────────────────
 # 每个 URL 都是一个 IPTV 直播源文件（支持 m3u 或 txt 格式）
@@ -63,7 +63,7 @@ url_blacklist = [
 # logo      → 频道图标 URL（m3u 中 tvg-logo 属性）
 announcements = [
     {
-        "channel": "公告-yuanzl77",
+        "channel": "公告-yuanzl77","更新时间：__TIME__",
         "entries": [
                     ]
     }
