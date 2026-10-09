@@ -12,7 +12,7 @@ ip_version_priority = "ipv6"
 source_priority = "hotel"
 
 # 每频道最大线路数，0 = 不限制
-max_lines_per_channel = 0
+max_lines_per_channel = 30
 
 # ── 订阅源 ───────────────────────────────────────────────────────
 # 每个 URL 都是一个 IPTV 直播源文件（支持 m3u 或 txt 格式）
