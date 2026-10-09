@@ -1,578 +1,570 @@
 #EXTM3U x-tvg-url=
 #EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/CCTV1.png" group-title="央视频道",CCTV1
-http://38.75.136.137:98/gslb/dsdqbv/cctv1hd.m3u8?auth=test20251009$V4【线路1】 【1280x720 13kbps】
+http://204.12.221.218:8181/3m1080p/cctv1.m3u8$V4【线路1】 【1280x720 11kbps】
 #EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/CCTV1.png" group-title="央视频道",CCTV1
-http://198.204.228.26/live/cctv1hd.m3u8$V4【线路2】 【1280x720 8kbps】
+http://198.204.228.26/live/cctv1hd.m3u8$V4【线路2】 【1280x720 11kbps】
 #EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/CCTV1.png" group-title="央视频道",CCTV1
-http://74.91.26.218:82/live/cctv1hd.m3u8$V4【线路3】 【1920x1080 7kbps】
+http://74.91.26.218:82/live/cctv1hd.m3u8$V4【线路3】 【1920x1080 10kbps】
 #EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/CCTV1.png" group-title="央视频道",CCTV1
-http://204.12.221.218:8181/3m1080p/cctv1.m3u8$V4【线路4】 【1280x720 7kbps】
+http://38.75.136.137:98/gslb/dsdqbv/cctv1hd.m3u8?auth=test20251009$V4【线路4】 【1280x720 8kbps】
 #EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/CCTV1.png" group-title="央视频道",CCTV1
-http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv1hd$V4【线路5】 【1920x1080 5kbps】
+http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv1hd$V4【线路5】 【1280x720 7kbps】
 #EXTINF:-1 tvg-id="CCTV2" tvg-name="CCTV2" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/CCTV2.png" group-title="央视频道",CCTV2
-http://198.204.228.26/live/cctv2hd.m3u8$V4【线路1】 【1280x720 8kbps】
+http://173.208.234.146/live/cctv2.m3u8$V4【线路1】 【1280x720 11kbps】
 #EXTINF:-1 tvg-id="CCTV2" tvg-name="CCTV2" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/CCTV2.png" group-title="央视频道",CCTV2
-http://173.208.234.146/live/cctv2.m3u8$V4【线路2】 【1280x720 8kbps】
+http://192.151.150.154/live/cctv2hd.m3u8$V4【线路2】 【1280x720 11kbps】
 #EXTINF:-1 tvg-id="CCTV2" tvg-name="CCTV2" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/CCTV2.png" group-title="央视频道",CCTV2
-http://107.150.60.122/live/cctv2hd.m3u8$V4【线路3】 【1280x720 8kbps】
+http://107.150.60.122/live/cctv2hd.m3u8$V4【线路3】 【1920x1080 10kbps】
 #EXTINF:-1 tvg-id="CCTV2" tvg-name="CCTV2" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/CCTV2.png" group-title="央视频道",CCTV2
-http://192.151.150.154/live/cctv2hd.m3u8$V4【线路4】 【1280x720 8kbps】
+http://198.204.228.26/live/cctv2hd.m3u8$V4【线路4】 【1280x720 10kbps】
 #EXTINF:-1 tvg-id="CCTV2" tvg-name="CCTV2" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/CCTV2.png" group-title="央视频道",CCTV2
-http://204.12.221.218:8181/3m1080p/cctv2.m3u8$V4【线路5】 【1280x720 7kbps】
+http://204.12.221.218:8181/3m1080p/cctv2.m3u8$V4【线路5】 【1280x720 10kbps】
 #EXTINF:-1 tvg-id="CCTV2" tvg-name="CCTV2" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/CCTV2.png" group-title="央视频道",CCTV2
-http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv2hd$V4【线路6】 【1920x1080 5kbps】
+http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv2hd$V4【线路6】 【1280x720 7kbps】
 #EXTINF:-1 tvg-id="CCTV2" tvg-name="CCTV2" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/CCTV2.png" group-title="央视频道",CCTV2
-http://bztv.tvbus.cc:8081/cdnlive/cctv2.m3u8$V4【线路7】 【1280x720 3kbps】
+http://bztv.tvbus.cc:8081/cdnlive/cctv2.m3u8$V4【线路7】 【1280x720 2kbps】
 #EXTINF:-1 tvg-id="CCTV3" tvg-name="CCTV3" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/CCTV3.png" group-title="央视频道",CCTV3
-http://121.57.88.206:898/hls/3/index.m3u8$V4【线路1】 【1920x1080 11Mbps】
+http://74.91.26.218:82/live/cctv3hd.m3u8$V4【线路1】 【1280x720 20Mbps】
 #EXTINF:-1 tvg-id="CCTV3" tvg-name="CCTV3" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/CCTV3.png" group-title="央视频道",CCTV3
-http://107.150.60.122/live/cctv3hd.m3u8$V4【线路2】 【1920x1080 7kbps】
+http://107.150.60.122/live/cctv3hd.m3u8$V4【线路2】 【1920x1080 10kbps】
 #EXTINF:-1 tvg-id="CCTV3" tvg-name="CCTV3" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/CCTV3.png" group-title="央视频道",CCTV3
-http://69.30.245.50/live/cctv3.m3u8$V4【线路3】 【1920x1080 5kbps】
+http://69.30.245.50/live/cctv3.m3u8$V4【线路3】 【1920x1080 10kbps】
 #EXTINF:-1 tvg-id="CCTV3" tvg-name="CCTV3" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/CCTV3.png" group-title="央视频道",CCTV3
-http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv3hd$V4【线路4】 【1280x720 5kbps】
-#EXTINF:-1 tvg-id="CCTV3" tvg-name="CCTV3" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/CCTV3.png" group-title="央视频道",CCTV3
-http://74.91.26.218:82/live/cctv3hd.m3u8$V4【线路5】 【1280x720 1kbps】
+http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv3hd$V4【线路4】 【1280x720 1kbps】
 #EXTINF:-1 tvg-id="CCTV4" tvg-name="CCTV4" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/CCTV4.png" group-title="央视频道",CCTV4
-http://38.75.136.137:98/gslb/dsdqpub/cctv4k.m3u8?auth=testpub$V4【线路1】 【1920x1080 12kbps】
+http://74.91.26.218:82/live/cctv4hd.m3u8$V4【线路1】 【1280x720 11kbps】
 #EXTINF:-1 tvg-id="CCTV4" tvg-name="CCTV4" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/CCTV4.png" group-title="央视频道",CCTV4
-http://107.150.60.122/live/cctv4hd.m3u8$V4【线路2】 【1920x1080 7kbps】
+http://107.150.60.122/live/cctv4hd.m3u8$V4【线路2】 【1920x1080 10kbps】
 #EXTINF:-1 tvg-id="CCTV4" tvg-name="CCTV4" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/CCTV4.png" group-title="央视频道",CCTV4
-http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv4hd$V4【线路3】 【1920x1080 5kbps】
+http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv4k$V4【线路3】 【1920x1080 7kbps】
 #EXTINF:-1 tvg-id="CCTV4" tvg-name="CCTV4" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/CCTV4.png" group-title="央视频道",CCTV4
-http://173.208.212.130:8181/1080p/cctv4.m3u8$V4【线路4】 【1920x1080 1kbps】
+http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv4hd$V4【线路4】 【1280x720 7kbps】
 #EXTINF:-1 tvg-id="CCTV4" tvg-name="CCTV4" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/CCTV4.png" group-title="央视频道",CCTV4
-http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv4k$V4【线路5】 【1280x720 1kbps】
+http://173.208.212.130:8181/1080p/cctv4.m3u8$V4【线路5】 【1920x1080 1kbps】
 #EXTINF:-1 tvg-id="CCTV4" tvg-name="CCTV4" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/CCTV4.png" group-title="央视频道",CCTV4
-http://74.91.26.218:82/live/cctv4hd.m3u8$V4【线路6】 【1280x720 1kbps】
+http://38.75.136.137:98/gslb/dsdqpub/cctv4k.m3u8?auth=testpub$V4【线路6】 【1920x1080 1kbps】
 #EXTINF:-1 tvg-id="CCTV4" tvg-name="CCTV4" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/CCTV4.png" group-title="央视频道",CCTV4
-http://207.56.13.146:81/cdnlive/cctv4.m3u8$V4【线路7】 【1280x720 1kbps】
+http://207.56.13.146:81/cdnlive/cctv4.m3u8$V4【线路7】 【1280x720】
 #EXTINF:-1 tvg-id="CCTV5" tvg-name="CCTV5" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/CCTV5.png" group-title="央视频道",CCTV5
-http://38.75.136.137:98/gslb/dsdqpub/cctv5p.m3u8?auth=testpub$V4【线路1】 【1920x1080 12kbps】
+http://173.208.234.146/live/cctv5p.m3u8$V4【线路1】 【1920x1080 10kbps】
 #EXTINF:-1 tvg-id="CCTV5" tvg-name="CCTV5" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/CCTV5.png" group-title="央视频道",CCTV5
-http://38.75.136.137:98/gslb/dsdqbv/cctv5hd.m3u8?auth=test20251009$V4【线路2】 【1280x720 12kbps】
+http://107.150.60.122/live/cctv5hd.m3u8$V4【线路2】 【1920x1080 10kbps】
 #EXTINF:-1 tvg-id="CCTV5" tvg-name="CCTV5" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/CCTV5.png" group-title="央视频道",CCTV5
-http://107.150.60.122/live/cctv5hd.m3u8$V4【线路3】 【1280x720 7kbps】
+http://38.75.136.137:98/gslb/dsdqpub/cctv5p.m3u8?auth=testpub$V4【线路3】 【1920x1080 8kbps】
 #EXTINF:-1 tvg-id="CCTV5" tvg-name="CCTV5" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/CCTV5.png" group-title="央视频道",CCTV5
-http://173.208.234.146/live/cctv5p.m3u8$V4【线路4】 【1280x720 6kbps】
+http://38.75.136.137:98/gslb/dsdqbv/cctv5hd.m3u8?auth=test20251009$V4【线路4】 【1280x720 8kbps】
 #EXTINF:-1 tvg-id="CCTV5" tvg-name="CCTV5" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/CCTV5.png" group-title="央视频道",CCTV5
 http://173.208.212.130:8181/720p/cctv5.m3u8$V4【线路5】 【1920x1080 1kbps】
 #EXTINF:-1 tvg-id="CCTV5" tvg-name="CCTV5" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/CCTV5.png" group-title="央视频道",CCTV5
-http://207.56.13.146:81/cdnlive/cctv5.m3u8$V4【线路6】 【1280x720 1kbps】
+http://go.bkpcp.top/mg/cctv5$V4【线路6】 【1920x1080】
 #EXTINF:-1 tvg-id="CCTV5" tvg-name="CCTV5" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/CCTV5.png" group-title="央视频道",CCTV5
-http://go.bkpcp.top/mg/cctv5$V4【线路7】 【1920x1080】
+http://207.56.13.146:81/cdnlive/cctv5.m3u8$V4【线路7】 【1280x720】
 #EXTINF:-1 tvg-id="CCTV5+" tvg-name="CCTV5+" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/CCTV5+.png" group-title="央视频道",CCTV5+
-http://120.76.248.139/live/bfgd/4200000246.m3u8$V4【线路1】 【1920x1080@448kbps 16Mbps】
+http://120.76.248.139/live/bfgd/4200000246.m3u8$V4【线路1】 【1920x1080@448kbps 14Mbps】
 #EXTINF:-1 tvg-id="CCTV5+" tvg-name="CCTV5+" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/CCTV5+.png" group-title="央视频道",CCTV5+
-http://38.75.136.137:98/gslb/dsdqbv/cctv5p.m3u8?auth=test20251009$V4【线路2】 【1280x720 13kbps】
+http://38.75.136.137:98/gslb/dsdqbv/cctv5p.m3u8?auth=test20251009$V4【线路2】 【1280x720 8kbps】
+#EXTINF:-1 tvg-id="CCTV5+" tvg-name="CCTV5+" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/CCTV5+.png" group-title="央视频道",CCTV5+
+http://go.bkpcp.top/mg/cctv5p$V4【线路3】 【1920x1080】
 #EXTINF:-1 tvg-id="CCTV6" tvg-name="CCTV6" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/CCTV6.png" group-title="央视频道",CCTV6
-http://74.91.26.218:82/live/cctv6hd.m3u8$V4【线路1】 【1920x1080 8kbps】
+http://69.30.245.50/live/cctv6.m3u8$V4【线路1】 【1280x720 11kbps】
 #EXTINF:-1 tvg-id="CCTV6" tvg-name="CCTV6" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/CCTV6.png" group-title="央视频道",CCTV6
-http://69.30.245.50/live/cctv6.m3u8$V4【线路2】 【1280x720 8kbps】
+http://198.204.228.26/live/cctv6hd.m3u8$V4【线路2】 【1280x720 11kbps】
 #EXTINF:-1 tvg-id="CCTV6" tvg-name="CCTV6" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/CCTV6.png" group-title="央视频道",CCTV6
-http://198.204.228.26/live/cctv6hd.m3u8$V4【线路3】 【1280x720 8kbps】
+http://74.91.26.218:82/live/cctv6hd.m3u8$V4【线路3】 【1920x1080 10kbps】
 #EXTINF:-1 tvg-id="CCTV6" tvg-name="CCTV6" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/CCTV6.png" group-title="央视频道",CCTV6
-http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv6hd$V4【线路4】 【1920x1080 5kbps】
+http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv6hd$V4【线路4】 【1920x1080 7kbps】
 #EXTINF:-1 tvg-id="CCTV6" tvg-name="CCTV6" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/CCTV6.png" group-title="央视频道",CCTV6
-http://198.204.240.250:82/live/cctv6.m3u8$V4【线路5】 【1280x720 5kbps】
+http://198.204.240.250:82/live/cctv6.m3u8$V4【线路5】 【1280x720 7kbps】
 #EXTINF:-1 tvg-id="CCTV7" tvg-name="CCTV7" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/CCTV7.png" group-title="央视频道",CCTV7
-http://69.30.245.50/live/cctv7.m3u8$V4【线路1】 【1920x1080 7kbps】
+http://112.46.85.60:8009/hls/504/index.m3u8$V4【线路1】 【1920x1080@256kbps 606kbps】
 #EXTINF:-1 tvg-id="CCTV7" tvg-name="CCTV7" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/CCTV7.png" group-title="央视频道",CCTV7
-http://107.150.60.122/live/cctv7hd.m3u8$V4【线路2】 【1920x1080 7kbps】
+http://74.91.26.218:82/live/cctv7hd.m3u8$V4【线路2】 【1280x720 11kbps】
 #EXTINF:-1 tvg-id="CCTV7" tvg-name="CCTV7" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/CCTV7.png" group-title="央视频道",CCTV7
-http://74.91.26.218:82/live/cctv7hd.m3u8$V4【线路3】 【1280x720 7kbps】
+http://107.150.60.122/live/cctv7hd.m3u8$V4【线路3】 【1920x1080 10kbps】
 #EXTINF:-1 tvg-id="CCTV7" tvg-name="CCTV7" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/CCTV7.png" group-title="央视频道",CCTV7
-http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv7hd$V4【线路4】 【1280x720 5kbps】
+http://38.75.136.137:98/gslb/dsdqbv/cctv7hd.m3u8?auth=test20251009$V4【线路4】 【1280x720 8kbps】
 #EXTINF:-1 tvg-id="CCTV7" tvg-name="CCTV7" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/CCTV7.png" group-title="央视频道",CCTV7
-http://38.75.136.137:98/gslb/dsdqbv/cctv7hd.m3u8?auth=test20251009$V4【线路5】 【1280x720 1kbps】
+http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv7hd$V4【线路5】 【1280x720 7kbps】
 #EXTINF:-1 tvg-id="CCTV7" tvg-name="CCTV7" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/CCTV7.png" group-title="央视频道",CCTV7
-http://207.56.13.146:81/cdnlive/cctv7.m3u8$V4【线路6】 【1280x720 1kbps】
+http://69.30.245.50/live/cctv7.m3u8$V4【线路6】 【1920x1080 1kbps】
 #EXTINF:-1 tvg-id="CCTV7" tvg-name="CCTV7" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/CCTV7.png" group-title="央视频道",CCTV7
-http://112.46.85.60:8009/hls/504/index.m3u8$V4【线路7】 【1920x1080 256kbps】
+http://207.56.13.146:81/cdnlive/cctv7.m3u8$V4【线路7】 【1280x720】
 #EXTINF:-1 tvg-id="CCTV8" tvg-name="CCTV8" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/CCTV8.png" group-title="央视频道",CCTV8
-http://69.30.245.50/live/cctv8.m3u8$V4【线路1】 【1280x720 8kbps】
+http://69.30.245.50/live/cctv8.m3u8$V4【线路1】 【1280x720 11kbps】
 #EXTINF:-1 tvg-id="CCTV8" tvg-name="CCTV8" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/CCTV8.png" group-title="央视频道",CCTV8
-http://74.91.26.218:82/live/cctv8hd.m3u8$V4【线路2】 【1280x720 8kbps】
+http://74.91.26.218:82/live/cctv8hd.m3u8$V4【线路2】 【1280x720 11kbps】
 #EXTINF:-1 tvg-id="CCTV8" tvg-name="CCTV8" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/CCTV8.png" group-title="央视频道",CCTV8
-http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv8hd$V4【线路3】 【1280x720 5kbps】
+http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv8k$V4【线路3】 【1920x1080 7kbps】
 #EXTINF:-1 tvg-id="CCTV8" tvg-name="CCTV8" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/CCTV8.png" group-title="央视频道",CCTV8
-http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv8k$V4【线路4】 【1280x720 5kbps】
+http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv8hd$V4【线路4】 【1280x720 7kbps】
 #EXTINF:-1 tvg-id="CCTV8" tvg-name="CCTV8" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/CCTV8.png" group-title="央视频道",CCTV8
-http://bztv.tvbus.cc:8081/cdnlive/cctv8.m3u8$V4【线路5】 【1280x720 3kbps】
+http://bztv.tvbus.cc:8081/cdnlive/cctv8.m3u8$V4【线路5】 【1280x720 2kbps】
 #EXTINF:-1 tvg-id="CCTV8" tvg-name="CCTV8" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/CCTV8.png" group-title="央视频道",CCTV8
 http://173.208.212.130:8181/720p/cctv8.m3u8$V4【线路6】 【1280x720 1kbps】
 #EXTINF:-1 tvg-id="CCTV8" tvg-name="CCTV8" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/CCTV8.png" group-title="央视频道",CCTV8
 http://207.56.13.146:81/cdnlive/cctv8.m3u8$V4【线路7】 【1280x720 1kbps】
 #EXTINF:-1 tvg-id="CCTV9" tvg-name="CCTV9" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/CCTV9.png" group-title="央视频道",CCTV9
-http://74.91.26.218:82/live/cctv9hd.m3u8$V4【线路1】 【1280x720 36Mbps】
+http://74.91.26.218:82/live/cctv9hd.m3u8$V4【线路1】 【1280x720 34Mbps】
 #EXTINF:-1 tvg-id="CCTV9" tvg-name="CCTV9" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/CCTV9.png" group-title="央视频道",CCTV9
-http://198.204.228.26/live/cctv9hd.m3u8$V4【线路2】 【1920x1080 7kbps】
+http://198.204.228.26/live/cctv9hd.m3u8$V4【线路2】 【1920x1080 10kbps】
 #EXTINF:-1 tvg-id="CCTV9" tvg-name="CCTV9" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/CCTV9.png" group-title="央视频道",CCTV9
-http://107.150.60.122/live/cctv9hd.m3u8$V4【线路3】 【1920x1080 7kbps】
+http://107.150.60.122/live/cctv9hd.m3u8$V4【线路3】 【1920x1080 10kbps】
 #EXTINF:-1 tvg-id="CCTV9" tvg-name="CCTV9" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/CCTV9.png" group-title="央视频道",CCTV9
-http://192.151.150.154/live/cctv9hd.m3u8$V4【线路4】 【1280x720 7kbps】
+http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv9hd$V4【线路4】 【1920x1080 7kbps】
 #EXTINF:-1 tvg-id="CCTV9" tvg-name="CCTV9" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/CCTV9.png" group-title="央视频道",CCTV9
-http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv9hd$V4【线路5】 【1280x720 5kbps】
+http://192.151.150.154/live/cctv9hd.m3u8$V4【线路5】 【1280x720 1kbps】
 #EXTINF:-1 tvg-id="CCTV9" tvg-name="CCTV9" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/CCTV9.png" group-title="央视频道",CCTV9
-http://183.11.239.36:808/hls/27/index.m3u8$V4【线路6】 【720x576@96kbps 4kbps】
+http://183.11.239.36:808/hls/27/index.m3u8$V4【线路6】 【720x576 96kbps】
 #EXTINF:-1 tvg-id="CCTV10" tvg-name="CCTV10" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/CCTV10.png" group-title="央视频道",CCTV10
-http://38.75.136.137:98/gslb/dsdqbv/cctv10hd.m3u8?auth=test20251009$V4【线路1】 【1280x720 13kbps】
+http://69.30.245.50/live/cctv10.m3u8$V4【线路1】 【1920x1080 11kbps】
 #EXTINF:-1 tvg-id="CCTV10" tvg-name="CCTV10" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/CCTV10.png" group-title="央视频道",CCTV10
-http://69.30.245.50/live/cctv10.m3u8$V4【线路2】 【1920x1080 7kbps】
+http://74.91.26.218:82/live/cctv10hd.m3u8$V4【线路2】 【1280x720 11kbps】
 #EXTINF:-1 tvg-id="CCTV10" tvg-name="CCTV10" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/CCTV10.png" group-title="央视频道",CCTV10
-http://74.91.26.218:82/live/cctv10hd.m3u8$V4【线路3】 【1280x720 7kbps】
+http://204.12.221.218:8181/3m1080p/cctv10.m3u8$V4【线路3】 【1920x1080 10kbps】
 #EXTINF:-1 tvg-id="CCTV10" tvg-name="CCTV10" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/CCTV10.png" group-title="央视频道",CCTV10
-http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv10hd$V4【线路4】 【1280x720 5kbps】
+http://38.75.136.137:98/gslb/dsdqbv/cctv10hd.m3u8?auth=test20251009$V4【线路4】 【1280x720 8kbps】
 #EXTINF:-1 tvg-id="CCTV10" tvg-name="CCTV10" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/CCTV10.png" group-title="央视频道",CCTV10
-http://204.12.221.218:8181/3m1080p/cctv10.m3u8$V4【线路5】 【1920x1080 2kbps】
+http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv10hd$V4【线路5】 【1280x720 7kbps】
 #EXTINF:-1 tvg-id="CCTV10" tvg-name="CCTV10" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/CCTV10.png" group-title="央视频道",CCTV10
 http://bztv.tvbus.cc:8081/cdnlive/cctv10.m3u8$V4【线路6】 【1920x1080 2kbps】
-#EXTINF:-1 tvg-id="CCTV10" tvg-name="CCTV10" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/CCTV10.png" group-title="央视频道",CCTV10
-http://183.11.239.36:808/hls/28/index.m3u8$V4【线路7】 【720x576 96kbps】
 #EXTINF:-1 tvg-id="CCTV11" tvg-name="CCTV11" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/CCTV11.png" group-title="央视频道",CCTV11
-http://38.75.136.137:98/gslb/dsdqbv/cctv11hd.m3u8?auth=test20251009$V4【线路1】 【1280x720 13kbps】
+http://198.204.228.26/live/cctv11hd.m3u8$V4【线路1】 【1920x1080 11kbps】
 #EXTINF:-1 tvg-id="CCTV11" tvg-name="CCTV11" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/CCTV11.png" group-title="央视频道",CCTV11
-http://38.75.136.137:98/gslb/dsdqpub/cctv11hd.m3u8?auth=testpub$V4【线路2】 【1920x1080 12kbps】
+http://74.91.26.218:82/live/cctv11hd.m3u8$V4【线路2】 【1280x720 11kbps】
 #EXTINF:-1 tvg-id="CCTV11" tvg-name="CCTV11" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/CCTV11.png" group-title="央视频道",CCTV11
-http://74.91.26.218:82/live/cctv11hd.m3u8$V4【线路3】 【1280x720 8kbps】
+http://204.12.221.218:8181/3m1080p/cctv11.m3u8$V4【线路3】 【1920x1080 10kbps】
 #EXTINF:-1 tvg-id="CCTV11" tvg-name="CCTV11" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/CCTV11.png" group-title="央视频道",CCTV11
-http://198.204.228.26/live/cctv11hd.m3u8$V4【线路4】 【1920x1080 7kbps】
+http://38.75.136.137:98/gslb/dsdqpub/cctv11hd.m3u8?auth=testpub$V4【线路4】 【1920x1080 8kbps】
 #EXTINF:-1 tvg-id="CCTV11" tvg-name="CCTV11" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/CCTV11.png" group-title="央视频道",CCTV11
-http://204.12.221.218:8181/3m1080p/cctv11.m3u8$V4【线路5】 【1920x1080 7kbps】
+http://38.75.136.137:98/gslb/dsdqbv/cctv11hd.m3u8?auth=test20251009$V4【线路5】 【1280x720 8kbps】
 #EXTINF:-1 tvg-id="CCTV11" tvg-name="CCTV11" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/CCTV11.png" group-title="央视频道",CCTV11
-http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv11hd$V4【线路6】 【1280x720 5kbps】
+http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv11hd$V4【线路6】 【1280x720 7kbps】
 #EXTINF:-1 tvg-id="CCTV12" tvg-name="CCTV12" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/CCTV12.png" group-title="央视频道",CCTV12
-http://74.91.26.218:82/live/cctv12hd.m3u8$V4【线路1】 【1280x720 11Mbps】
+http://74.91.26.218:82/live/cctv12hd.m3u8$V4【线路1】 【1280x720 13Mbps】
 #EXTINF:-1 tvg-id="CCTV12" tvg-name="CCTV12" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/CCTV12.png" group-title="央视频道",CCTV12
-http://222.223.41.27:8888/hls/12/index.m3u8$V4【线路2】 【1920x1080@256kbps 4Mbps】
+http://204.12.221.218:8181/3m1080p/cctv12.m3u8$V4【线路2】 【1920x1080 11kbps】
 #EXTINF:-1 tvg-id="CCTV12" tvg-name="CCTV12" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/CCTV12.png" group-title="央视频道",CCTV12
-http://38.75.136.137:98/gslb/dsdqbv/cctv12hd.m3u8?auth=test20251009$V4【线路3】 【1280x720 13kbps】
+http://107.150.60.122/live/cctv12hd.m3u8$V4【线路3】 【1280x720 11kbps】
 #EXTINF:-1 tvg-id="CCTV12" tvg-name="CCTV12" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/CCTV12.png" group-title="央视频道",CCTV12
-http://38.75.136.137:98/gslb/dsdqpub/cctv12hd.m3u8?auth=testpub$V4【线路4】 【1920x1080 12kbps】
+http://38.75.136.137:98/gslb/dsdqpub/cctv12hd.m3u8?auth=testpub$V4【线路4】 【1920x1080 8kbps】
 #EXTINF:-1 tvg-id="CCTV12" tvg-name="CCTV12" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/CCTV12.png" group-title="央视频道",CCTV12
-http://107.150.60.122/live/cctv12hd.m3u8$V4【线路5】 【1280x720 8kbps】
+http://38.75.136.137:98/gslb/dsdqbv/cctv12hd.m3u8?auth=test20251009$V4【线路5】 【1280x720 8kbps】
 #EXTINF:-1 tvg-id="CCTV12" tvg-name="CCTV12" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/CCTV12.png" group-title="央视频道",CCTV12
-http://204.12.221.218:8181/3m1080p/cctv12.m3u8$V4【线路6】 【1920x1080 7kbps】
-#EXTINF:-1 tvg-id="CCTV12" tvg-name="CCTV12" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/CCTV12.png" group-title="央视频道",CCTV12
-http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv12hd$V4【线路7】 【1920x1080 5kbps】
+http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv12hd$V4【线路6】 【1280x720 7kbps】
 #EXTINF:-1 tvg-id="CCTV13" tvg-name="CCTV13" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/CCTV13.png" group-title="央视频道",CCTV13
-http://120.76.248.139/live/bfgd/4200000067.m3u8$V4【线路1】 【1920x1080@448kbps 16Mbps】
+http://120.76.248.139/live/bfgd/4200000067.m3u8$V4【线路1】 【1920x1080@448kbps 13Mbps】
 #EXTINF:-1 tvg-id="CCTV13" tvg-name="CCTV13" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/CCTV13.png" group-title="央视频道",CCTV13
-http://ali-m-l.cztv.com/channels/lantian/channel21/1080p.m3u8$V4【线路2】 【1920x1080 8Mbps】
+http://74.91.26.218:82/live/cctv13hd.m3u8$V4【线路2】 【1280x720 11kbps】
 #EXTINF:-1 tvg-id="CCTV13" tvg-name="CCTV13" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/CCTV13.png" group-title="央视频道",CCTV13
-http://38.75.136.137:98/gslb/dsdqbv/cctv13hd.m3u8?auth=test20251009$V4【线路3】 【1280x720 13kbps】
+http://38.75.136.137:98/gslb/dsdqbv/cctv13hd.m3u8?auth=test20251009$V4【线路3】 【1280x720 8kbps】
 #EXTINF:-1 tvg-id="CCTV13" tvg-name="CCTV13" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/CCTV13.png" group-title="央视频道",CCTV13
-http://74.91.26.218:82/live/cctv13hd.m3u8$V4【线路4】 【1280x720 7kbps】
+http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv13hd$V4【线路4】 【1920x1080 7kbps】
 #EXTINF:-1 tvg-id="CCTV13" tvg-name="CCTV13" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/CCTV13.png" group-title="央视频道",CCTV13
-http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv13hd$V4【线路5】 【1280x720 5kbps】
+http://bztv.tvbus.cc:8081/cdnlive/cctv13.m3u8$V4【线路5】 【1280x720 1kbps】
 #EXTINF:-1 tvg-id="CCTV13" tvg-name="CCTV13" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/CCTV13.png" group-title="央视频道",CCTV13
-http://bztv.tvbus.cc:8081/cdnlive/cctv13.m3u8$V4【线路6】 【1920x1080 2kbps】
-#EXTINF:-1 tvg-id="CCTV13" tvg-name="CCTV13" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/CCTV13.png" group-title="央视频道",CCTV13
-http://go.bkpcp.top/mg/cctv13$V4【线路7】 【1920x1080 3599kbps】
-#EXTINF:-1 tvg-id="CCTV13" tvg-name="CCTV13" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/CCTV13.png" group-title="央视频道",CCTV13
-https://event.pull.hebtv.com/jishi/cp1.m3u8$V4【线路8】 【1920x1080】
+http://go.bkpcp.top/mg/cctv13$V4【线路6】 【1920x1080 3599kbps】
 #EXTINF:-1 tvg-id="CCTV14" tvg-name="CCTV14" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/CCTV14.png" group-title="央视频道",CCTV14
-http://38.75.136.137:98/gslb/dsdqbv/cctv14hd.m3u8?auth=test20251009$V4【线路1】 【1280x720 13kbps】
+http://204.12.221.218:8181/3m1080p/cctv14.m3u8$V4【线路1】 【1280x720 11kbps】
 #EXTINF:-1 tvg-id="CCTV14" tvg-name="CCTV14" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/CCTV14.png" group-title="央视频道",CCTV14
-http://74.91.26.218:82/live/cctv14hd.m3u8$V4【线路2】 【1280x720 7kbps】
+http://198.204.228.26/live/cctv14hd.m3u8$V4【线路2】 【1280x720 11kbps】
 #EXTINF:-1 tvg-id="CCTV14" tvg-name="CCTV14" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/CCTV14.png" group-title="央视频道",CCTV14
-http://204.12.221.218:8181/3m1080p/cctv14.m3u8$V4【线路3】 【1280x720 7kbps】
+http://74.91.26.218:82/live/cctv14hd.m3u8$V4【线路3】 【1920x1080 10kbps】
 #EXTINF:-1 tvg-id="CCTV14" tvg-name="CCTV14" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/CCTV14.png" group-title="央视频道",CCTV14
-http://198.204.228.26/live/cctv14hd.m3u8$V4【线路4】 【1280x720 7kbps】
+http://38.75.136.137:98/gslb/dsdqbv/cctv14hd.m3u8?auth=test20251009$V4【线路4】 【1280x720 8kbps】
 #EXTINF:-1 tvg-id="CCTV14" tvg-name="CCTV14" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/CCTV14.png" group-title="央视频道",CCTV14
-http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv14hd$V4【线路5】 【1920x1080 5kbps】
+http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv14hd$V4【线路5】 【1920x1080 7kbps】
 #EXTINF:-1 tvg-id="CCTV15" tvg-name="CCTV15" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/CCTV15.png" group-title="央视频道",CCTV15
-http://38.75.136.137:98/gslb/dsdqbv/cctv15hd.m3u8?auth=test20251009$V4【线路1】 【1280x720 13kbps】
+http://198.204.228.26/live/cctv15hd.m3u8$V4【线路1】 【1280x720 11kbps】
 #EXTINF:-1 tvg-id="CCTV15" tvg-name="CCTV15" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/CCTV15.png" group-title="央视频道",CCTV15
-http://74.91.26.218:82/live/cctv15hd.m3u8$V4【线路2】 【1280x720 8kbps】
+http://74.91.26.218:82/live/cctv15hd.m3u8$V4【线路2】 【1920x1080 10kbps】
 #EXTINF:-1 tvg-id="CCTV15" tvg-name="CCTV15" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/CCTV15.png" group-title="央视频道",CCTV15
-http://198.204.228.26/live/cctv15hd.m3u8$V4【线路3】 【1280x720 7kbps】
+http://204.12.221.218:8181/3m1080p/cctv15.m3u8$V4【线路3】 【1280x720 10kbps】
 #EXTINF:-1 tvg-id="CCTV15" tvg-name="CCTV15" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/CCTV15.png" group-title="央视频道",CCTV15
-http://204.12.221.218:8181/3m1080p/cctv15.m3u8$V4【线路4】 【1280x720 7kbps】
+http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv15hd$V4【线路4】 【1920x1080 7kbps】
 #EXTINF:-1 tvg-id="CCTV15" tvg-name="CCTV15" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/CCTV15.png" group-title="央视频道",CCTV15
-http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv15hd$V4【线路5】 【1920x1080 5kbps】
+http://38.75.136.137:98/gslb/dsdqbv/cctv15hd.m3u8?auth=test20251009$V4【线路5】 【1280x720 1kbps】
 #EXTINF:-1 tvg-id="CCTV16" tvg-name="CCTV16" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/CCTV16.png" group-title="央视频道",CCTV16
-http://38.75.136.137:98/gslb/dsdqbv/cctv16hd.m3u8?auth=test20251009$V4【线路1】 【1280x720 13kbps】
+http://173.208.234.146/live/cctv16.m3u8$V4【线路1】 【1920x1080 10kbps】
 #EXTINF:-1 tvg-id="CCTV16" tvg-name="CCTV16" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/CCTV16.png" group-title="央视频道",CCTV16
-http://38.75.136.137:98/gslb/dsdqpub/cctv16hd.m3u8?auth=testpub$V4【线路2】 【1920x1080 12kbps】
+http://38.75.136.137:98/gslb/dsdqpub/cctv16hd.m3u8?auth=testpub$V4【线路2】 【1920x1080 8kbps】
 #EXTINF:-1 tvg-id="CCTV16" tvg-name="CCTV16" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/CCTV16.png" group-title="央视频道",CCTV16
-http://173.208.234.146/live/cctv16.m3u8$V4【线路3】 【1920x1080 7kbps】
+http://38.75.136.137:98/gslb/dsdqbv/cctv16hd.m3u8?auth=test20251009$V4【线路3】 【1280x720 8kbps】
 #EXTINF:-1 tvg-id="CCTV16" tvg-name="CCTV16" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/CCTV16.png" group-title="央视频道",CCTV16
-http://207.56.13.146:81/cdnlive/cctv16.m3u8$V4【线路4】 【1280x720 1kbps】
+http://go.bkpcp.top/mg/cctv16$V4【线路4】 【1920x1080】
 #EXTINF:-1 tvg-id="CCTV16" tvg-name="CCTV16" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/CCTV16.png" group-title="央视频道",CCTV16
-http://go.bkpcp.top/mg/cctv16$V4【线路5】 【1920x1080】
+http://207.56.13.146:81/cdnlive/cctv16.m3u8$V4【线路5】 【1280x720】
 #EXTINF:-1 tvg-id="CCTV17" tvg-name="CCTV17" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/CCTV17.png" group-title="央视频道",CCTV17
-http://74.91.26.218:82/live/cctv17hd.m3u8$V4【线路1】 【1920x1080 7kbps】
+http://74.91.26.218:82/live/cctv17hd.m3u8$V4【线路1】 【1920x1080 11kbps】
 #EXTINF:-1 tvg-id="CCTV17" tvg-name="CCTV17" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/CCTV17.png" group-title="央视频道",CCTV17
-http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv17hd$V4【线路2】 【1280x720 5kbps】
+http://38.75.136.137:98/gslb/dsdqbv/cctv17hd.m3u8?auth=test20251009$V4【线路2】 【1280x720 8kbps】
 #EXTINF:-1 tvg-id="CCTV17" tvg-name="CCTV17" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/CCTV17.png" group-title="央视频道",CCTV17
-http://38.75.136.137:98/gslb/dsdqbv/cctv17hd.m3u8?auth=test20251009$V4【线路3】 【1280x720】
+http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv17hd$V4【线路3】 【1920x1080 7kbps】
 #EXTINF:-1 tvg-id="CETV1" tvg-name="CETV1" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/CETV1.png" group-title="央视频道",CETV1
-https://h5cul1yar48um3t.wcetv.com/hls/wcetv318.m3u8$V4【线路1】 【1920x1080 36Mbps】
+https://h5cul1yar48um3t.wcetv.com/hls/wcetv318.m3u8$V4【线路1】 【1920x1080 11Mbps】
 #EXTINF:-1 tvg-id="CETV1" tvg-name="CETV1" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/CETV1.png" group-title="央视频道",CETV1
-http://120.76.248.139/live/bfgd/4200000135.m3u8$V4【线路2】 【1920x1080 8Mbps】
+http://120.76.248.139/live/bfgd/4200000135.m3u8$V4【线路2】 【1920x1080 6Mbps】
 #EXTINF:-1 tvg-id="CETV1" tvg-name="CETV1" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/CETV1.png" group-title="央视频道",CETV1
-http://38.75.136.137:98/gslb/dsdqpub/cetv1hd.m3u8?auth=testpub$V4【线路3】 【1920x1080 12kbps】
+http://198.204.228.26/live/cetv1hd.m3u8$V4【线路3】 【1920x1080 10kbps】
 #EXTINF:-1 tvg-id="CETV1" tvg-name="CETV1" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/CETV1.png" group-title="央视频道",CETV1
-http://198.204.228.26/live/cetv1hd.m3u8$V4【线路4】 【1280x720 7kbps】
+http://38.75.136.137:98/gslb/dsdqpub/cetv1hd.m3u8?auth=testpub$V4【线路4】 【1920x1080 8kbps】
 #EXTINF:-1 tvg-id="CETV1" tvg-name="CETV1" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/CETV1.png" group-title="央视频道",CETV1
-http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cetv1hd$V4【线路5】 【1280x720 5kbps】
-#EXTINF:-1 tvg-id="CETV1" tvg-name="CETV1" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/CETV1.png" group-title="央视频道",CETV1
-https://m1b2.worldcast.tv/dancetelevisiontwo/dancetelevisiontwo.m3u8$V4【线路6】 【1920x1080】
+http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cetv1hd$V4【线路5】 【1920x1080 7kbps】
 #EXTINF:-1 tvg-id="CETV3" tvg-name="CETV3" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/CETV3.png" group-title="央视频道",CETV3
-http://198.204.228.26/live/cetv3.m3u8$V4【线路1】 【720x576 7kbps】
+http://198.204.228.26/live/cetv3.m3u8$V4【线路1】 【720x576 11kbps】
 #EXTINF:-1 tvg-id="CETV3" tvg-name="CETV3" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/CETV3.png" group-title="央视频道",CETV3
-http://107.150.60.122/live/cetv3.m3u8$V4【线路2】 【720x576 7kbps】
+http://107.150.60.122/live/cetv3.m3u8$V4【线路2】 【720x576 10kbps】
 #EXTINF:-1 tvg-id="广东珠江" tvg-name="广东珠江" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/广东珠江.png" group-title="广东频道",广东珠江
-http://38.75.136.137:98/gslb/dsdqpub/gdzj.m3u8?auth=testpub$V4【线路1】 【1920x1080 12kbps】
+http://173.208.234.146/live/gdzj.m3u8$V4【线路1】 【1920x1080 10kbps】
 #EXTINF:-1 tvg-id="广东珠江" tvg-name="广东珠江" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/广东珠江.png" group-title="广东频道",广东珠江
-http://38.75.136.137:98/gslb/dsdqpub/gdzja.m3u8?auth=testpub$V4【线路2】 【1280x720 12kbps】
+http://74.91.26.218:82/live/gdzj.m3u8$V4【线路2】 【1920x1080 10kbps】
 #EXTINF:-1 tvg-id="广东珠江" tvg-name="广东珠江" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/广东珠江.png" group-title="广东频道",广东珠江
-http://173.208.234.146/live/gdzj.m3u8$V4【线路3】 【1920x1080 7kbps】
+http://38.75.136.137:98/gslb/dsdqpub/gdzja.m3u8?auth=testpub$V4【线路3】 【1280x720 8kbps】
 #EXTINF:-1 tvg-id="广东珠江" tvg-name="广东珠江" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/广东珠江.png" group-title="广东频道",广东珠江
-http://74.91.26.218:82/live/gdzj.m3u8$V4【线路4】 【1920x1080 7kbps】
+http://38.75.136.137:98/gslb/dsdqpub/gdzj.m3u8?auth=testpub$V4【线路4】 【1920x1080 7kbps】
 #EXTINF:-1 tvg-id="广东珠江" tvg-name="广东珠江" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/广东珠江.png" group-title="广东频道",广东珠江
-http://63.141.230.178:82/gslb/zbdq5.m3u8?id=gdzj$V4【线路5】 【1920x1080 5kbps】
+http://63.141.230.178:82/gslb/zbdq5.m3u8?id=gdzj$V4【线路5】 【1920x1080 6kbps】
 #EXTINF:-1 tvg-id="广东珠江" tvg-name="广东珠江" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/广东珠江.png" group-title="广东频道",广东珠江
 http://r.jdshipin.com/sE5vO$V4【线路6】 【1920x1080 256kbps】
 #EXTINF:-1 tvg-id="广东体育" tvg-name="广东体育" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/广东体育.png" group-title="广东频道",广东体育
-http://r.jdshipin.com/LiYdg$V4【线路1】 【720x576 96kbps】
+http://173.208.234.146/live/gdty.m3u8$V4【线路1】 【1280x720 11kbps】
 #EXTINF:-1 tvg-id="广东体育" tvg-name="广东体育" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/广东体育.png" group-title="广东频道",广东体育
-http://php.jdshipin.com/PLTV/iptv.php?id=gdty$V4【线路2】 【720x576 96kbps】
+http://38.75.136.137:98/gslb/dsdqpub/gdty.m3u8?auth=testpub$V4【线路2】 【1280x720 8kbps】
 #EXTINF:-1 tvg-id="广东体育" tvg-name="广东体育" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/广东体育.png" group-title="广东频道",广东体育
-http://php.jdshipin.com/TVOD/iptv.php?id=gdty$V4【线路3】 【720x576 96kbps】
+http://63.141.230.178:82/gslb/zbdq5.m3u8?id=gdty$V4【线路3】 【1280x720 7kbps】
+#EXTINF:-1 tvg-id="广东体育" tvg-name="广东体育" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/广东体育.png" group-title="广东频道",广东体育
+http://r.jdshipin.com/LiYdg$V4【线路4】 【720x576 96kbps】
+#EXTINF:-1 tvg-id="广东体育" tvg-name="广东体育" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/广东体育.png" group-title="广东频道",广东体育
+http://php.jdshipin.com/PLTV/iptv.php?id=gdty$V4【线路5】 【720x576 96kbps】
+#EXTINF:-1 tvg-id="广东体育" tvg-name="广东体育" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/广东体育.png" group-title="广东频道",广东体育
+http://php.jdshipin.com/TVOD/iptv.php?id=gdty$V4【线路6】 【720x576 96kbps】
 #EXTINF:-1 tvg-id="广东民生" tvg-name="广东民生" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/广东民生.png" group-title="广东频道",广东民生
-http://38.75.136.137:98/gslb/dsdqpub/gdgg.m3u8?auth=testpub$LR—IPV4 【1280x720 12kbps】
+http://38.75.136.137:98/gslb/dsdqpub/gdgg.m3u8?auth=testpub$V4 【1280x720 7kbps】
 #EXTINF:-1 tvg-id="大湾区卫视" tvg-name="大湾区卫视" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/大湾区卫视.png" group-title="广东频道",大湾区卫视
-http://38.75.136.137:98/gslb/dsdqpub/nfws.m3u8?auth=testpub$V4【线路1】 【1920x1080 12kbps】
+http://107.150.60.122/live/nfws.m3u8$V4【线路1】 【1920x1080 10kbps】
 #EXTINF:-1 tvg-id="大湾区卫视" tvg-name="大湾区卫视" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/大湾区卫视.png" group-title="广东频道",大湾区卫视
-http://107.150.60.122/live/nfws.m3u8$V4【线路2】 【1920x1080 7kbps】
+http://198.204.228.26/live/nfws.m3u8$V4【线路2】 【1280x720 10kbps】
 #EXTINF:-1 tvg-id="大湾区卫视" tvg-name="大湾区卫视" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/大湾区卫视.png" group-title="广东频道",大湾区卫视
-http://198.204.228.26/live/nfws.m3u8$V4【线路3】 【1920x1080 7kbps】
+http://38.75.136.137:98/gslb/dsdqpub/nfws.m3u8?auth=testpub$V4【线路3】 【1280x720 8kbps】
 #EXTINF:-1 tvg-id="大湾区卫视" tvg-name="大湾区卫视" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/大湾区卫视.png" group-title="广东频道",大湾区卫视
-http://63.141.230.178:82/gslb/zbdq5.m3u8?id=nfws$V4【线路4】 【1920x1080 5kbps】
+http://63.141.230.178:82/gslb/zbdq5.m3u8?id=nfws$V4【线路4】 【1920x1080 1kbps】
 #EXTINF:-1 tvg-id="大湾区卫视" tvg-name="大湾区卫视" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/大湾区卫视.png" group-title="广东频道",大湾区卫视
 http://222.128.55.152:9080/live/dwq.m3u8$V4【线路5】 【1920x1080】
 #EXTINF:-1 tvg-id="广州综合" tvg-name="广州综合" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/广州综合.png" group-title="广东频道",广州综合
-http://tencentplay.gztv.com/live/zonghes.m3u8?txSecret=c8dbe86d6f86eb1a21999ab479fd5667&txTime=18d3c4690e8$V4【线路1】 【1280x720 4Mbps】
+http://tencentplay.gztv.com/live/zonghes.m3u8?txSecret=c8dbe86d6f86eb1a21999ab479fd5667&txTime=18d3c4690e8$V4【线路1】 【1280x720 1Mbps】
 #EXTINF:-1 tvg-id="广州综合" tvg-name="广州综合" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/广州综合.png" group-title="广东频道",广州综合
-https://tencentplaybusiness.gztv.com/live/zonghes.m3u8$V4【线路2】 【1280x720 2Mbps】
+https://tencentplay.gztv.com/live/zonghes.m3u8?txSecret=f0147ae6453a80f5989f382368b72aad&txTime=18d00acf487$V4【线路2】 【1280x720 1Mbps】
 #EXTINF:-1 tvg-id="广州综合" tvg-name="广州综合" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/广州综合.png" group-title="广东频道",广州综合
-https://tencentplay.gztv.com/live/zonghes.m3u8?txSecret=f0147ae6453a80f5989f382368b72aad&txTime=18d00acf487$V4【线路3】 【1280x720 2Mbps】
+http://r.jdshipin.com/iR6Gq$V4【线路3】 【1280x720】
 #EXTINF:-1 tvg-id="广州综合" tvg-name="广州综合" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/广州综合.png" group-title="广东频道",广州综合
-http://r.jdshipin.com/iR6Gq$V4【线路4】 【1280x720】
+http://r.jdshipin.com/snhya$V4【线路4】 【1280x720】
+#EXTINF:-1 tvg-id="广州综合" tvg-name="广州综合" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/广州综合.png" group-title="广东频道",广州综合
+https://tencentplaybusiness.gztv.com/live/zonghes.m3u8$V4【线路5】 【1280x720】
 #EXTINF:-1 tvg-id="深圳卫视" tvg-name="深圳卫视" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/深圳卫视.png" group-title="广东频道",深圳卫视
-http://120.76.248.139/live/bfgd/4200000100.m3u8$V4【线路1】 【1920x1080@448kbps 16Mbps】
+http://120.76.248.139/live/bfgd/4200000100.m3u8$V4【线路1】 【1920x1080@448kbps 13Mbps】
 #EXTINF:-1 tvg-id="深圳卫视" tvg-name="深圳卫视" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/深圳卫视.png" group-title="广东频道",深圳卫视
-http://38.64.72.148:80/hls/modn/list/4007/playlist.m3u8$V4【线路2】 【1920x1080 120kbps】
+http://38.64.72.148:80/hls/modn/list/4007/playlist.m3u8$V4【线路2】 【1920x1080 22kbps】
 #EXTINF:-1 tvg-id="深圳卫视" tvg-name="深圳卫视" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/深圳卫视.png" group-title="广东频道",深圳卫视
-http://38.75.136.137:98/gslb/dsdqpub/szwshd.m3u8?auth=testpub$V4【线路3】 【1920x1080 12kbps】
+http://107.150.60.122/live/szwshd.m3u8$V4【线路3】 【1920x1080 10kbps】
 #EXTINF:-1 tvg-id="深圳卫视" tvg-name="深圳卫视" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/深圳卫视.png" group-title="广东频道",深圳卫视
-http://107.150.60.122/live/szwshd.m3u8$V4【线路4】 【1920x1080 7kbps】
+http://38.75.136.137:98/gslb/dsdqpub/szwshd.m3u8?auth=testpub$V4【线路4】 【1920x1080 8kbps】
 #EXTINF:-1 tvg-id="深圳卫视" tvg-name="深圳卫视" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/深圳卫视.png" group-title="广东频道",深圳卫视
-http://63.141.230.178:82/gslb/zbdq5.m3u8?id=szwshd$V4【线路5】 【1920x1080 5kbps】
+http://63.141.230.178:82/gslb/zbdq5.m3u8?id=szwshd$V4【线路5】 【1920x1080 7kbps】
 #EXTINF:-1 tvg-id="湖南卫视" tvg-name="湖南卫视" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/湖南卫视.png" group-title="卫视频道",湖南卫视
-https://txmov2.a.kwimgs.com/bs3/video-hls/5199687338554291078_hlsb.m3u8$V4【线路1】 【1280x720 36Mbps】
+https://txmov2.a.kwimgs.com/bs3/video-hls/5199687338554291078_hlsb.m3u8$V4【线路1】 【1280x720 35Mbps】
 #EXTINF:-1 tvg-id="湖南卫视" tvg-name="湖南卫视" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/湖南卫视.png" group-title="卫视频道",湖南卫视
-http://hlsal-ldvt.qing.mgtv.com/nn_live/nn_x64/Y2RuZXhfaWQ9YWxfaGxzX2xkdnQmZT02OTE0NjA0JnY9MSZpZD1ITldTWkdTVCZzPTcwN2RiYTc2YzJjNmJmMTQ4MmUyZGYzOWU2NWM3YWFi/HNWSZGST.m3u8$V4【线路2】 【3840x2160 14Mbps】
+http://hlsal-ldvt.qing.mgtv.com/nn_live/nn_x64/Y2RuZXhfaWQ9YWxfaGxzX2xkdnQmZT02OTE0NjA0JnY9MSZpZD1ITldTWkdTVCZzPTcwN2RiYTc2YzJjNmJmMTQ4MmUyZGYzOWU2NWM3YWFi/HNWSZGST.m3u8$V4【线路2】 【3840x2160 17Mbps】
 #EXTINF:-1 tvg-id="湖南卫视" tvg-name="湖南卫视" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/湖南卫视.png" group-title="卫视频道",湖南卫视
-http://hlsal-ldvt.qing.mgtv.com/nn_live/nn_x64/dWlwPTEyNy4wLjAuMSZ1aWQ9cWluZy1jbXMmbm5fdGltZXpvbmU9OCZjZG5leF9pZD1hbF9obHNfbGR2dCZ1dWlkPTliODY4NmU5ZTM2YzYwMmMmZT02OTE0NjA0JnY9MSZpZD1ITldTWkdTVCZzPTcwN2RiYTc2YzJjNmJmMTQ4MmUyZGYzOWU2NWM3YWFi/HNWSZGST.m3u8$V4【线路3】 【3840x2160 10Mbps】
+http://hlsal-ldvt.qing.mgtv.com/nn_live/nn_x64/dWlwPTEyNy4wLjAuMSZ1aWQ9cWluZy1jbXMmbm5fdGltZXpvbmU9OCZjZG5leF9pZD1hbF9obHNfbGR2dCZ1dWlkPTliODY4NmU5ZTM2YzYwMmMmZT02OTE0NjA0JnY9MSZpZD1ITldTWkdTVCZzPTcwN2RiYTc2YzJjNmJmMTQ4MmUyZGYzOWU2NWM3YWFi/HNWSZGST.m3u8$V4【线路3】 【3840x2160 12Mbps】
 #EXTINF:-1 tvg-id="湖南卫视" tvg-name="湖南卫视" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/湖南卫视.png" group-title="卫视频道",湖南卫视
-http://107.150.60.122/live/hnwshd.m3u8$V4【线路4】 【1920x1080 7kbps】
+http://74.91.26.218:82/live/hnwshd.m3u8$V4【线路4】 【1280x720 11kbps】
 #EXTINF:-1 tvg-id="湖南卫视" tvg-name="湖南卫视" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/湖南卫视.png" group-title="卫视频道",湖南卫视
-http://74.91.26.218:82/live/hnwshd.m3u8$V4【线路5】 【1280x720 7kbps】
+http://204.12.221.218:8181/3m1080p/hnws.m3u8$V4【线路5】 【1920x1080 10kbps】
 #EXTINF:-1 tvg-id="湖南卫视" tvg-name="湖南卫视" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/湖南卫视.png" group-title="卫视频道",湖南卫视
-http://63.141.230.178:82/gslb/zbdq5.m3u8?id=hnwshd$V4【线路6】 【1280x720 5kbps】
+http://63.141.230.178:82/gslb/zbdq5.m3u8?id=hnwshd$V4【线路6】 【1920x1080 7kbps】
 #EXTINF:-1 tvg-id="湖南卫视" tvg-name="湖南卫视" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/湖南卫视.png" group-title="卫视频道",湖南卫视
-http://204.12.221.218:8181/3m1080p/hnws.m3u8$V4【线路7】 【1280x720 2kbps】
+http://107.150.60.122/live/hnwshd.m3u8$V4【线路7】 【1280x720 6kbps】
 #EXTINF:-1 tvg-id="浙江卫视" tvg-name="浙江卫视" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/浙江卫视.png" group-title="卫视频道",浙江卫视
-http://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8$V4【线路1】 【1920x1080 8Mbps】
+http://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8$V4【线路1】 【1920x1080 5Mbps】
 #EXTINF:-1 tvg-id="浙江卫视" tvg-name="浙江卫视" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/浙江卫视.png" group-title="卫视频道",浙江卫视
-https://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8$V4【线路2】 【1920x1080 7Mbps】
+https://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8$V4【线路2】 【1920x1080 4Mbps】
 #EXTINF:-1 tvg-id="浙江卫视" tvg-name="浙江卫视" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/浙江卫视.png" group-title="卫视频道",浙江卫视
-http://ali-m-l.cztv.com/channels/lantian/channel01/1080p.m3u8$V4【线路3】 【1920x1080 3Mbps】
+http://ali-m-l.cztv.com/channels/lantian/channel01/1080p.m3u8$V4【线路3】 【1920x1080 2Mbps】
 #EXTINF:-1 tvg-id="浙江卫视" tvg-name="浙江卫视" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/浙江卫视.png" group-title="卫视频道",浙江卫视
-http://38.75.136.137:98/gslb/dsdqpub/zjwshd.m3u8?auth=testpub$V4【线路4】 【1920x1080 12kbps】
+http://107.150.60.122/live/zjwshd.m3u8$V4【线路4】 【1920x1080 9kbps】
 #EXTINF:-1 tvg-id="浙江卫视" tvg-name="浙江卫视" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/浙江卫视.png" group-title="卫视频道",浙江卫视
-http://107.150.60.122/live/zjwshd.m3u8$V4【线路5】 【1920x1080 7kbps】
+http://38.75.136.137:98/gslb/dsdqpub/zjwshd.m3u8?auth=testpub$V4【线路5】 【1920x1080 8kbps】
 #EXTINF:-1 tvg-id="浙江卫视" tvg-name="浙江卫视" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/浙江卫视.png" group-title="卫视频道",浙江卫视
-http://63.141.230.178:82/gslb/zbdq5.m3u8?id=zjwshd$V4【线路6】 【1920x1080 4kbps】
+http://63.141.230.178:82/gslb/zbdq5.m3u8?id=zjwshd$V4【线路6】 【1920x1080 7kbps】
 #EXTINF:-1 tvg-id="东方卫视" tvg-name="东方卫视" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/东方卫视.png" group-title="卫视频道",东方卫视
-https://txmov2.a.kwimgs.com/bs3/video-hls/5219953535631090825_hlsb.m3u8$V4【线路1】 【1280x720 36Mbps】
+http://bp-resource-dfl.bestv.cn/155/3/video.m3u8$V4【线路1】 【1920x1080 12kbps】
 #EXTINF:-1 tvg-id="东方卫视" tvg-name="东方卫视" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/东方卫视.png" group-title="卫视频道",东方卫视
-http://38.75.136.137:98/gslb/dsdqpub/dfwshd.m3u8?auth=testpub$V4【线路2】 【1920x1080 12kbps】
+http://107.150.60.122/live/dfwshd.m3u8$V4【线路2】 【1920x1080 10kbps】
 #EXTINF:-1 tvg-id="东方卫视" tvg-name="东方卫视" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/东方卫视.png" group-title="卫视频道",东方卫视
-http://38.75.136.137:98/gslb/dsdqbv/dfwshd.m3u8?auth=test20251009$V4【线路3】 【1920x1080 12kbps】
+http://38.75.136.137:98/gslb/dsdqpub/dfwshd.m3u8?auth=testpub$V4【线路3】 【1920x1080 8kbps】
 #EXTINF:-1 tvg-id="东方卫视" tvg-name="东方卫视" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/东方卫视.png" group-title="卫视频道",东方卫视
-http://bp-resource-dfl.bestv.cn/155/3/video.m3u8$V4【线路4】 【1920x1080 12kbps】
+http://38.75.136.137:98/gslb/dsdqbv/dfwshd.m3u8?auth=test20251009$V4【线路4】 【1920x1080 8kbps】
 #EXTINF:-1 tvg-id="东方卫视" tvg-name="东方卫视" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/东方卫视.png" group-title="卫视频道",东方卫视
-http://107.150.60.122/live/dfwshd.m3u8$V4【线路5】 【1920x1080 7kbps】
+http://63.141.230.178:82/gslb/zbdq5.m3u8?id=dfwshd$V4【线路5】 【1920x1080 7kbps】
 #EXTINF:-1 tvg-id="东方卫视" tvg-name="东方卫视" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/东方卫视.png" group-title="卫视频道",东方卫视
-http://63.141.230.178:82/gslb/zbdq5.m3u8?id=dfwshd$V4【线路6】 【1920x1080 4kbps】
+https://txmov2.a.kwimgs.com/bs3/video-hls/5219953535631090825_hlsb.m3u8$V4【线路6】 【1280x720】
 #EXTINF:-1 tvg-id="北京卫视" tvg-name="北京卫视" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/北京卫视.png" group-title="卫视频道",北京卫视
-http://222.169.85.8:9901/tsfile/live/0017_1.m3u8$V4【线路1】 【1920x1080 7Mbps】
+http://120.76.248.139/live/bfgd/4200000083.m3u8$V4【线路1】 【1920x1080@448kbps 13Mbps】
 #EXTINF:-1 tvg-id="北京卫视" tvg-name="北京卫视" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/北京卫视.png" group-title="卫视频道",北京卫视
-http://38.75.136.137:98/gslb/dsdqpub/bjwshd.m3u8?auth=testpub$V4【线路2】 【1920x1080 12kbps】
+http://107.150.60.122/live/bjwshd.m3u8$V4【线路2】 【1920x1080 10kbps】
 #EXTINF:-1 tvg-id="北京卫视" tvg-name="北京卫视" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/北京卫视.png" group-title="卫视频道",北京卫视
-http://38.75.136.137:98/gslb/dsdqbv/bjwshd.m3u8?auth=test20251009$V4【线路3】 【1920x1080 12kbps】
+http://38.75.136.137:98/gslb/dsdqpub/bjwshd.m3u8?auth=testpub$V4【线路3】 【1920x1080 8kbps】
 #EXTINF:-1 tvg-id="北京卫视" tvg-name="北京卫视" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/北京卫视.png" group-title="卫视频道",北京卫视
-http://107.150.60.122/live/bjwshd.m3u8$V4【线路4】 【1920x1080 7kbps】
+http://38.75.136.137:98/gslb/dsdqbv/bjwshd.m3u8?auth=test20251009$V4【线路4】 【1920x1080 8kbps】
 #EXTINF:-1 tvg-id="北京卫视" tvg-name="北京卫视" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/北京卫视.png" group-title="卫视频道",北京卫视
-http://63.141.230.178:82/gslb/zbdq5.m3u8?id=bjwshd$V4【线路5】 【1920x1080 5kbps】
+http://63.141.230.178:82/gslb/zbdq5.m3u8?id=bjwshd$V4【线路5】 【1920x1080 7kbps】
 #EXTINF:-1 tvg-id="江苏卫视" tvg-name="江苏卫视" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/江苏卫视.png" group-title="卫视频道",江苏卫视
-http://38.75.136.137:98/gslb/dsdqpub/jswshd.m3u8?auth=testpub$V4【线路1】 【1920x1080 12kbps】
+http://204.12.221.218:8181/3m1080p/jsws.m3u8$V4【线路1】 【1920x1080 10kbps】
 #EXTINF:-1 tvg-id="江苏卫视" tvg-name="江苏卫视" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/江苏卫视.png" group-title="卫视频道",江苏卫视
-http://38.75.136.137:98/gslb/dsdqbv/jswshd.m3u8?auth=test20251009$V4【线路2】 【1920x1080 12kbps】
+http://107.150.60.122/live/jswshd.m3u8$V4【线路2】 【1280x720 10kbps】
 #EXTINF:-1 tvg-id="江苏卫视" tvg-name="江苏卫视" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/江苏卫视.png" group-title="卫视频道",江苏卫视
-http://204.12.221.218:8181/3m1080p/jsws.m3u8$V4【线路3】 【1920x1080 7kbps】
+http://38.75.136.137:98/gslb/dsdqpub/jswshd.m3u8?auth=testpub$V4【线路3】 【1920x1080 8kbps】
 #EXTINF:-1 tvg-id="江苏卫视" tvg-name="江苏卫视" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/江苏卫视.png" group-title="卫视频道",江苏卫视
-http://107.150.60.122/live/jswshd.m3u8$V4【线路4】 【1920x1080 7kbps】
+http://38.75.136.137:98/gslb/dsdqbv/jswshd.m3u8?auth=test20251009$V4【线路4】 【1920x1080 8kbps】
 #EXTINF:-1 tvg-id="江苏卫视" tvg-name="江苏卫视" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/江苏卫视.png" group-title="卫视频道",江苏卫视
-http://63.141.230.178:82/gslb/zbdq5.m3u8?id=jswshd$V4【线路5】 【1920x1080 4kbps】
-#EXTINF:-1 tvg-id="江苏卫视" tvg-name="江苏卫视" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/江苏卫视.png" group-title="卫视频道",江苏卫视
-http://112.46.85.60:8009/hls/33/index.m3u8$V4【线路6】 【1920x1080 256kbps】
+http://63.141.230.178:82/gslb/zbdq5.m3u8?id=jswshd$V4【线路5】 【1920x1080 6kbps】
 #EXTINF:-1 tvg-id="安徽卫视" tvg-name="安徽卫视" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/安徽卫视.png" group-title="卫视频道",安徽卫视
-http://222.169.85.8:9901/tsfile/live/0130_1.m3u8$V4【线路1】 【1920x1080 9Mbps】
+http://222.169.85.8:9901/tsfile/live/0130_1.m3u8$V4【线路1】 【1920x1080 1Mbps】
 #EXTINF:-1 tvg-id="安徽卫视" tvg-name="安徽卫视" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/安徽卫视.png" group-title="卫视频道",安徽卫视
-http://38.75.136.137:98/gslb/dsdqpub/ahwshd.m3u8?auth=testpub$V4【线路2】 【1920x1080 12kbps】
+http://107.150.60.122/live/ahwshd.m3u8$V4【线路2】 【1920x1080 10kbps】
 #EXTINF:-1 tvg-id="安徽卫视" tvg-name="安徽卫视" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/安徽卫视.png" group-title="卫视频道",安徽卫视
-http://107.150.60.122/live/ahwshd.m3u8$V4【线路3】 【1920x1080 7kbps】
+http://204.12.221.218:8181/3m1080p/ahws.m3u8$V4【线路3】 【1920x1080 10kbps】
 #EXTINF:-1 tvg-id="安徽卫视" tvg-name="安徽卫视" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/安徽卫视.png" group-title="卫视频道",安徽卫视
-http://204.12.221.218:8181/3m1080p/ahws.m3u8$V4【线路4】 【1920x1080 7kbps】
+http://198.204.228.26/live/ahwshd.m3u8$V4【线路4】 【1920x1080 10kbps】
 #EXTINF:-1 tvg-id="安徽卫视" tvg-name="安徽卫视" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/安徽卫视.png" group-title="卫视频道",安徽卫视
-http://198.204.228.26/live/ahwshd.m3u8$V4【线路5】 【1920x1080 7kbps】
+http://63.141.230.178:82/gslb/zbdq5.m3u8?id=ahwshd$V4【线路5】 【1920x1080 7kbps】
 #EXTINF:-1 tvg-id="安徽卫视" tvg-name="安徽卫视" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/安徽卫视.png" group-title="卫视频道",安徽卫视
-http://63.141.230.178:82/gslb/zbdq5.m3u8?id=ahwshd$V4【线路6】 【1920x1080 1kbps】
+http://38.75.136.137:98/gslb/dsdqpub/ahwshd.m3u8?auth=testpub$V4【线路6】 【1920x1080 7kbps】
 #EXTINF:-1 tvg-id="重庆卫视" tvg-name="重庆卫视" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/重庆卫视.png" group-title="卫视频道",重庆卫视
-http://198.204.228.26/live/cqwshd.m3u8$V4【线路1】 【1920x1080 7kbps】
+http://198.204.228.26/live/cqwshd.m3u8$V4【线路1】 【1920x1080 10kbps】
 #EXTINF:-1 tvg-id="重庆卫视" tvg-name="重庆卫视" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/重庆卫视.png" group-title="卫视频道",重庆卫视
-http://107.150.60.122/live/cqwshd.m3u8$V4【线路2】 【1920x1080 7kbps】
+http://107.150.60.122/live/cqwshd.m3u8$V4【线路2】 【1280x720 10kbps】
 #EXTINF:-1 tvg-id="重庆卫视" tvg-name="重庆卫视" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/重庆卫视.png" group-title="卫视频道",重庆卫视
-http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cqwshd$V4【线路3】 【1920x1080 4kbps】
+http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cqwshd$V4【线路3】 【1920x1080 6kbps】
 #EXTINF:-1 tvg-id="四川卫视" tvg-name="四川卫视" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/四川卫视.png" group-title="卫视频道",四川卫视
-http://38.75.136.137:98/gslb/dsdqpub/scwshd.m3u8?auth=testpub$V4【线路1】 【1920x1080 12kbps】
+http://107.150.60.122/live/scwshd.m3u8$V4【线路1】 【1920x1080 10kbps】
 #EXTINF:-1 tvg-id="四川卫视" tvg-name="四川卫视" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/四川卫视.png" group-title="卫视频道",四川卫视
-http://107.150.60.122/live/scwshd.m3u8$V4【线路2】 【1920x1080 7kbps】
+http://38.75.136.137:98/gslb/dsdqpub/scwshd.m3u8?auth=testpub$V4【线路2】 【1920x1080 8kbps】
 #EXTINF:-1 tvg-id="四川卫视" tvg-name="四川卫视" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/四川卫视.png" group-title="卫视频道",四川卫视
-http://63.141.230.178:82/gslb/zbdq5.m3u8?id=scwshd$V4【线路3】 【1920x1080 4kbps】
+http://63.141.230.178:82/gslb/zbdq5.m3u8?id=scwshd$V4【线路3】 【1920x1080 6kbps】
 #EXTINF:-1 tvg-id="东南卫视" tvg-name="东南卫视" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/东南卫视.png" group-title="卫视频道",东南卫视
-http://120.76.248.139/live/bfgd/4200000483.m3u8$V4【线路1】 【1920x1080@384kbps 8Mbps】
+http://120.76.248.139/live/bfgd/4200000483.m3u8$V4【线路1】 【1920x1080@384kbps 7Mbps】
 #EXTINF:-1 tvg-id="东南卫视" tvg-name="东南卫视" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/东南卫视.png" group-title="卫视频道",东南卫视
-http://38.75.136.137:98/gslb/dsdqpub/dnwshd.m3u8?auth=testpub$V4【线路2】 【1920x1080 12kbps】
+http://107.150.60.122/live/dnwshd.m3u8$V4【线路2】 【1920x1080 10kbps】
 #EXTINF:-1 tvg-id="东南卫视" tvg-name="东南卫视" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/东南卫视.png" group-title="卫视频道",东南卫视
-http://107.150.60.122/live/dnwshd.m3u8$V4【线路3】 【1920x1080 7kbps】
+http://63.141.230.178:82/gslb/zbdq5.m3u8?id=dnwshd$V4【线路3】 【1920x1080 7kbps】
 #EXTINF:-1 tvg-id="东南卫视" tvg-name="东南卫视" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/东南卫视.png" group-title="卫视频道",东南卫视
-http://63.141.230.178:82/gslb/zbdq5.m3u8?id=dnwshd$V4【线路4】 【1920x1080 5kbps】
+http://38.75.136.137:98/gslb/dsdqpub/dnwshd.m3u8?auth=testpub$V4【线路4】 【1920x1080 1kbps】
 #EXTINF:-1 tvg-id="广东卫视" tvg-name="广东卫视" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/广东卫视.png" group-title="卫视频道",广东卫视
-http://120.76.248.139/live/bfgd/4200000092.m3u8$V4【线路1】 【1920x1080@384kbps 15Mbps】
+http://120.76.248.139/live/bfgd/4200000092.m3u8$V4【线路1】 【1920x1080@384kbps 10Mbps】
 #EXTINF:-1 tvg-id="广东卫视" tvg-name="广东卫视" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/广东卫视.png" group-title="卫视频道",广东卫视
-http://38.75.136.137:98/gslb/dsdqpub/gdwshd.m3u8?auth=testpub$V4【线路2】 【1920x1080 12kbps】
+http://107.150.60.122/live/gdwshd.m3u8$V4【线路2】 【1920x1080 10kbps】
 #EXTINF:-1 tvg-id="广东卫视" tvg-name="广东卫视" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/广东卫视.png" group-title="卫视频道",广东卫视
-http://107.150.60.122/live/gdwshd.m3u8$V4【线路3】 【1920x1080 7kbps】
+http://38.75.136.137:98/gslb/dsdqpub/gdwshd.m3u8?auth=testpub$V4【线路3】 【1920x1080 8kbps】
 #EXTINF:-1 tvg-id="广东卫视" tvg-name="广东卫视" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/广东卫视.png" group-title="卫视频道",广东卫视
-http://63.141.230.178:82/gslb/zbdq5.m3u8?id=gdwshd$V4【线路4】 【1920x1080 5kbps】
+http://63.141.230.178:82/gslb/zbdq5.m3u8?id=gdwshd$V4【线路4】 【1920x1080 7kbps】
 #EXTINF:-1 tvg-id="广西卫视" tvg-name="广西卫视" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/广西卫视.png" group-title="卫视频道",广西卫视
-http://38.75.136.137:98/gslb/dsdqpub/gxwshd.m3u8?auth=testpub$V4【线路1】 【1920x1080 12kbps】
+http://120.76.248.139/live/bfgd/4200000116.m3u8$V4【线路1】 【1920x1080@128kbps 14Mbps】
 #EXTINF:-1 tvg-id="广西卫视" tvg-name="广西卫视" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/广西卫视.png" group-title="卫视频道",广西卫视
-http://107.150.60.122/live/gxwshd.m3u8$V4【线路2】 【1920x1080 7kbps】
+http://107.150.60.122/live/gxwshd.m3u8$V4【线路2】 【1920x1080 10kbps】
 #EXTINF:-1 tvg-id="广西卫视" tvg-name="广西卫视" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/广西卫视.png" group-title="卫视频道",广西卫视
-http://198.204.228.26/live/gxwshd.m3u8$V4【线路3】 【1920x1080 7kbps】
+http://198.204.228.26/live/gxwshd.m3u8$V4【线路3】 【1920x1080 10kbps】
 #EXTINF:-1 tvg-id="广西卫视" tvg-name="广西卫视" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/广西卫视.png" group-title="卫视频道",广西卫视
-http://63.141.230.178:82/gslb/zbdq5.m3u8?id=gxwshd$V4【线路4】 【1920x1080 4kbps】
+http://38.75.136.137:98/gslb/dsdqpub/gxwshd.m3u8?auth=testpub$V4【线路4】 【1920x1080 8kbps】
+#EXTINF:-1 tvg-id="广西卫视" tvg-name="广西卫视" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/广西卫视.png" group-title="卫视频道",广西卫视
+http://63.141.230.178:82/gslb/zbdq5.m3u8?id=gxwshd$V4【线路5】 【1920x1080 7kbps】
 #EXTINF:-1 tvg-id="厦门卫视" tvg-name="厦门卫视" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/厦门卫视.png" group-title="卫视频道",厦门卫视
-http://192.151.150.154/live/xmws.m3u8$V4【线路1】 【720x576 7kbps】
+http://192.151.150.154/live/xmws.m3u8$V4【线路1】 【720x576 10kbps】
 #EXTINF:-1 tvg-id="厦门卫视" tvg-name="厦门卫视" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/厦门卫视.png" group-title="卫视频道",厦门卫视
-http://107.150.60.122/live/xmws.m3u8$V4【线路2】 【720x576 7kbps】
+http://107.150.60.122/live/xmws.m3u8$V4【线路2】 【720x576 10kbps】
 #EXTINF:-1 tvg-id="厦门卫视" tvg-name="厦门卫视" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/厦门卫视.png" group-title="卫视频道",厦门卫视
-http://198.204.228.26/live/xmws.m3u8$V4【线路3】 【720x576 7kbps】
+http://198.204.228.26/live/xmws.m3u8$V4【线路3】 【720x576 10kbps】
 #EXTINF:-1 tvg-id="厦门卫视" tvg-name="厦门卫视" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/厦门卫视.png" group-title="卫视频道",厦门卫视
-http://63.141.230.178:82/gslb/zbdq5.m3u8?id=xmws$V4【线路4】 【720x576 5kbps】
+http://63.141.230.178:82/gslb/zbdq5.m3u8?id=xmws$V4【线路4】 【720x576 6kbps】
 #EXTINF:-1 tvg-id="甘肃卫视" tvg-name="甘肃卫视" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/甘肃卫视.png" group-title="卫视频道",甘肃卫视
-http://120.76.248.139/live/bfgd/4200000119.m3u8$V4【线路1】 【1920x1080@384kbps 11Mbps】
+http://120.76.248.139/live/bfgd/4200000119.m3u8$V4【线路1】 【1920x1080@384kbps 13Mbps】
 #EXTINF:-1 tvg-id="甘肃卫视" tvg-name="甘肃卫视" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/甘肃卫视.png" group-title="卫视频道",甘肃卫视
-http://38.75.136.137:98/gslb/dsdqpub/gswshd.m3u8?auth=testpub$V4【线路2】 【1920x1080 11kbps】
+http://38.75.136.137:98/gslb/dsdqpub/gswshd.m3u8?auth=testpub$V4【线路2】 【1920x1080 8kbps】
 #EXTINF:-1 tvg-id="甘肃卫视" tvg-name="甘肃卫视" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/甘肃卫视.png" group-title="卫视频道",甘肃卫视
-http://63.141.230.178:82/gslb/zbdq5.m3u8?id=gswshd$V4【线路3】 【1920x1080 4kbps】
+http://63.141.230.178:82/gslb/zbdq5.m3u8?id=gswshd$V4【线路3】 【1920x1080 7kbps】
 #EXTINF:-1 tvg-id="贵州卫视" tvg-name="贵州卫视" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/贵州卫视.png" group-title="卫视频道",贵州卫视
-http://38.75.136.137:98/gslb/dsdqpub/gzwshd.m3u8?auth=testpub$V4【线路1】 【1920x1080 12kbps】
+http://107.150.60.122/live/gzwshd.m3u8$V4【线路1】 【1920x1080 10kbps】
 #EXTINF:-1 tvg-id="贵州卫视" tvg-name="贵州卫视" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/贵州卫视.png" group-title="卫视频道",贵州卫视
-http://107.150.60.122/live/gzwshd.m3u8$V4【线路2】 【1920x1080 7kbps】
+http://204.12.221.218:8181/3m1080p/gzws.m3u8$V4【线路2】 【1920x1080 9kbps】
 #EXTINF:-1 tvg-id="贵州卫视" tvg-name="贵州卫视" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/贵州卫视.png" group-title="卫视频道",贵州卫视
-http://204.12.221.218:8181/3m1080p/gzws.m3u8$V4【线路3】 【1920x1080 7kbps】
+http://38.75.136.137:98/gslb/dsdqpub/gzwshd.m3u8?auth=testpub$V4【线路3】 【1920x1080 8kbps】
 #EXTINF:-1 tvg-id="贵州卫视" tvg-name="贵州卫视" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/贵州卫视.png" group-title="卫视频道",贵州卫视
-http://63.141.230.178:82/gslb/zbdq5.m3u8?id=gzwshd$V4【线路4】 【1920x1080 1kbps】
+http://63.141.230.178:82/gslb/zbdq5.m3u8?id=gzwshd$V4【线路4】 【1920x1080 6kbps】
 #EXTINF:-1 tvg-id="河北卫视" tvg-name="河北卫视" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/河北卫视.png" group-title="卫视频道",河北卫视
 http://120.76.248.139/live/bfgd/4200000108.m3u8$V4【线路1】 【1920x1080@384kbps 13Mbps】
 #EXTINF:-1 tvg-id="河北卫视" tvg-name="河北卫视" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/河北卫视.png" group-title="卫视频道",河北卫视
-http://event.pull.hebtv.com/jishi/weishi_tingyun.m3u8$V4【线路2】 【960x540 2Mbps】
+http://204.12.221.218:8181/3m1080p/hews.m3u8$V4【线路2】 【1920x1080 10kbps】
 #EXTINF:-1 tvg-id="河北卫视" tvg-name="河北卫视" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/河北卫视.png" group-title="卫视频道",河北卫视
-http://38.75.136.137:98/gslb/dsdqpub/hewshd.m3u8?auth=testpub$V4【线路3】 【1920x1080 12kbps】
+http://38.75.136.137:98/gslb/dsdqpub/hewshd.m3u8?auth=testpub$V4【线路3】 【1920x1080 8kbps】
 #EXTINF:-1 tvg-id="河北卫视" tvg-name="河北卫视" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/河北卫视.png" group-title="卫视频道",河北卫视
-http://204.12.221.218:8181/3m1080p/hews.m3u8$V4【线路4】 【1920x1080 2kbps】
+http://63.141.230.178:82/gslb/zbdq5.m3u8?id=hewshd$V4【线路4】 【1920x1080 6kbps】
 #EXTINF:-1 tvg-id="河北卫视" tvg-name="河北卫视" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/河北卫视.png" group-title="卫视频道",河北卫视
-http://63.141.230.178:82/gslb/zbdq5.m3u8?id=hewshd$V4【线路5】 【1920x1080 1kbps】
-#EXTINF:-1 tvg-id="河北卫视" tvg-name="河北卫视" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/河北卫视.png" group-title="卫视频道",河北卫视
-https://event.pull.hebtv.com/live/live101.m3u8$V4【线路6】 【3840x2160】
+https://event.pull.hebtv.com/live/live101.m3u8$V4【线路5】 【3840x2160】
 #EXTINF:-1 tvg-id="河南卫视" tvg-name="河南卫视" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/河南卫视.png" group-title="卫视频道",河南卫视
-http://111.59.139.82:11888/tsfile/live/0139_1.m3u8?key=txiptv&playlive=1&authid=0$V4【线路1】 【720x576@128kbps 5Mbps】
+http://111.59.139.82:11888/tsfile/live/0139_1.m3u8?key=txiptv&playlive=1&authid=0$V4【线路1】 【720x576@128kbps 621kbps】
 #EXTINF:-1 tvg-id="河南卫视" tvg-name="河南卫视" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/河南卫视.png" group-title="卫视频道",河南卫视
-http://38.75.136.137:98/gslb/dsdqpub/hawshd.m3u8?auth=testpub$V4【线路2】 【1920x1080 12kbps】
+http://107.150.60.122/live/hawshd.m3u8$V4【线路2】 【1920x1080 10kbps】
 #EXTINF:-1 tvg-id="河南卫视" tvg-name="河南卫视" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/河南卫视.png" group-title="卫视频道",河南卫视
-http://107.150.60.122/live/hawshd.m3u8$V4【线路3】 【1920x1080 7kbps】
+http://38.75.136.137:98/gslb/dsdqpub/hawshd.m3u8?auth=testpub$V4【线路3】 【1920x1080 8kbps】
 #EXTINF:-1 tvg-id="河南卫视" tvg-name="河南卫视" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/河南卫视.png" group-title="卫视频道",河南卫视
-http://63.141.230.178:82/gslb/zbdq5.m3u8?id=hawshd$V4【线路4】 【1920x1080 4kbps】
+http://63.141.230.178:82/gslb/zbdq5.m3u8?id=hawshd$V4【线路4】 【1920x1080 6kbps】
 #EXTINF:-1 tvg-id="河南卫视" tvg-name="河南卫视" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/河南卫视.png" group-title="卫视频道",河南卫视
 http://173.208.212.130:8181/720p/haws.m3u8$V4【线路5】 【1920x1080 1kbps】
 #EXTINF:-1 tvg-id="黑龙江卫视" tvg-name="黑龙江卫视" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/黑龙江卫视.png" group-title="卫视频道",黑龙江卫视
-http://120.76.248.139/live/bfgd/4200000095.m3u8$V4【线路1】 【1920x1080@384kbps 7Mbps】
+http://120.76.248.139/live/bfgd/4200000095.m3u8$V4【线路1】 【1920x1080@384kbps 13Mbps】
 #EXTINF:-1 tvg-id="黑龙江卫视" tvg-name="黑龙江卫视" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/黑龙江卫视.png" group-title="卫视频道",黑龙江卫视
-http://38.75.136.137:98/gslb/dsdqpub/hljwshd.m3u8?auth=testpub$V4【线路2】 【1920x1080 12kbps】
+http://107.150.60.122/live/hljwshd.m3u8$V4【线路2】 【1920x1080 10kbps】
 #EXTINF:-1 tvg-id="黑龙江卫视" tvg-name="黑龙江卫视" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/黑龙江卫视.png" group-title="卫视频道",黑龙江卫视
-http://107.150.60.122/live/hljwshd.m3u8$V4【线路3】 【1920x1080 7kbps】
+http://198.204.228.26/live/hljwshd.m3u8$V4【线路3】 【1280x720 10kbps】
 #EXTINF:-1 tvg-id="黑龙江卫视" tvg-name="黑龙江卫视" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/黑龙江卫视.png" group-title="卫视频道",黑龙江卫视
-http://198.204.228.26/live/hljwshd.m3u8$V4【线路4】 【1920x1080 7kbps】
+http://38.75.136.137:98/gslb/dsdqpub/hljwshd.m3u8?auth=testpub$V4【线路4】 【1920x1080 8kbps】
 #EXTINF:-1 tvg-id="黑龙江卫视" tvg-name="黑龙江卫视" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/黑龙江卫视.png" group-title="卫视频道",黑龙江卫视
-http://63.141.230.178:82/gslb/zbdq5.m3u8?id=hljwshd$V4【线路5】 【1920x1080 5kbps】
+http://63.141.230.178:82/gslb/zbdq5.m3u8?id=hljwshd$V4【线路5】 【1920x1080 7kbps】
+#EXTINF:-1 tvg-id="黑龙江卫视" tvg-name="黑龙江卫视" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/黑龙江卫视.png" group-title="卫视频道",黑龙江卫视
+http://218.13.170.98:9901/tsfile/live/1006_1.m3u8$V4【线路6】 【1920x1080 256kbps】
 #EXTINF:-1 tvg-id="湖北卫视" tvg-name="湖北卫视" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/湖北卫视.png" group-title="卫视频道",湖北卫视
-http://120.76.248.139/live/bfgd/4200000102.m3u8$V4【线路1】 【1920x1080@384kbps 6Mbps】
+http://120.76.248.139/live/bfgd/4200000102.m3u8$V4【线路1】 【1920x1080@384kbps 13Mbps】
 #EXTINF:-1 tvg-id="湖北卫视" tvg-name="湖北卫视" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/湖北卫视.png" group-title="卫视频道",湖北卫视
-http://38.75.136.137:98/gslb/dsdqpub/hbwshd.m3u8?auth=testpub$V4【线路2】 【1920x1080 12kbps】
+http://107.150.60.122/live/hbwshd.m3u8$V4【线路2】 【1920x1080 10kbps】
 #EXTINF:-1 tvg-id="湖北卫视" tvg-name="湖北卫视" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/湖北卫视.png" group-title="卫视频道",湖北卫视
-http://107.150.60.122/live/hbwshd.m3u8$V4【线路3】 【1920x1080 7kbps】
+http://198.204.228.26/live/hbwshd.m3u8$V4【线路3】 【1920x1080 10kbps】
 #EXTINF:-1 tvg-id="湖北卫视" tvg-name="湖北卫视" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/湖北卫视.png" group-title="卫视频道",湖北卫视
-http://198.204.228.26/live/hbwshd.m3u8$V4【线路4】 【1920x1080 7kbps】
+http://204.12.221.218:8181/3m1080p/hbws.m3u8$V4【线路4】 【1920x1080 10kbps】
 #EXTINF:-1 tvg-id="湖北卫视" tvg-name="湖北卫视" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/湖北卫视.png" group-title="卫视频道",湖北卫视
-http://204.12.221.218:8181/3m1080p/hbws.m3u8$V4【线路5】 【1920x1080 7kbps】
+http://38.75.136.137:98/gslb/dsdqpub/hbwshd.m3u8?auth=testpub$V4【线路5】 【1920x1080 8kbps】
 #EXTINF:-1 tvg-id="湖北卫视" tvg-name="湖北卫视" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/湖北卫视.png" group-title="卫视频道",湖北卫视
-http://63.141.230.178:82/gslb/zbdq5.m3u8?id=hbwshd$V4【线路6】 【1920x1080 4kbps】
+http://63.141.230.178:82/gslb/zbdq5.m3u8?id=hbwshd$V4【线路6】 【1920x1080 6kbps】
 #EXTINF:-1 tvg-id="江西卫视" tvg-name="江西卫视" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/江西卫视.png" group-title="卫视频道",江西卫视
-http://112.27.5.218:9901/tsfile/live/faacts/0138_1.m3u8?key=txiptv&playlive=1&authid=0$V4【线路1】 【1920x1080 1Mbps】
+http://107.150.60.122/live/jxwshd.m3u8$V4【线路1】 【1920x1080 10kbps】
 #EXTINF:-1 tvg-id="江西卫视" tvg-name="江西卫视" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/江西卫视.png" group-title="卫视频道",江西卫视
-http://38.75.136.137:98/gslb/dsdqpub/jxwshd.m3u8?auth=testpub$V4【线路2】 【1920x1080 12kbps】
+http://38.75.136.137:98/gslb/dsdqpub/jxwshd.m3u8?auth=testpub$V4【线路2】 【1920x1080 8kbps】
 #EXTINF:-1 tvg-id="江西卫视" tvg-name="江西卫视" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/江西卫视.png" group-title="卫视频道",江西卫视
-http://107.150.60.122/live/jxwshd.m3u8$V4【线路3】 【1920x1080 7kbps】
-#EXTINF:-1 tvg-id="江西卫视" tvg-name="江西卫视" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/江西卫视.png" group-title="卫视频道",江西卫视
-http://63.141.230.178:82/gslb/zbdq5.m3u8?id=jxwshd$V4【线路4】 【1920x1080 5kbps】
+http://63.141.230.178:82/gslb/zbdq5.m3u8?id=jxwshd$V4【线路3】 【1920x1080 7kbps】
 #EXTINF:-1 tvg-id="吉林卫视" tvg-name="吉林卫视" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/吉林卫视.png" group-title="卫视频道",吉林卫视
-http://38.75.136.137:98/gslb/dsdqpub/jlwshd.m3u8?auth=testpub$V4【线路1】 【1920x1080 12kbps】
+http://107.150.60.122/live/jlwshd.m3u8$V4【线路1】 【1920x1080 10kbps】
 #EXTINF:-1 tvg-id="吉林卫视" tvg-name="吉林卫视" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/吉林卫视.png" group-title="卫视频道",吉林卫视
-http://107.150.60.122/live/jlwshd.m3u8$V4【线路2】 【1920x1080 7kbps】
+http://38.75.136.137:98/gslb/dsdqpub/jlwshd.m3u8?auth=testpub$V4【线路2】 【1920x1080 8kbps】
 #EXTINF:-1 tvg-id="吉林卫视" tvg-name="吉林卫视" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/吉林卫视.png" group-title="卫视频道",吉林卫视
-http://63.141.230.178:82/gslb/zbdq5.m3u8?id=jlwshd$V4【线路3】 【1920x1080 4kbps】
+http://63.141.230.178:82/gslb/zbdq5.m3u8?id=jlwshd$V4【线路3】 【1920x1080 7kbps】
 #EXTINF:-1 tvg-id="内蒙古卫视" tvg-name="内蒙古卫视" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/内蒙古卫视.png" group-title="卫视频道",内蒙古卫视
-http://play1-qk.nmtv.cn/live/1769652018126032.m3u8$V4【线路1】 【1920x1080 5Mbps】
+http://play1-qk.nmtv.cn/live/1769652018126032.m3u8$V4【线路1】 【1920x1080 6Mbps】
 #EXTINF:-1 tvg-id="内蒙古卫视" tvg-name="内蒙古卫视" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/内蒙古卫视.png" group-title="卫视频道",内蒙古卫视
-http://107.150.60.122/live/nmgws.m3u8$V4【线路2】 【1920x1080 7kbps】
+http://107.150.60.122/live/nmgws.m3u8$V4【线路2】 【1920x1080 10kbps】
 #EXTINF:-1 tvg-id="内蒙古卫视" tvg-name="内蒙古卫视" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/内蒙古卫视.png" group-title="卫视频道",内蒙古卫视
-http://63.141.230.178:82/gslb/zbdq5.m3u8?id=nmgws$V4【线路3】 【1920x1080 5kbps】
-#EXTINF:-1 tvg-id="内蒙古卫视" tvg-name="内蒙古卫视" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/内蒙古卫视.png" group-title="卫视频道",内蒙古卫视
-http://183.11.239.36:808/hls/60/index.m3u8$V4【线路4】 【720x576 96kbps】
+http://63.141.230.178:82/gslb/zbdq5.m3u8?id=nmgws$V4【线路3】 【1920x1080 7kbps】
 #EXTINF:-1 tvg-id="辽宁卫视" tvg-name="辽宁卫视" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/辽宁卫视.png" group-title="卫视频道",辽宁卫视
-http://38.75.136.137:98/gslb/dsdqpub/lnwshd.m3u8?auth=testpub$V4【线路1】 【1920x1080 12kbps】
+http://107.150.60.122/live/lnwshd.m3u8$V4【线路1】 【1920x1080 10kbps】
 #EXTINF:-1 tvg-id="辽宁卫视" tvg-name="辽宁卫视" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/辽宁卫视.png" group-title="卫视频道",辽宁卫视
-http://107.150.60.122/live/lnwshd.m3u8$V4【线路2】 【1920x1080 7kbps】
+http://204.12.221.218:8181/3m1080p/lnws.m3u8$V4【线路2】 【1920x1080 10kbps】
 #EXTINF:-1 tvg-id="辽宁卫视" tvg-name="辽宁卫视" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/辽宁卫视.png" group-title="卫视频道",辽宁卫视
-http://204.12.221.218:8181/3m1080p/lnws.m3u8$V4【线路3】 【1920x1080 7kbps】
+http://198.204.228.26/live/lnwshd.m3u8$V4【线路3】 【1920x1080 10kbps】
 #EXTINF:-1 tvg-id="辽宁卫视" tvg-name="辽宁卫视" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/辽宁卫视.png" group-title="卫视频道",辽宁卫视
-http://198.204.228.26/live/lnwshd.m3u8$V4【线路4】 【1920x1080 7kbps】
+http://38.75.136.137:98/gslb/dsdqpub/lnwshd.m3u8?auth=testpub$V4【线路4】 【1920x1080 8kbps】
 #EXTINF:-1 tvg-id="辽宁卫视" tvg-name="辽宁卫视" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/辽宁卫视.png" group-title="卫视频道",辽宁卫视
-http://63.141.230.178:82/gslb/zbdq5.m3u8?id=lnwshd$V4【线路5】 【1920x1080 4kbps】
+http://63.141.230.178:82/gslb/zbdq5.m3u8?id=lnwshd$V4【线路5】 【1920x1080 7kbps】
 #EXTINF:-1 tvg-id="宁夏卫视" tvg-name="宁夏卫视" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/宁夏卫视.png" group-title="卫视频道",宁夏卫视
-http://107.150.60.122/live/nxws.m3u8$V4【线路1】 【1920x1080 7kbps】
+http://107.150.60.122/live/nxws.m3u8$V4【线路1】 【1920x1080 10kbps】
 #EXTINF:-1 tvg-id="宁夏卫视" tvg-name="宁夏卫视" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/宁夏卫视.png" group-title="卫视频道",宁夏卫视
-http://198.204.228.26/live/nxws.m3u8$V4【线路2】 【1920x1080 7kbps】
+http://198.204.228.26/live/nxws.m3u8$V4【线路2】 【1920x1080 10kbps】
 #EXTINF:-1 tvg-id="宁夏卫视" tvg-name="宁夏卫视" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/宁夏卫视.png" group-title="卫视频道",宁夏卫视
-http://63.141.230.178:82/gslb/zbdq5.m3u8?id=nxws$V4【线路3】 【1920x1080 5kbps】
+http://63.141.230.178:82/gslb/zbdq5.m3u8?id=nxws$V4【线路3】 【1920x1080 7kbps】
 #EXTINF:-1 tvg-id="青海卫视" tvg-name="青海卫视" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/青海卫视.png" group-title="卫视频道",青海卫视
-http://120.76.248.139/live/bfgd/4200000111.m3u8$V4【线路1】 【1920x1080@384kbps 11Mbps】
+http://120.76.248.139/live/bfgd/4200000111.m3u8$V4【线路1】 【1920x1080@384kbps 7Mbps】
 #EXTINF:-1 tvg-id="青海卫视" tvg-name="青海卫视" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/青海卫视.png" group-title="卫视频道",青海卫视
-http://107.150.60.122/live/qhws.m3u8$V4【线路2】 【1920x1080 7kbps】
+http://107.150.60.122/live/qhws.m3u8$V4【线路2】 【1920x1080 10kbps】
 #EXTINF:-1 tvg-id="青海卫视" tvg-name="青海卫视" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/青海卫视.png" group-title="卫视频道",青海卫视
-http://63.141.230.178:82/gslb/zbdq5.m3u8?id=qhws$V4【线路3】 【1920x1080 4kbps】
+http://63.141.230.178:82/gslb/zbdq5.m3u8?id=qhws$V4【线路3】 【1920x1080 7kbps】
 #EXTINF:-1 tvg-id="山东卫视" tvg-name="山东卫视" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/山东卫视.png" group-title="卫视频道",山东卫视
 http://120.76.248.139/live/bfgd/4200000099.m3u8$V4【线路1】 【1920x1080@128kbps 11Mbps】
 #EXTINF:-1 tvg-id="山东卫视" tvg-name="山东卫视" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/山东卫视.png" group-title="卫视频道",山东卫视
-http://38.75.136.137:98/gslb/dsdqpub/sdwshd.m3u8?auth=testpub$V4【线路2】 【1920x1080 12kbps】
+http://198.204.228.26/live/sdwshd.m3u8$V4【线路2】 【1920x1080 10kbps】
 #EXTINF:-1 tvg-id="山东卫视" tvg-name="山东卫视" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/山东卫视.png" group-title="卫视频道",山东卫视
-http://107.150.60.122/live/sdwshd.m3u8$V4【线路3】 【1920x1080 7kbps】
+http://107.150.60.122/live/sdwshd.m3u8$V4【线路3】 【1280x720 10kbps】
 #EXTINF:-1 tvg-id="山东卫视" tvg-name="山东卫视" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/山东卫视.png" group-title="卫视频道",山东卫视
-http://198.204.228.26/live/sdwshd.m3u8$V4【线路4】 【1920x1080 7kbps】
+http://38.75.136.137:98/gslb/dsdqpub/sdwshd.m3u8?auth=testpub$V4【线路4】 【1920x1080 8kbps】
 #EXTINF:-1 tvg-id="山东卫视" tvg-name="山东卫视" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/山东卫视.png" group-title="卫视频道",山东卫视
-http://63.141.230.178:82/gslb/zbdq5.m3u8?id=sdwshd$V4【线路5】 【1920x1080 4kbps】
+http://63.141.230.178:82/gslb/zbdq5.m3u8?id=sdwshd$V4【线路5】 【1920x1080 7kbps】
 #EXTINF:-1 tvg-id="天津卫视" tvg-name="天津卫视" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/天津卫视.png" group-title="卫视频道",天津卫视
-http://38.75.136.137:98/gslb/dsdqpub/tjwshd.m3u8?auth=testpub$V4【线路1】 【1920x1080 12kbps】
+http://107.150.60.122/live/tjwshd.m3u8$V4【线路1】 【1920x1080 10kbps】
 #EXTINF:-1 tvg-id="天津卫视" tvg-name="天津卫视" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/天津卫视.png" group-title="卫视频道",天津卫视
-http://107.150.60.122/live/tjwshd.m3u8$V4【线路2】 【1920x1080 7kbps】
+http://198.204.228.26/live/tjwshd.m3u8$V4【线路2】 【1920x1080 10kbps】
 #EXTINF:-1 tvg-id="天津卫视" tvg-name="天津卫视" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/天津卫视.png" group-title="卫视频道",天津卫视
-http://198.204.228.26/live/tjwshd.m3u8$V4【线路3】 【1920x1080 7kbps】
+http://63.141.230.178:82/gslb/zbdq5.m3u8?id=tjwshd$V4【线路3】 【1920x1080 7kbps】
 #EXTINF:-1 tvg-id="天津卫视" tvg-name="天津卫视" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/天津卫视.png" group-title="卫视频道",天津卫视
-http://63.141.230.178:82/gslb/zbdq5.m3u8?id=tjwshd$V4【线路4】 【1920x1080 4kbps】
-#EXTINF:-1 tvg-id="天津卫视" tvg-name="天津卫视" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/天津卫视.png" group-title="卫视频道",天津卫视
-http://112.46.85.60:8009/hls/44/index.m3u8$V4【线路5】 【1920x1080 256kbps】
+http://38.75.136.137:98/gslb/dsdqpub/tjwshd.m3u8?auth=testpub$V4【线路4】 【1920x1080 7kbps】
 #EXTINF:-1 tvg-id="海南卫视" tvg-name="海南卫视" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/海南卫视.png" group-title="卫视频道",海南卫视
-http://120.76.248.139/live/bfgd/4200000473.m3u8$LR—IPV4 【1920x1080@448kbps 11Mbps】
+http://120.76.248.139/live/bfgd/4200000473.m3u8$V4 【1920x1080 448kbps】
 #EXTINF:-1 tvg-id="新疆卫视" tvg-name="新疆卫视" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/新疆卫视.png" group-title="卫视频道",新疆卫视
-http://38.75.136.137:98/gslb/dsdqpub/xjws.m3u8?auth=testpub$V4【线路1】 【1920x1080 11kbps】
+http://107.150.60.122/live/xjws.m3u8$V4【线路1】 【1920x1080 10kbps】
 #EXTINF:-1 tvg-id="新疆卫视" tvg-name="新疆卫视" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/新疆卫视.png" group-title="卫视频道",新疆卫视
-http://107.150.60.122/live/xjws.m3u8$V4【线路2】 【1920x1080 7kbps】
+http://198.204.228.26/live/xjws.m3u8$V4【线路2】 【1920x1080 10kbps】
 #EXTINF:-1 tvg-id="新疆卫视" tvg-name="新疆卫视" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/新疆卫视.png" group-title="卫视频道",新疆卫视
-http://198.204.228.26/live/xjws.m3u8$V4【线路3】 【1920x1080 6kbps】
+http://38.75.136.137:98/gslb/dsdqpub/xjws.m3u8?auth=testpub$V4【线路3】 【1920x1080 8kbps】
 #EXTINF:-1 tvg-id="新疆卫视" tvg-name="新疆卫视" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/新疆卫视.png" group-title="卫视频道",新疆卫视
-http://63.141.230.178:82/gslb/zbdq5.m3u8?id=xjws$V4【线路4】 【1920x1080 5kbps】
+http://63.141.230.178:82/gslb/zbdq5.m3u8?id=xjws$V4【线路4】 【1920x1080 7kbps】
 #EXTINF:-1 tvg-id="新疆卫视" tvg-name="新疆卫视" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/新疆卫视.png" group-title="卫视频道",新疆卫视
 http://218.84.12.186:8001/hls/main/playlist.m3u8?zxinjd;http://218.84.12.186:8001/hls/main/playlist.m3u8zxinjd$V4【线路5】 【1920x1080 4kbps】
 #EXTINF:-1 tvg-id="云南卫视" tvg-name="云南卫视" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/云南卫视.png" group-title="卫视频道",云南卫视
-http://120.76.248.139/live/bfgd/4200000482.m3u8$V4【线路1】 【1920x1080@128kbps 12Mbps】
+http://120.76.248.139/live/bfgd/4200000482.m3u8$V4【线路1】 【1920x1080@128kbps 9Mbps】
 #EXTINF:-1 tvg-id="云南卫视" tvg-name="云南卫视" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/云南卫视.png" group-title="卫视频道",云南卫视
-http://107.150.60.122/live/ynwshd.m3u8$V4【线路2】 【1920x1080 7kbps】
+http://107.150.60.122/live/ynwshd.m3u8$V4【线路2】 【1920x1080 10kbps】
 #EXTINF:-1 tvg-id="云南卫视" tvg-name="云南卫视" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/云南卫视.png" group-title="卫视频道",云南卫视
-http://192.151.150.154/live/ynwshd.m3u8$V4【线路3】 【1920x1080 7kbps】
+http://192.151.150.154/live/ynwshd.m3u8$V4【线路3】 【1920x1080 10kbps】
 #EXTINF:-1 tvg-id="云南卫视" tvg-name="云南卫视" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/云南卫视.png" group-title="卫视频道",云南卫视
-http://63.141.230.178:82/gslb/zbdq5.m3u8?id=ynwshd$V4【线路4】 【1920x1080 5kbps】
+http://63.141.230.178:82/gslb/zbdq5.m3u8?id=ynwshd$V4【线路4】 【1920x1080 7kbps】
 #EXTINF:-1 tvg-id="西藏卫视" tvg-name="西藏卫视" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/西藏卫视.png" group-title="卫视频道",西藏卫视
-http://120.76.248.139/live/bfgd/4200000121.m3u8$V4【线路1】 【1920x1080@128kbps 12Mbps】
+http://120.76.248.139/live/bfgd/4200000121.m3u8$V4【线路1】 【1920x1080@128kbps 8Mbps】
 #EXTINF:-1 tvg-id="西藏卫视" tvg-name="西藏卫视" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/西藏卫视.png" group-title="卫视频道",西藏卫视
-http://183.11.239.36:808/hls/64/index.m3u8$V4【线路2】 【720x576@96kbps 235kbps】
+http://107.150.60.122/live/xzws.m3u8$V4【线路2】 【1920x1080 10kbps】
 #EXTINF:-1 tvg-id="西藏卫视" tvg-name="西藏卫视" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/西藏卫视.png" group-title="卫视频道",西藏卫视
-http://198.204.228.26/live/xzws.m3u8$V4【线路3】 【1920x1080 7kbps】
+http://63.141.230.178:82/gslb/zbdq5.m3u8?id=xzws$V4【线路3】 【1920x1080 6kbps】
 #EXTINF:-1 tvg-id="西藏卫视" tvg-name="西藏卫视" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/西藏卫视.png" group-title="卫视频道",西藏卫视
-http://107.150.60.122/live/xzws.m3u8$V4【线路4】 【1920x1080 7kbps】
+http://198.204.228.26/live/xzws.m3u8$V4【线路4】 【1920x1080 1kbps】
 #EXTINF:-1 tvg-id="西藏卫视" tvg-name="西藏卫视" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/西藏卫视.png" group-title="卫视频道",西藏卫视
-http://63.141.230.178:82/gslb/zbdq5.m3u8?id=xzws$V4【线路5】 【1920x1080 4kbps】
+http://183.11.239.36:808/hls/64/index.m3u8$V4【线路5】 【720x576 96kbps】
 #EXTINF:-1 tvg-id="海峡卫视" tvg-name="海峡卫视" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/海峡卫视.png" group-title="卫视频道",海峡卫视
-http://38.64.72.148:80/hls/modn/list/4009/playlist.m3u8$LR—IPV4 【1920x1080 122kbps】
+http://38.64.72.148:80/hls/modn/list/4009/playlist.m3u8$V4 【1920x1080 22kbps】
 #EXTINF:-1 tvg-id="兵团卫视" tvg-name="兵团卫视" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/兵团卫视.png" group-title="卫视频道",兵团卫视
-http://218.13.170.98:9901/tsfile/live/0115_1.m3u8$LR—IPV4 【720x576 96kbps】
+http://218.13.170.98:9901/tsfile/live/0115_1.m3u8$V4 【720x576 96kbps】
 #EXTINF:-1 tvg-id="农林卫视" tvg-name="农林卫视" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/农林卫视.png" group-title="卫视频道",农林卫视
-http://124.116.183.146:9901/tsfile/live/1004_1.m3u8$LR—IPV4 【720x576@128kbps 1Mbps】
+http://124.116.183.146:9901/tsfile/live/1004_1.m3u8$V4 【720x576@128kbps 859kbps】
 #EXTINF:-1 tvg-id="三沙卫视" tvg-name="三沙卫视" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/三沙卫视.png" group-title="卫视频道",三沙卫视
-http://38.75.136.137:98/gslb/dsdqpub/ssws.m3u8?auth=testpub$V4【线路1】 【720x576@128kbps 12kbps】
+http://221.226.51.220:50081/newlive/live/hls/38/live.m3u8$V4【线路1】 【1920x1080@128kbps 1Mbps】
 #EXTINF:-1 tvg-id="三沙卫视" tvg-name="三沙卫视" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/三沙卫视.png" group-title="卫视频道",三沙卫视
-http://198.204.228.26/live/ssws.m3u8$V4【线路2】 【720x576@128kbps 7kbps】
+http://198.204.228.26/live/ssws.m3u8$V4【线路2】 【720x576@128kbps 10kbps】
 #EXTINF:-1 tvg-id="三沙卫视" tvg-name="三沙卫视" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/三沙卫视.png" group-title="卫视频道",三沙卫视
-http://107.150.60.122/live/ssws.m3u8$V4【线路3】 【720x576@128kbps 7kbps】
+http://107.150.60.122/live/ssws.m3u8$V4【线路3】 【720x576@128kbps 10kbps】
 #EXTINF:-1 tvg-id="三沙卫视" tvg-name="三沙卫视" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/三沙卫视.png" group-title="卫视频道",三沙卫视
-http://63.141.230.178:82/gslb/zbdq5.m3u8?id=ssws$V4【线路4】 【720x576@128kbps 4kbps】
+http://38.75.136.137:98/gslb/dsdqpub/ssws.m3u8?auth=testpub$V4【线路4】 【720x576@128kbps 8kbps】
 #EXTINF:-1 tvg-id="三沙卫视" tvg-name="三沙卫视" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/三沙卫视.png" group-title="卫视频道",三沙卫视
-http://221.226.51.220:50081/newlive/live/hls/38/live.m3u8$V4【线路5】 【1920x1080 128kbps】
+http://63.141.230.178:82/gslb/zbdq5.m3u8?id=ssws$V4【线路5】 【720x576@128kbps 7kbps】
 #EXTINF:-1 tvg-id="延边卫视" tvg-name="延边卫视" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/延边卫视.png" group-title="卫视频道",延边卫视
-https://srs.iyb983.cn:443/video/CYS/index.m3u8$V4【线路1】 【1920x1080 22Mbps】
+https://srs.iyb983.cn:443/video/CYS/index.m3u8$V4【线路1】 【1920x1080 16Mbps】
 #EXTINF:-1 tvg-id="延边卫视" tvg-name="延边卫视" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/延边卫视.png" group-title="卫视频道",延边卫视
-https://srs.iyb983.cn/video/CYS/index.m3u8$V4【线路2】 【1920x1080 15Mbps】
+https://srs.iyb983.cn/video/CYS/index.m3u8$V4【线路2】 【1920x1080 16Mbps】
 #EXTINF:-1 tvg-id="凤凰中文" tvg-name="凤凰中文" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/凤凰中文.png" group-title="港·澳·台",凤凰中文
-https://7612-5516-affc-d88b.kylintv.tv/live/pxinhd_iphone.m3u8$V4【线路1】 【1280x720 46Mbps】
+https://7612-5516-affc-d88b.kylintv.tv/live/pxinhd_iphone.m3u8$V4【线路1】 【1280x720 81Mbps】
 #EXTINF:-1 tvg-id="凤凰中文" tvg-name="凤凰中文" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/凤凰中文.png" group-title="港·澳·台",凤凰中文
 http://r.jdshipin.com/cCCzW$V4【线路2】 【1920x1080】
 #EXTINF:-1 tvg-id="凤凰中文" tvg-name="凤凰中文" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/凤凰中文.png" group-title="港·澳·台",凤凰中文
 http://php.jdshipin.com/TVOD/iptv.php?id=fhzw$V4【线路3】 【1920x1080】
 #EXTINF:-1 tvg-id="凤凰资讯" tvg-name="凤凰资讯" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/凤凰资讯.png" group-title="港·澳·台",凤凰资讯
-http://173.208.234.146/live/fhzx.m3u8$V4【线路1】 【1280x720 7kbps】
+http://173.208.234.146/live/fhzx.m3u8$V4【线路1】 【1280x720 10kbps】
 #EXTINF:-1 tvg-id="凤凰资讯" tvg-name="凤凰资讯" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/凤凰资讯.png" group-title="港·澳·台",凤凰资讯
 http://r.jdshipin.com/0Rp07$V4【线路2】 【1920x1080】
 #EXTINF:-1 tvg-id="凤凰资讯" tvg-name="凤凰资讯" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/凤凰资讯.png" group-title="港·澳·台",凤凰资讯
 http://php.jdshipin.com/TVOD/iptv.php?id=fhzx$V4【线路3】 【1920x1080】
 #EXTINF:-1 tvg-id="凤凰香港" tvg-name="凤凰香港" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/凤凰香港.png" group-title="港·澳·台",凤凰香港
-http://173.208.234.146/live/fhxg.m3u8$V4【线路1】 【1280x720 7kbps】
+http://173.208.234.146/live/fhxg.m3u8$V4【线路1】 【1280x720 10kbps】
 #EXTINF:-1 tvg-id="凤凰香港" tvg-name="凤凰香港" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/凤凰香港.png" group-title="港·澳·台",凤凰香港
 http://r.jdshipin.com/yDoTN$V4【线路2】 【1920x1080】
 #EXTINF:-1 tvg-id="凤凰香港" tvg-name="凤凰香港" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/凤凰香港.png" group-title="港·澳·台",凤凰香港
@@ -580,13 +572,17 @@ http://r.jdshipin.com/NfC0f$V4【线路3】 【1920x1080】
 #EXTINF:-1 tvg-id="凤凰香港" tvg-name="凤凰香港" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/凤凰香港.png" group-title="港·澳·台",凤凰香港
 http://php.jdshipin.com/TVOD/iptv.php?id=fhhk$V4【线路4】 【1920x1080】
 #EXTINF:-1 tvg-id="TVBS亚洲" tvg-name="TVBS亚洲" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/TVBS亚洲.png" group-title="港·澳·台",TVBS亚洲
-http://38.64.72.148/hls/modn/list/4005/chunklist0.m3u8$V4【线路1】 【1920x1080 37Mbps】
+http://38.64.72.148/hls/modn/list/4005/chunklist0.m3u8$V4【线路1】 【1920x1080 5Mbps】
 #EXTINF:-1 tvg-id="TVBS亚洲" tvg-name="TVBS亚洲" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/TVBS亚洲.png" group-title="港·澳·台",TVBS亚洲
-http://38.64.72.148:80/hls/modn/list/4005/playlist.m3u8$V4【线路2】 【1920x1080 122kbps】
+http://38.64.72.148:80/hls/modn/list/4005/playlist.m3u8$V4【线路2】 【1920x1080 19kbps】
 #EXTINF:-1 tvg-id="Viutv" tvg-name="Viutv" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/Viutv.png" group-title="港·澳·台",Viutv
 http://r.jdshipin.com/vSJvl$V4【线路1】 【1920x1080 0kbps】
 #EXTINF:-1 tvg-id="Viutv" tvg-name="Viutv" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/Viutv.png" group-title="港·澳·台",Viutv
 http://r.jdshipin.com/TcKr2$V4【线路2】 【1920x1080 0kbps】
+#EXTINF:-1 tvg-id="Viutv" tvg-name="Viutv" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/Viutv.png" group-title="港·澳·台",Viutv
+http://php.jdshipin.com/TVOD/iptv.php?id=viutv$V4【线路3】 【1920x1080 0kbps】
+#EXTINF:-1 tvg-id="Viutv" tvg-name="Viutv" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/Viutv.png" group-title="港·澳·台",Viutv
+http://php.jdshipin.com/TVOD/iptv.php?id=viutv2$V4【线路4】 【1920x1080 0kbps】
 #EXTINF:-1 tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/翡翠台.png" group-title="港·澳·台",翡翠台
 http://r.jdshipin.com/qClQf$V4【线路1】 【1920x1080 256kbps】
 #EXTINF:-1 tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/翡翠台.png" group-title="港·澳·台",翡翠台
@@ -600,38 +596,34 @@ http://r.jdshipin.com/62WM7$V4【线路5】 【1920x1080】
 #EXTINF:-1 tvg-id="明珠台" tvg-name="明珠台" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/明珠台.png" group-title="港·澳·台",明珠台
 http://r.jdshipin.com/ZQ4kN$V4【线路1】 【1920x1080】
 #EXTINF:-1 tvg-id="明珠台" tvg-name="明珠台" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/明珠台.png" group-title="港·澳·台",明珠台
-http://r.jdshipin.com/jUx8K$V4【线路2】 【1920x1080】
-#EXTINF:-1 tvg-id="明珠台" tvg-name="明珠台" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/明珠台.png" group-title="港·澳·台",明珠台
-http://php.jdshipin.com/TVOD/iptv.php?id=mzt2$V4【线路3】 【1920x1080】
+http://php.jdshipin.com/TVOD/iptv.php?id=mzt2$V4【线路2】 【1920x1080】
 #EXTINF:-1 tvg-id="无线新闻" tvg-name="无线新闻" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/无线新闻.png" group-title="港·澳·台",无线新闻
-https://h5cdn3.kylintv.tv/live/tvbnews_iphone.m3u8$V4【线路1】 【1280x720 34Mbps】
+https://h5cdn3.kylintv.tv/live/tvbnews_iphone.m3u8$V4【线路1】 【1280x720 56Mbps】
 #EXTINF:-1 tvg-id="无线新闻" tvg-name="无线新闻" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/无线新闻.png" group-title="港·澳·台",无线新闻
 http://r.jdshipin.com/CkuBd$V4【线路2】 【1920x1080】
 #EXTINF:-1 tvg-id="无线新闻" tvg-name="无线新闻" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/无线新闻.png" group-title="港·澳·台",无线新闻
 http://php.jdshipin.com/TVOD/iptv.php?id=wxxw$V4【线路3】 【1920x1080】
 #EXTINF:-1 tvg-id="东森超视" tvg-name="东森超视" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/东森超视.png" group-title="港·澳·台",东森超视
-http://38.64.72.148:80/hls/modn/list/2013/chunklist1.m3u8$LR—IPV4 【1920x1080 47Mbps】
-#EXTINF:-1 tvg-id="卡酷少儿" tvg-name="卡酷少儿" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/卡酷少儿.png" group-title="少儿频道",卡酷少儿
-http://218.13.170.98:9901/tsfile/live/1021_1.m3u8$LR—IPV4 【720x576 96kbps】
+http://38.64.72.148:80/hls/modn/list/2013/chunklist1.m3u8$V4 【1920x1080 7Mbps】
 #EXTINF:-1 tvg-id="哈哈炫动" tvg-name="哈哈炫动" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/哈哈炫动.png" group-title="少儿频道",哈哈炫动
-http://63.141.230.178:82/gslb/zbdq5.m3u8?id=xdkthd$LR—IPV4 【1920x1080 4kbps】
-#EXTINF:-1 tvg-id="优漫卡通" tvg-name="优漫卡通" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/优漫卡通.png" group-title="少儿频道",优漫卡通
-http://t.061899.xyz/tl/tl.php?id=ymkt$LR—IPV4 【1920x1080】
+http://63.141.230.178:82/gslb/zbdq5.m3u8?id=xdkthd$V4 【1920x1080 7kbps】
+#EXTINF:-1 tvg-id="金鹰卡通" tvg-name="金鹰卡通" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/金鹰卡通.png" group-title="少儿频道",金鹰卡通
+http://183.11.239.36:808/hls/69/index.m3u8$V4 【720x576 112kbps】
 #EXTINF:-1 tvg-id="CHC动作电影" tvg-name="CHC动作电影" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/CHC动作电影.png" group-title="影视频道",CHC动作电影
-http://38.75.136.137:98/gslb/dsdqpub/chcdz.m3u8?auth=testpub$V4【线路1】 【1920x1080 11kbps】
+http://192.151.150.154/live/chcdz.m3u8$V4【线路1】 【1920x1080 10kbps】
 #EXTINF:-1 tvg-id="CHC动作电影" tvg-name="CHC动作电影" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/CHC动作电影.png" group-title="影视频道",CHC动作电影
-http://192.151.150.154/live/chcdz.m3u8$V4【线路2】 【1920x1080 7kbps】
+http://107.150.60.122/live/chcdz.m3u8$V4【线路2】 【1920x1080 10kbps】
 #EXTINF:-1 tvg-id="CHC动作电影" tvg-name="CHC动作电影" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/CHC动作电影.png" group-title="影视频道",CHC动作电影
-http://107.150.60.122/live/chcdz.m3u8$V4【线路3】 【1920x1080 7kbps】
+http://198.204.228.26/live/chcdz.m3u8$V4【线路3】 【1920x1080 10kbps】
 #EXTINF:-1 tvg-id="CHC动作电影" tvg-name="CHC动作电影" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/CHC动作电影.png" group-title="影视频道",CHC动作电影
-http://198.204.228.26/live/chcdz.m3u8$V4【线路4】 【1920x1080 7kbps】
+http://38.75.136.137:98/gslb/dsdqpub/chcdz.m3u8?auth=testpub$V4【线路4】 【1280x720 8kbps】
 #EXTINF:-1 tvg-id="CHC家庭影院" tvg-name="CHC家庭影院" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/CHC家庭影院.png" group-title="影视频道",CHC家庭影院
-http://38.75.136.137:98/gslb/dsdqpub/chcjt.m3u8?auth=testpub$V4【线路1】 【1920x1080 13kbps】
+http://192.151.150.154/live/chcjt.m3u8$V4【线路1】 【1920x1080 11kbps】
 #EXTINF:-1 tvg-id="CHC家庭影院" tvg-name="CHC家庭影院" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/CHC家庭影院.png" group-title="影视频道",CHC家庭影院
-http://107.150.60.122/live/chcjt.m3u8$V4【线路2】 【1920x1080 7kbps】
+http://107.150.60.122/live/chcjt.m3u8$V4【线路2】 【1920x1080 10kbps】
 #EXTINF:-1 tvg-id="CHC家庭影院" tvg-name="CHC家庭影院" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/CHC家庭影院.png" group-title="影视频道",CHC家庭影院
-http://192.151.150.154/live/chcjt.m3u8$V4【线路3】 【1920x1080 7kbps】
+http://198.204.228.26/live/chcjt.m3u8$V4【线路3】 【1920x1080 10kbps】
 #EXTINF:-1 tvg-id="CHC家庭影院" tvg-name="CHC家庭影院" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/CHC家庭影院.png" group-title="影视频道",CHC家庭影院
-http://198.204.228.26/live/chcjt.m3u8$V4【线路4】 【1920x1080 7kbps】
+http://38.75.136.137:98/gslb/dsdqpub/chcjt.m3u8?auth=testpub$V4【线路4】 【1920x1080 8kbps】
 #EXTINF:-1 tvg-id="CHC家庭影院" tvg-name="CHC家庭影院" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/CHC家庭影院.png" group-title="影视频道",CHC家庭影院
-http://63.141.230.178:82/gslb/zbdq5.m3u8?id=chcjt$V4【线路5】 【1920x1080 5kbps】
+http://63.141.230.178:82/gslb/zbdq5.m3u8?id=chcjt$V4【线路5】 【1920x1080 1kbps】
