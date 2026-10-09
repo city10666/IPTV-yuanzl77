@@ -12,7 +12,7 @@ ip_version_priority = "ipv6"
 source_priority = "hotel"
 
 # 每频道最大线路数，0 = 不限制
-max_lines_per_channel = 8
+max_lines_per_channel = 0
 
 # ── 订阅源 ───────────────────────────────────────────────────────
 # 每个 URL 都是一个 IPTV 直播源文件（支持 m3u 或 txt 格式）
@@ -22,7 +22,8 @@ source_urls = [
     "https://guovin.github.io/iptv-api/result.m3u",
     "https://raw.githubusercontent.com/hehonghui/simple-iptv/refs/heads/main/simple.m3u",
     "https://iamhelloandyou.github.io/iptv-aggregator/output/iptv.m3u",
-    "https://cdn.jsdelivr.net/gh/jas1n/iptv-list@main/iptv.m3u"
+    "https://cdn.jsdelivr.net/gh/jas1n/iptv-list@main/iptv.m3u",
+    "https://raw.githubusercontent.com/Guovin/iptv-api/gd/output/result.m3u"
 ]
 
 # ── 酒店源 ────────────────────────────────────────────
