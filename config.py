@@ -19,6 +19,7 @@ max_lines_per_channel = 0
 # main.py 会依次请求这些地址，提取频道名和播放地址
 # 注：被注释掉的源暂时停用，可取消注释启用
 source_urls = [
+    "https://raw.githubusercontent.com/pq0000/iptv-auto/refs/heads/main/output/favorites.m3u",
     "https://guovin.github.io/iptv-api/result.m3u",
     "https://raw.githubusercontent.com/hehonghui/simple-iptv/refs/heads/main/simple.m3u",
     "https://iamhelloandyou.github.io/iptv-aggregator/output/iptv.m3u",
