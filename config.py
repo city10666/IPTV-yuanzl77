@@ -26,7 +26,7 @@ source_urls = [
     "https://cdn.jsdelivr.net/gh/jas1n/iptv-list@main/iptv.m3u",
     "https://raw.githubusercontent.com/Guovin/iptv-api/gd/output/result.m3u",
     "https://raw.githubusercontent.com/vbskycn/iptv/refs/heads/master/tv/iptv4.m3u",
-    "https://github.com/hujingguang/ChinaIPTV/blob/main/cnTV_AutoUpdate.m3u8"
+    "https://raw.githubusercontent.com/hujingguang/ChinaIPTV/main/cnTV_AutoUpdate.m3u8"
 ]
 
 # ── 酒店源 ────────────────────────────────────────────
