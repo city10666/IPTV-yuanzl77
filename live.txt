@@ -1,257 +1,370 @@
 公告-yuanzl77,#genre#
 央视频道,#genre#
-CETV1,http://120.76.248.139/live/bfgd/4200000135.m3u8$V4【线路1】 【1920x1080 9Mbps】
-CETV1,http://38.75.136.137:98/gslb/dsdqpub/cetv1hd.m3u8?auth=testpub$V4【线路2】 【1920x1080 8kbps】
-CETV1,http://198.204.228.26/live/cetv1hd.m3u8$V4【线路3】 【1920x1080 6kbps】
-CETV1,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cetv1hd$V4【线路4】 【1920x1080 4kbps】
-CETV1,http://guovin.central.eu.cc/43d70d02-cccb-4db1-a596-9bdfae7e585c/relay/ysp-cetv1.m3u8$V4【线路5】 【1920x1080】
-CETV3,http://107.150.60.122/live/cetv3.m3u8$V4【线路1】 【720x576 6kbps】
-CETV3,http://198.204.228.26/live/cetv3.m3u8$V4【线路2】 【720x576 6kbps】
+CCTV1,http://74.91.26.218:82/live/cctv1hd.m3u8$V4【线路1】 【1280x720 22Mbps】
+CCTV1,http://204.12.221.218:8181/3m1080p/cctv1.m3u8$V4【线路2】 【1280x720 12kbps】
+CCTV1,http://198.204.228.26/live/cctv1hd.m3u8$V4【线路3】 【1280x720 12kbps】
+CCTV1,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv1hd$V4【线路4】 【1920x1080 8kbps】
+CCTV1,http://38.75.136.137:98/gslb/dsdqbv/cctv1hd.m3u8?auth=test20251009$V4【线路5】 【1280x720 8kbps】
+CCTV1,http://173.208.212.130:8181/720p/cctv1.m3u8$V4【线路6】 【1280x720 1kbps】
+CCTV1,http://118.122.144.115:8888/newlive/live/hls/1/live.m3u8$V4【线路7】 【1920x1080 256kbps】
+CCTV1,http://112.46.85.60:8009/hls/501/index.m3u8$V4【线路8】 【1920x1080 256kbps】
+CCTV2,http://58.56.162.102:4466/newlive/live/hls/2/live.m3u8$V4【线路1】 【1920x1080@256kbps 718kbps】
+CCTV2,http://204.12.221.218:8181/3m1080p/cctv2.m3u8$V4【线路2】 【1280x720 12kbps】
+CCTV2,http://192.151.150.154/live/cctv2hd.m3u8$V4【线路3】 【1280x720 12kbps】
+CCTV2,http://107.150.60.122/live/cctv2hd.m3u8$V4【线路4】 【1280x720 12kbps】
+CCTV2,http://198.204.228.26/live/cctv2hd.m3u8$V4【线路5】 【1280x720 12kbps】
+CCTV2,http://74.91.26.218:82/live/cctv2hd.m3u8$V4【线路6】 【1280x720 12kbps】
+CCTV2,http://173.208.234.146/live/cctv2.m3u8$V4【线路7】 【1280x720 12kbps】
+CCTV2,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv2hd$V4【线路8】 【1920x1080 8kbps】
+CCTV2,http://bztv.tvbus.cc:8081/cdnlive/cctv2.m3u8$V4【线路9】 【1280x720 2kbps】
+CCTV2,http://173.208.212.130:8181/1080p/cctv2.m3u8$V4【线路10】 【1280x720 1kbps】
+CCTV3,http://74.91.26.218:82/live/cctv3hd.m3u8$V4【线路1】 【1280x720 55Mbps】
+CCTV3,http://121.57.88.206:898/hls/3/index.m3u8$V4【线路2】 【1920x1080 9Mbps】
+CCTV3,http://107.150.60.122/live/cctv3hd.m3u8$V4【线路3】 【1920x1080 12kbps】
+CCTV3,http://69.30.245.50/live/cctv3.m3u8$V4【线路4】 【1920x1080 12kbps】
+CCTV3,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv3hd$V4【线路5】 【1280x720 8kbps】
+CCTV3,http://113.15.109.216:59901/tsfile/live/0003_1.m3u8?key=txiptv&playlive=1&authid=0$V4【线路6】 【1920x1080 256kbps】
+CCTV4,https://live-play-hls.cctvnews.cctv.com/CCTVChannel/channel_cctv4_mbd.m3u8?auth_key=1791957600-1-b59134a2ead43d7f783f943c8f535e7bb80c5169575b2e8efcd5b3ddea21b41c-8aff562b50340bde45c56b4ba28f2bab&yid=b59134a2ead43d7f783f943c8f535e7bb80c5169575b2e8efcd5b3ddea21b41c$V4【线路1】 【1920x1080 90Mbps】
+CCTV4,http://120.211.62.180:8000/hls/4/index.m3u8$V4【线路2】 【1920x1080@256kbps 10Mbps】
+CCTV4,https://dash2.antik.sk/live/test_cctv_tizen/playlist.m3u8$V4【线路3】 【1280x720 6Mbps】
+CCTV4,http://221.226.51.220:50081/newlive/live/hls/4/live.m3u8$V4【线路4】 【720x576@128kbps 6Mbps】
+CCTV4,http://118.122.144.115:8888/newlive/live/hls/4/live.m3u8$V4【线路5】 【1920x1080@256kbps 2Mbps】
+CCTV4,http://69.30.245.50/live/cctv4.m3u8$V4【线路6】 【1920x1080 12kbps】
+CCTV4,http://74.91.26.218:82/live/cctv4hd.m3u8$V4【线路7】 【1280x720 12kbps】
+CCTV4,http://107.150.60.122/live/cctv4hd.m3u8$V4【线路8】 【1280x720 12kbps】
+CCTV4,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv4k$V4【线路9】 【1920x1080 8kbps】
+CCTV4,http://38.75.136.137:98/gslb/dsdqpub/cctv4k.m3u8?auth=testpub$V4【线路10】 【1920x1080 8kbps】
+CCTV4,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv4hd$V4【线路11】 【1280x720 8kbps】
+CCTV4,http://173.208.212.130:8181/720p/cctv4.m3u8$V4【线路12】 【1920x1080 1kbps】
+CCTV4,http://173.208.212.130:8181/1080p/cctv4.m3u8$V4【线路13】 【1280x720 1kbps】
+CCTV4,http://183.11.239.36:808/hls/22/index.m3u8$V4【线路14】 【720x576 96kbps】
+CCTV4,http://207.56.13.146:81/cdnlive/cctv4.m3u8$V4【线路15】 【1280x720】
+CCTV5,http://107.150.60.122/live/cctv5hd.m3u8$V4【线路1】 【1280x720 12kbps】
+CCTV5,http://173.208.234.146/live/cctv5p.m3u8$V4【线路2】 【1280x720 11kbps】
+CCTV5,http://38.75.136.137:98/gslb/dsdqpub/cctv5p.m3u8?auth=testpub$V4【线路3】 【1920x1080 8kbps】
+CCTV5,http://173.208.212.130:8181/720p/cctv5.m3u8$V4【线路4】 【1920x1080 1kbps】
+CCTV5,http://153.0.171.163:85/tsfile/live/1015_1.m3u8?key=txiptv&playlive=1&authid=0$V4【线路5】 【1920x1080 256kbps】
+CCTV5,http://69.30.245.50/live/cctv5.m3u8$V4【线路6】 【1280x720】
+CCTV5,http://207.56.13.146:81/cdnlive/cctv5.m3u8$V4【线路7】 【1280x720】
+CCTV5+,http://120.76.248.139/live/bfgd/4200000246.m3u8$V4【线路1】 【1920x1080@448kbps 14Mbps】
+CCTV5+,http://222.169.85.8:9901/tsfile/live/0116_1.m3u8$V4【线路2】 【1920x1080 4Mbps】
+CCTV5+,http://38.75.136.137:98/gslb/dsdqbv/cctv5p.m3u8?auth=test20251009$V4【线路3】 【1280x720 9kbps】
+CCTV5+,http://t.061899.xyz/tl/tl.php?id=cctv5p$V4【线路4】 【1920x1080】
+CCTV6,http://74.91.26.218:82/live/cctv6hd.m3u8$V4【线路1】 【1280x720 12kbps】
+CCTV6,http://198.204.228.26/live/cctv6hd.m3u8$V4【线路2】 【1280x720 12kbps】
+CCTV6,http://69.30.245.50/live/cctv6.m3u8$V4【线路3】 【1280x720 12kbps】
+CCTV6,http://198.204.240.250:82/live/cctv6.m3u8$V4【线路4】 【1280x720 8kbps】
+CCTV6,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv6hd$V4【线路5】 【1280x720 7kbps】
+CCTV6,http://173.208.212.130:8181/1080p/cctv6.m3u8$V4【线路6】 【1280x720 1kbps】
+CCTV6,http://58.56.162.102:4466/newlive/live/hls/7/live.m3u8$V4【线路7】 【1920x1080】
+CCTV7,http://69.30.245.50/live/cctv7.m3u8$V4【线路1】 【1920x1080 12kbps】
+CCTV7,http://107.150.60.122/live/cctv7hd.m3u8$V4【线路2】 【1920x1080 12kbps】
+CCTV7,http://74.91.26.218:82/live/cctv7hd.m3u8$V4【线路3】 【1280x720 12kbps】
+CCTV7,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv7hd$V4【线路4】 【1280x720 8kbps】
+CCTV7,http://183.11.239.36:808/hls/25/index.m3u8$V4【线路5】 【720x576 96kbps】
+CCTV7,http://t.061899.xyz/tl/tl.php?id=cctv7$V4【线路6】 【1920x1080】
+CCTV7,http://207.56.13.146:81/cdnlive/cctv7.m3u8$V4【线路7】 【1280x720】
+CCTV8,http://69.30.245.50/live/cctv8.m3u8$V4【线路1】 【1280x720 12kbps】
+CCTV8,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv8hd$V4【线路2】 【1920x1080 8kbps】
+CCTV8,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv8k$V4【线路3】 【1920x1080 8kbps】
+CCTV8,http://bztv.tvbus.cc:8081/cdnlive/cctv8.m3u8$V4【线路4】 【1280x720 2kbps】
+CCTV8,http://74.91.26.218:82/live/cctv8hd.m3u8$V4【线路5】 【1280x720 1kbps】
+CCTV8,http://173.208.212.130:8181/720p/cctv8.m3u8$V4【线路6】 【1280x720 1kbps】
+CCTV8,http://207.56.13.146:81/cdnlive/cctv8.m3u8$V4【线路7】 【1280x720】
+CCTV9,http://74.91.26.218:82/live/cctv9hd.m3u8$V4【线路1】 【1280x720 49Mbps】
+CCTV9,http://120.76.248.139/live/bfgd/4200000128.m3u8$V4【线路2】 【1920x1080@448kbps 10Mbps】
+CCTV9,http://112.46.85.60:8009/hls/509/index.m3u8$V4【线路3】 【1920x1080@256kbps 539kbps】
+CCTV9,http://198.204.228.26/live/cctv9hd.m3u8$V4【线路4】 【1920x1080 12kbps】
+CCTV9,http://69.30.245.50/live/cctv9.m3u8$V4【线路5】 【1920x1080 12kbps】
+CCTV9,http://107.150.60.122/live/cctv9hd.m3u8$V4【线路6】 【1920x1080 12kbps】
+CCTV9,http://192.151.150.154/live/cctv9hd.m3u8$V4【线路7】 【1280x720 12kbps】
+CCTV9,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv9hd$V4【线路8】 【1280x720 7kbps】
+CCTV9,http://118.122.144.115:8888/newlive/live/hls/10/live.m3u8$V4【线路9】 【1920x1080 256kbps】
+CCTV10,http://69.30.245.50/live/cctv10.m3u8$V4【线路1】 【1920x1080 12kbps】
+CCTV10,http://204.12.221.218:8181/3m1080p/cctv10.m3u8$V4【线路2】 【1920x1080 12kbps】
+CCTV10,http://74.91.26.218:82/live/cctv10hd.m3u8$V4【线路3】 【1280x720 12kbps】
+CCTV10,http://38.75.136.137:98/gslb/dsdqbv/cctv10hd.m3u8?auth=test20251009$V4【线路4】 【1280x720 9kbps】
+CCTV10,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv10hd$V4【线路5】 【1280x720 8kbps】
+CCTV10,http://bztv.tvbus.cc:8081/cdnlive/cctv10.m3u8$V4【线路6】 【1920x1080 2kbps】
+CCTV10,http://113.25.252.226:9901/tsfile/live/1014_1.m3u8?key=txiptv&playlive=1&authid=0$V4【线路7】 【720x576 96kbps】
+CCTV10,http://t.061899.xyz/tl/tl.php?id=cctv10$V4【线路8】 【1920x1080】
+CCTV11,http://198.204.228.26/live/cctv11hd.m3u8$V4【线路1】 【1920x1080 12kbps】
+CCTV11,http://204.12.221.218:8181/3m1080p/cctv11.m3u8$V4【线路2】 【1920x1080 12kbps】
+CCTV11,http://38.75.136.137:98/gslb/dsdqbv/cctv11hd.m3u8?auth=test20251009$V4【线路3】 【1280x720 9kbps】
+CCTV11,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv11hd$V4【线路4】 【1920x1080 8kbps】
+CCTV11,http://38.75.136.137:98/gslb/dsdqpub/cctv11hd.m3u8?auth=testpub$V4【线路5】 【1920x1080 8kbps】
+CCTV11,http://74.91.26.218:82/live/cctv11hd.m3u8$V4【线路6】 【1280x720 1kbps】
+CCTV11,http://183.11.239.36:808/hls/29/index.m3u8$V4【线路7】 【720x576 96kbps】
+CCTV11,http://113.25.252.226:9901/tsfile/live/1015_1.m3u8?key=txiptv&playlive=1&authid=0$V4【线路8】 【720x576 96kbps】
+CCTV12,http://74.91.26.218:82/live/cctv12hd.m3u8$V4【线路1】 【1280x720 18Mbps】
+CCTV12,http://113.57.140.161:10081/newlive/live/hls/13/live.m3u8$V4【线路2】 【1920x1080@192kbps 15Mbps】
+CCTV12,http://222.223.41.27:8888/hls/12/index.m3u8$V4【线路3】 【1920x1080@256kbps 7Mbps】
+CCTV12,http://112.46.85.60:8009/hls/507/index.m3u8$V4【线路4】 【1920x1080@256kbps 712kbps】
+CCTV12,http://204.12.221.218:8181/3m1080p/cctv12.m3u8$V4【线路5】 【1920x1080 12kbps】
+CCTV12,http://38.75.136.137:98/gslb/dsdqbv/cctv12hd.m3u8?auth=test20251009$V4【线路6】 【1280x720 9kbps】
+CCTV12,http://38.75.136.137:98/gslb/dsdqpub/cctv12hd.m3u8?auth=testpub$V4【线路7】 【1280x720 8kbps】
+CCTV12,http://107.150.60.122/live/cctv12hd.m3u8$V4【线路8】 【1280x720 1kbps】
+CCTV12,http://124.165.251.82:85/tsfile/live/0012_1.m3u8?key=txiptv&playlive=1&authid=0$V4【线路9】 【1920x1080】
+CCTV13,http://120.76.248.139/live/bfgd/4200000067.m3u8$V4【线路1】 【1920x1080@448kbps 14Mbps】
+CCTV13,http://ali-m-l.cztv.com/channels/lantian/channel21/1080p.m3u8$V4【线路2】 【1920x1080 7Mbps】
+CCTV13,http://113.15.109.216:59901/tsfile/live/0013_1.m3u8?key=txiptv&playlive=1&authid=0$V4【线路3】 【720x576@256kbps 1Mbps】
+CCTV13,http://74.91.26.218:82/live/cctv13hd.m3u8$V4【线路4】 【1280x720 13kbps】
+CCTV13,http://38.75.136.137:98/gslb/dsdqbv/cctv13hd.m3u8?auth=test20251009$V4【线路5】 【1280x720 9kbps】
+CCTV13,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv13hd$V4【线路6】 【1920x1080 8kbps】
+CCTV13,http://bztv.tvbus.cc:8081/cdnlive/cctv13.m3u8$V4【线路7】 【1920x1080 2kbps】
+CCTV13,http://go.bkpcp.top/mg/cctv13$V4【线路8】 【1920x1080 3599kbps】
+CCTV13,http://113.25.252.226:9901/tsfile/live/1017_1.m3u8?key=txiptv&playlive=1&authid=0$V4【线路9】 【720x576 96kbps】
+CCTV13,http://183.11.239.36:808/hls/31/index.m3u8$V4【线路10】 【720x576 96kbps】
+CCTV14,http://120.211.62.180:8000/hls/14/index.m3u8$V4【线路1】 【1920x1080@256kbps 11Mbps】
+CCTV14,http://74.91.26.218:82/live/cctv14hd.m3u8$V4【线路2】 【1920x1080 13kbps】
+CCTV14,http://204.12.221.218:8181/3m1080p/cctv14.m3u8$V4【线路3】 【1280x720 13kbps】
+CCTV14,http://198.204.228.26/live/cctv14hd.m3u8$V4【线路4】 【1280x720 12kbps】
+CCTV14,http://38.75.136.137:98/gslb/dsdqbv/cctv14hd.m3u8?auth=test20251009$V4【线路5】 【1280x720 9kbps】
+CCTV14,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv14hd$V4【线路6】 【1280x720 8kbps】
+CCTV14,http://173.208.212.130:8181/1080p/cctv14.m3u8$V4【线路7】 【1280x720 1kbps】
+CCTV15,http://198.204.228.26/live/cctv15hd.m3u8$V4【线路1】 【1280x720 13kbps】
+CCTV15,http://204.12.221.218:8181/3m1080p/cctv15.m3u8$V4【线路2】 【1280x720 12kbps】
+CCTV15,http://74.91.26.218:82/live/cctv15hd.m3u8$V4【线路3】 【1280x720 12kbps】
+CCTV15,http://38.75.136.137:98/gslb/dsdqbv/cctv15hd.m3u8?auth=test20251009$V4【线路4】 【1280x720 9kbps】
+CCTV15,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv15hd$V4【线路5】 【1280x720 8kbps】
+CCTV15,http://173.208.212.130:8181/1080p/cctv15.m3u8$V4【线路6】 【1280x720 1kbps】
+CCTV16,http://221.226.51.220:50081/newlive/live/hls/1/live.m3u8$V4【线路1】 【1920x1080 15Mbps】
+CCTV16,http://38.75.136.137:98/gslb/dsdqpub/cctv16hd.m3u8?auth=testpub$V4【线路2】 【1920x1080 8kbps】
+CCTV16,http://38.75.136.137:98/gslb/dsdqbv/cctv16hd.m3u8?auth=test20251009$V4【线路3】 【1280x720 8kbps】
+CCTV16,http://207.56.13.146:81/cdnlive/cctv16.m3u8$V4【线路4】 【1280x720】
+CCTV17,http://74.91.26.218:82/live/cctv17hd.m3u8$V4【线路1】 【1920x1080 12kbps】
+CCTV17,http://38.75.136.137:98/gslb/dsdqbv/cctv17hd.m3u8?auth=test20251009$V4【线路2】 【1280x720 9kbps】
+CCTV17,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv17hd$V4【线路3】 【1280x720 8kbps】
+CCTV17,http://113.15.109.216:59901/tsfile/live/1003_1.m3u8?key=txiptv&playlive=1&authid=0$V4【线路4】 【720x576@256kbps 6kbps】
+CETV1,http://120.76.248.139/live/bfgd/4200000135.m3u8$V4【线路1】 【1920x1080 6Mbps】
+CETV1,http://198.204.228.26/live/cetv1hd.m3u8$V4【线路2】 【720x576 12kbps】
+CETV1,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cetv1hd$V4【线路3】 【720x576 8kbps】
+CETV1,http://38.75.136.137:98/gslb/dsdqpub/cetv1hd.m3u8?auth=testpub$V4【线路4】 【720x576 8kbps】
+CETV3,http://107.150.60.122/live/cetv3.m3u8$V4【线路1】 【720x576 12kbps】
+CETV3,http://198.204.228.26/live/cetv3.m3u8$V4【线路2】 【720x576 12kbps】
 广东频道,#genre#
-广东珠江,http://38.75.136.137:98/gslb/dsdqpub/gdzja.m3u8?auth=testpub$V4【线路1】 【1280x720 8kbps】
-广东珠江,http://38.75.136.137:98/gslb/dsdqpub/gdzj.m3u8?auth=testpub$V4【线路2】 【1920x1080 1kbps】
-广东体育,http://38.75.136.137:98/gslb/dsdqpub/gdty.m3u8?auth=testpub$V4【线路1】 【1280x720 7kbps】
-广东体育,http://r.jdshipin.com/LiYdg$V4【线路2】 【1920x1080 256kbps】
-广东体育,http://php.jdshipin.com/PLTV/iptv.php?id=gdty$V4【线路3】 【1920x1080 256kbps】
-广东体育,http://php.jdshipin.com/TVOD/iptv.php?id=gdty$V4【线路4】 【1920x1080 256kbps】
-广东民生,http://38.75.136.137:98/gslb/dsdqpub/gdgg.m3u8?auth=testpub$V4 【1280x720 7kbps】
-大湾区卫视,http://38.75.136.137:98/gslb/dsdqpub/nfws.m3u8?auth=testpub$V4【线路1】 【1920x1080 8kbps】
-大湾区卫视,http://198.204.228.26/live/nfws.m3u8$V4【线路2】 【1920x1080 6kbps】
-大湾区卫视,http://107.150.60.122/live/nfws.m3u8$V4【线路3】 【1920x1080 6kbps】
-大湾区卫视,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=nfws$V4【线路4】 【1920x1080 4kbps】
+广东珠江,http://173.208.234.146/live/gdzj.m3u8$V4【线路1】 【1920x1080 12kbps】
+广东珠江,http://38.75.136.137:98/gslb/dsdqpub/gdzj.m3u8?auth=testpub$V4【线路2】 【1920x1080 8kbps】
+广东珠江,http://38.75.136.137:98/gslb/dsdqpub/gdzja.m3u8?auth=testpub$V4【线路3】 【1280x720 8kbps】
+广东珠江,http://74.91.26.218:82/live/gdzj.m3u8$V4【线路4】 【1920x1080 7kbps】
+广东珠江,http://r.jdshipin.com/sE5vO$V4【线路5】 【1920x1080 256kbps】
+广东体育,http://173.208.234.146/live/gdty.m3u8$V4【线路1】 【1280x720 12kbps】
+广东体育,http://38.75.136.137:98/gslb/dsdqpub/gdty.m3u8?auth=testpub$V4【线路2】 【1280x720 8kbps】
+广东体育,http://r.jdshipin.com/LiYdg$V4【线路3】 【1920x1080 256kbps】
+广东体育,http://php.jdshipin.com/PLTV/iptv.php?id=gdty$V4【线路4】 【1920x1080 256kbps】
+广东体育,http://php.jdshipin.com/TVOD/iptv.php?id=gdty$V4【线路5】 【1920x1080 256kbps】
+广东民生,http://38.75.136.137:98/gslb/dsdqpub/gdgg.m3u8?auth=testpub$V4 【1280x720 8kbps】
+大湾区卫视,http://198.204.228.26/live/nfws.m3u8$V4【线路1】 【1920x1080 12kbps】
+大湾区卫视,http://107.150.60.122/live/nfws.m3u8$V4【线路2】 【1280x720 12kbps】
+大湾区卫视,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=nfws$V4【线路3】 【1920x1080 8kbps】
+大湾区卫视,http://38.75.136.137:98/gslb/dsdqpub/nfws.m3u8?auth=testpub$V4【线路4】 【1280x720 8kbps】
 大湾区卫视,http://222.128.55.152:9080/live/dwq.m3u8$V4【线路5】 【1920x1080】
 广州综合,http://tencentplay.gztv.com/live/zonghes.m3u8?txSecret=c8dbe86d6f86eb1a21999ab479fd5667&txTime=18d3c4690e8$V4【线路1】 【1280x720 2Mbps】
-广州综合,https://tencentplay.gztv.com/live/zonghes.m3u8?txSecret=439b0fd2cf766b363c93a59cbcbe1370&txTime=18d00acf488$V4【线路2】 【1280x720 1Mbps】
-广州综合,https://tencentplay.gztv.com/live/zonghes.m3u8?txSecret=f0147ae6453a80f5989f382368b72aad&txTime=18d00acf487$V4【线路3】 【1280x720 1Mbps】
+广州综合,https://tencentplay.gztv.com/live/zonghes.m3u8?txSecret=439b0fd2cf766b363c93a59cbcbe1370&txTime=18d00acf488$V4【线路2】 【1280x720 2Mbps】
+广州综合,https://tencentplay.gztv.com/live/zonghes.m3u8?txSecret=f0147ae6453a80f5989f382368b72aad&txTime=18d00acf487$V4【线路3】 【1280x720 2Mbps】
 广州综合,https://tencentplaybusiness.gztv.com/live/zonghes.m3u8$V4【线路4】 【1280x720 1Mbps】
-广州综合,https://tencentplay.gztv.com/live/zonghes.m3u8?txSecret=e381ab098841a0badbf7e11f24143cf7&txTime=18e6ff43701$V4【线路5】 【1280x720 1Mbps】
+广州综合,http://php.jdshipin.com:8880/gztv.php?id=zhonghe$V4【线路5】 【1280x720】
 广州综合,http://r.jdshipin.com/iR6Gq$V4【线路6】 【1280x720】
-深圳卫视,http://120.76.248.139/live/bfgd/4200000100.m3u8$V4【线路1】 【1920x1080@448kbps 17Mbps】
-深圳卫视,http://38.64.72.148:80/hls/modn/list/4007/playlist.m3u8$V4【线路2】 【1920x1080 37kbps】
-深圳卫视,http://38.75.136.137:98/gslb/dsdqpub/szwshd.m3u8?auth=testpub$V4【线路3】 【1920x1080 8kbps】
-深圳卫视,http://107.150.60.122/live/szwshd.m3u8$V4【线路4】 【1920x1080 6kbps】
-深圳卫视,http://74.91.26.218:82/live/szwshd.m3u8$V4【线路5】 【1920x1080 6kbps】
-深圳卫视,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=szwshd$V4【线路6】 【1920x1080 4kbps】
-深圳卫视,http://guovin.central.eu.cc/43d70d02-cccb-4db1-a596-9bdfae7e585c/relay/ysp-szws.m3u8$V4【线路7】 【1920x1080】
-深圳卫视,http://120.238.94.82:9901/tsfile/live/1065_1.m3u8$V4【线路8】 【1920x1080@256kbps 5Mbps】
+广州综合,http://r.jdshipin.com/snhya$V4【线路7】 【1280x720】
+深圳卫视,http://38.64.72.148:80/hls/modn/list/4007/playlist.m3u8$V4【线路1】 【1920x1080 21kbps】
+深圳卫视,http://107.150.60.122/live/szwshd.m3u8$V4【线路2】 【1920x1080 12kbps】
+深圳卫视,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=szwshd$V4【线路3】 【1920x1080 8kbps】
+深圳卫视,http://38.75.136.137:98/gslb/dsdqpub/szwshd.m3u8?auth=testpub$V4【线路4】 【1920x1080 8kbps】
+深圳卫视,http://120.238.94.82:9901/tsfile/live/1065_1.m3u8$V4【线路5】 【1920x1080@256kbps 4Mbps】
+深圳卫视,http://120.76.248.139/live/bfgd/4200000100.m3u8$V4【线路6】 【1920x1080@448kbps 14Mbps】
 卫视频道,#genre#
-湖南卫视,http://107.150.60.122/live/hnwshd.m3u8$V4【线路1】 【1920x1080 6kbps】
-湖南卫视,http://74.91.26.218:82/live/hnwshd.m3u8$V4【线路2】 【1280x720 6kbps】
-湖南卫视,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=hnwshd$V4【线路3】 【1920x1080 4kbps】
-湖南卫视,http://guovin.central.eu.cc/43d70d02-cccb-4db1-a596-9bdfae7e585c/relay/ysp-hnws.m3u8$V4【线路4】 【1920x1080】
-浙江卫视,http://ali-xwl.cztv.com/live/channel011080Plxw.m3u8$V4【线路1】 【1920x1080 14Mbps】
-浙江卫视,http://ali-m-l.cztv.com:80/channels/lantian/channel001/1080p.m3u8$V4【线路2】 【1920x1080 8Mbps】
-浙江卫视,https://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8$V4【线路3】 【1920x1080 7Mbps】
-浙江卫视,http://ali-m-l.cztv.com/channels/lantian/channel01/1080p.m3u8$V4【线路4】 【1920x1080 3Mbps】
-浙江卫视,http://38.75.136.137:98/gslb/dsdqpub/zjwshd.m3u8?auth=testpub$V4【线路5】 【1920x1080 8kbps】
-浙江卫视,http://107.150.60.122/live/zjwshd.m3u8$V4【线路6】 【1920x1080 6kbps】
-浙江卫视,http://74.91.26.218:82/live/zjwshd.m3u8$V4【线路7】 【1920x1080 6kbps】
-浙江卫视,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=zjwshd$V4【线路8】 【1920x1080 4kbps】
-东方卫视,http://38.75.136.137:98/gslb/dsdqbv/dfwshd.m3u8?auth=test20251009$V4【线路1】 【1920x1080 8kbps】
-东方卫视,http://38.75.136.137:98/gslb/dsdqpub/dfwshd.m3u8?auth=testpub$V4【线路2】 【1920x1080 8kbps】
-东方卫视,http://107.150.60.122/live/dfwshd.m3u8$V4【线路3】 【1920x1080 6kbps】
-东方卫视,http://74.91.26.218:82/live/dfwshd.m3u8$V4【线路4】 【1920x1080 6kbps】
-东方卫视,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=dfwshd$V4【线路5】 【1920x1080 4kbps】
-东方卫视,http://bp-resource-dfl.bestv.cn/155/3/video.m3u8$V4【线路6】 【1920x1080 4kbps】
-东方卫视,http://guovin.central.eu.cc/43d70d02-cccb-4db1-a596-9bdfae7e585c/relay/ysp-dfws.m3u8$V4【线路7】 【1920x1080】
-东方卫视,https://bp-resource-dfl.bestv.cn/148/3/video.m3u8$V4【线路8】 【1920x1080】
-北京卫视,http://120.76.248.139/live/bfgd/4200000083.m3u8$V4【线路1】 【1920x1080@448kbps 19Mbps】
-北京卫视,http://120.211.62.180:8000/hls/35/index.m3u8$V4【线路2】 【1920x1080@256kbps 15Mbps】
-北京卫视,http://38.75.136.137:98/gslb/dsdqbv/bjwshd.m3u8?auth=test20251009$V4【线路3】 【1280x720 8kbps】
-北京卫视,http://107.150.60.122/live/bjwshd.m3u8$V4【线路4】 【1920x1080 6kbps】
-北京卫视,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=bjwshd$V4【线路5】 【1920x1080 4kbps】
-北京卫视,http://guovin.central.eu.cc/43d70d02-cccb-4db1-a596-9bdfae7e585c/relay/ysp-bjws.m3u8$V4【线路6】 【1920x1080】
-江苏卫视,http://112.46.85.60:8009/hls/33/index.m3u8$V4【线路1】 【1920x1080@256kbps 494kbps】
-江苏卫视,http://38.75.136.137:98/gslb/dsdqbv/jswshd.m3u8?auth=test20251009$V4【线路2】 【1920x1080 8kbps】
-江苏卫视,http://38.75.136.137:98/gslb/dsdqpub/jswshd.m3u8?auth=testpub$V4【线路3】 【1920x1080 8kbps】
-江苏卫视,http://107.150.60.122/live/jswshd.m3u8$V4【线路4】 【1920x1080 6kbps】
-江苏卫视,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=jswshd$V4【线路5】 【1920x1080 4kbps】
-江苏卫视,http://guovin.central.eu.cc/43d70d02-cccb-4db1-a596-9bdfae7e585c/relay/ysp-jsws.m3u8$V4【线路6】 【1920x1080】
-安徽卫视,http://120.211.62.180:8000/hls/33/index.m3u8$V4【线路1】 【1920x1080@256kbps 15Mbps】
-安徽卫视,http://107.150.60.122/live/ahwshd.m3u8$V4【线路2】 【1920x1080 6kbps】
-安徽卫视,http://204.12.221.218:8181/3m1080p/ahws.m3u8$V4【线路3】 【1920x1080 6kbps】
-安徽卫视,http://198.204.228.26/live/ahwshd.m3u8$V4【线路4】 【1920x1080 6kbps】
-安徽卫视,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=ahwshd$V4【线路5】 【1920x1080 4kbps】
-重庆卫视,http://107.150.60.122/live/cqwshd.m3u8$V4【线路1】 【1920x1080 6kbps】
-重庆卫视,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cqwshd$V4【线路2】 【1920x1080 4kbps】
-重庆卫视,http://guovin.central.eu.cc/43d70d02-cccb-4db1-a596-9bdfae7e585c/relay/ysp-cqws.m3u8$V4【线路3】 【1920x1080】
-四川卫视,http://38.75.136.137:98/gslb/dsdqpub/scwshd.m3u8?auth=testpub$V4【线路1】 【1280x720 8kbps】
-四川卫视,http://107.150.60.122/live/scwshd.m3u8$V4【线路2】 【1920x1080 6kbps】
-四川卫视,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=scwshd$V4【线路3】 【1920x1080 4kbps】
-四川卫视,http://guovin.central.eu.cc/43d70d02-cccb-4db1-a596-9bdfae7e585c/relay/ysp-scws.m3u8$V4【线路4】 【1920x1080】
-东南卫视,http://120.76.248.139/live/bfgd/4200000483.m3u8$V4【线路1】 【1920x1080@384kbps 18Mbps】
-东南卫视,http://38.75.136.137:98/gslb/dsdqpub/dnwshd.m3u8?auth=testpub$V4【线路2】 【1920x1080 8kbps】
-东南卫视,http://107.150.60.122/live/dnwshd.m3u8$V4【线路3】 【1920x1080 6kbps】
-东南卫视,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=dnwshd$V4【线路4】 【1920x1080 4kbps】
-东南卫视,http://guovin.central.eu.cc/43d70d02-cccb-4db1-a596-9bdfae7e585c/relay/ysp-fjdnhz.m3u8$V4【线路5】 【1920x1080】
-东南卫视,http://guovin.central.eu.cc/43d70d02-cccb-4db1-a596-9bdfae7e585c/relay/fjtv-province-665248966136664064.m3u8$V4【线路6】 【1920x1080】
-广东卫视,http://120.76.248.139/live/bfgd/4200000092.m3u8$V4【线路1】 【1920x1080@384kbps 19Mbps】
-广东卫视,http://120.238.94.82:9901/tsfile/live/1009_1.m3u8$V4【线路2】 【1920x1080@256kbps 3Mbps】
-广东卫视,http://38.75.136.137:98/gslb/dsdqpub/gdwshd.m3u8?auth=testpub$V4【线路3】 【1920x1080 8kbps】
-广东卫视,http://107.150.60.122/live/gdwshd.m3u8$V4【线路4】 【1920x1080 6kbps】
-广东卫视,http://74.91.26.218:82/live/gdwshd.m3u8$V4【线路5】 【1920x1080 6kbps】
-广东卫视,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=gdwshd$V4【线路6】 【1920x1080 4kbps】
-广东卫视,http://guovin.central.eu.cc/43d70d02-cccb-4db1-a596-9bdfae7e585c/relay/ysp-gdws.m3u8$V4【线路7】 【1920x1080】
-广西卫视,http://120.76.248.139/live/bfgd/4200000116.m3u8$V4【线路1】 【1920x1080@128kbps 18Mbps】
-广西卫视,https://hlscdn.liangtv.cn/live/de0f97348eb84f62aa6b7d8cf0430770/dd505d87880c478f901f38560ca4d4e6.m3u8$V4【线路2】 【1920x1080 12kbps】
-广西卫视,http://38.75.136.137:98/gslb/dsdqpub/gxwshd.m3u8?auth=testpub$V4【线路3】 【1920x1080 8kbps】
-广西卫视,http://107.150.60.122/live/gxwshd.m3u8$V4【线路4】 【1920x1080 6kbps】
-广西卫视,http://198.204.228.26/live/gxwshd.m3u8$V4【线路5】 【1920x1080 6kbps】
-广西卫视,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=gxwshd$V4【线路6】 【1920x1080 4kbps】
-广西卫视,http://guovin.central.eu.cc/43d70d02-cccb-4db1-a596-9bdfae7e585c/relay/ysp-gxws.m3u8$V4【线路7】 【1920x1080】
-广西卫视,http://guovin.central.eu.cc/43d70d02-cccb-4db1-a596-9bdfae7e585c/proxy/gxtv-gxws.m3u8$V4【线路8】 【1920x1080】
-厦门卫视,http://38.75.136.137:98/gslb/dsdqpub/xmws.m3u8?auth=testpub$V4【线路1】 【720x576 8kbps】
-厦门卫视,http://192.151.150.154/live/xmws.m3u8$V4【线路2】 【720x576 6kbps】
-厦门卫视,http://198.204.228.26/live/xmws.m3u8$V4【线路3】 【720x576 6kbps】
-厦门卫视,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=xmws$V4【线路4】 【720x576 4kbps】
-厦门卫视,http://107.150.60.122/live/xmws.m3u8$V4【线路5】 【720x576 1kbps】
-甘肃卫视,http://120.76.248.139/live/bfgd/4200000119.m3u8$V4【线路1】 【1920x1080@384kbps 16Mbps】
-甘肃卫视,http://38.75.136.137:98/gslb/dsdqpub/gswshd.m3u8?auth=testpub$V4【线路2】 【1920x1080 8kbps】
-甘肃卫视,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=gswshd$V4【线路3】 【1920x1080 4kbps】
-甘肃卫视,http://111.61.236.247:9081/hls/54/index.m3u8$V4【线路4】 【1920x1080 256kbps】
-贵州卫视,http://38.75.136.137:98/gslb/dsdqpub/gzwshd.m3u8?auth=testpub$V4【线路1】 【1920x1080 8kbps】
-贵州卫视,http://107.150.60.122/live/gzwshd.m3u8$V4【线路2】 【1920x1080 6kbps】
-贵州卫视,http://204.12.221.218:8181/3m1080p/gzws.m3u8$V4【线路3】 【1920x1080 6kbps】
-贵州卫视,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=gzwshd$V4【线路4】 【1920x1080 4kbps】
-贵州卫视,http://guovin.central.eu.cc/43d70d02-cccb-4db1-a596-9bdfae7e585c/relay/ysp-gzhws.m3u8$V4【线路5】 【1920x1080】
-河北卫视,http://120.76.248.139/live/bfgd/4200000108.m3u8$V4【线路1】 【1920x1080@384kbps 15Mbps】
-河北卫视,http://38.75.136.137:98/gslb/dsdqpub/hewshd.m3u8?auth=testpub$V4【线路2】 【1920x1080 8kbps】
-河北卫视,http://204.12.221.218:8181/3m1080p/hews.m3u8$V4【线路3】 【1920x1080 6kbps】
-河北卫视,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=hewshd$V4【线路4】 【1920x1080 4kbps】
-河北卫视,http://guovin.central.eu.cc/43d70d02-cccb-4db1-a596-9bdfae7e585c/relay/ysp-hbws2.m3u8$V4【线路5】 【1920x1080】
-河北卫视,http://111.61.236.247:9081/hls/17/index.m3u8$V4【线路6】 【1920x1080】
-河南卫视,http://120.211.62.180:8000/hls/40/index.m3u8$V4【线路1】 【1920x1080@256kbps 14Mbps】
-河南卫视,http://111.59.139.82:11888/tsfile/live/0139_1.m3u8?key=txiptv&playlive=1&authid=0$V4【线路2】 【720x576@128kbps 5Mbps】
-河南卫视,http://107.150.60.122/live/hawshd.m3u8$V4【线路3】 【1920x1080 6kbps】
-河南卫视,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=hawshd$V4【线路4】 【1920x1080 4kbps】
-河南卫视,http://173.208.212.130:8181/720p/haws.m3u8$V4【线路5】 【1920x1080 1kbps】
-河南卫视,http://38.75.136.137:98/gslb/dsdqpub/hawshd.m3u8?auth=testpub$V4【线路6】 【1920x1080 1kbps】
-河南卫视,http://guovin.central.eu.cc/43d70d02-cccb-4db1-a596-9bdfae7e585c/relay/ysp-henanws.m3u8$V4【线路7】 【1920x1080】
-河南卫视,http://guovin.central.eu.cc/43d70d02-cccb-4db1-a596-9bdfae7e585c/hntv-145$V4【线路8】 【1920x1080】
-黑龙江卫视,http://120.76.248.139/live/bfgd/4200000095.m3u8$V4【线路1】 【1920x1080@384kbps 15Mbps】
-黑龙江卫视,http://38.75.136.137:98/gslb/dsdqpub/hljwshd.m3u8?auth=testpub$V4【线路2】 【1920x1080 8kbps】
-黑龙江卫视,http://107.150.60.122/live/hljwshd.m3u8$V4【线路3】 【1920x1080 6kbps】
-黑龙江卫视,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=hljwshd$V4【线路4】 【1920x1080 4kbps】
-黑龙江卫视,http://198.204.228.26/live/hljwshd.m3u8$V4【线路5】 【1920x1080 1kbps】
-黑龙江卫视,http://124.116.183.146:9901/tsfile/live/0143_1.m3u8$V4【线路6】 【720x576 96kbps】
-黑龙江卫视,http://guovin.central.eu.cc/43d70d02-cccb-4db1-a596-9bdfae7e585c/relay/ysp-hljws.m3u8$V4【线路7】 【1920x1080】
-湖北卫视,http://120.76.248.139/live/bfgd/4200000102.m3u8$V4【线路1】 【1920x1080@384kbps 14Mbps】
-湖北卫视,http://124.116.183.146:9901/tsfile/live/0132_1.m3u8$V4【线路2】 【720x576@96kbps 971kbps】
-湖北卫视,http://107.150.60.122/live/hbwshd.m3u8$V4【线路3】 【1920x1080 6kbps】
-湖北卫视,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=hbwshd$V4【线路4】 【1920x1080 4kbps】
-湖北卫视,http://guovin.central.eu.cc/43d70d02-cccb-4db1-a596-9bdfae7e585c/relay/ysp-hbws.m3u8$V4【线路5】 【1920x1080】
-江西卫视,http://112.27.5.218:9901/tsfile/live/faacts/0138_1.m3u8?key=txiptv&playlive=1&authid=0$V4【线路1】 【1920x1080 6Mbps】
-江西卫视,http://107.150.60.122/live/jxwshd.m3u8$V4【线路2】 【1920x1080 6kbps】
-江西卫视,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=jxwshd$V4【线路3】 【1280x720 4kbps】
-江西卫视,http://38.75.136.137:98/gslb/dsdqpub/jxwshd.m3u8?auth=testpub$V4【线路4】 【1920x1080 1kbps】
-江西卫视,http://guovin.central.eu.cc/43d70d02-cccb-4db1-a596-9bdfae7e585c/relay/ysp-jxws.m3u8$V4【线路5】 【1920x1080】
-吉林卫视,http://120.76.248.139/live/bfgd/4200000097.m3u8$V4【线路1】 【1920x1080@448kbps 14Mbps】
-吉林卫视,http://111.61.236.247:9081/hls/45/index.m3u8$V4【线路2】 【1920x1080@256kbps 869kbps】
+湖南卫视,http://hlsal-ldvt.qing.mgtv.com/nn_live/nn_x64/Y2RuZXhfaWQ9YWxfaGxzX2xkdnQmZT02OTE0NjA0JnY9MSZpZD1ITldTWkdTVCZzPTcwN2RiYTc2YzJjNmJmMTQ4MmUyZGYzOWU2NWM3YWFi/HNWSZGST.m3u8$V4【线路1】 【3840x2160 8Mbps】
+湖南卫视,http://hlsal-ldvt.qing.mgtv.com/nn_live/nn_x64/dWlwPTEyNy4wLjAuMSZ1aWQ9cWluZy1jbXMmbm5fdGltZXpvbmU9OCZjZG5leF9pZD1hbF9obHNfbGR2dCZ1dWlkPTliODY4NmU5ZTM2YzYwMmMmZT02OTE0NjA0JnY9MSZpZD1ITldTWkdTVCZzPTcwN2RiYTc2YzJjNmJmMTQ4MmUyZGYzOWU2NWM3YWFi/HNWSZGST.m3u8$V4【线路2】 【3840x2160 3Mbps】
+湖南卫视,http://222.169.85.8:9901/tsfile/live/0128_1.m3u8$V4【线路3】 【1920x1080 2Mbps】
+湖南卫视,http://198.204.228.26/live/hnwshd.m3u8$V4【线路4】 【1280x720 12kbps】
+湖南卫视,http://204.12.221.218:8181/3m1080p/hnws.m3u8$V4【线路5】 【1280x720 12kbps】
+湖南卫视,http://74.91.26.218:82/live/hnwshd.m3u8$V4【线路6】 【1280x720 12kbps】
+湖南卫视,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=hnwshd$V4【线路7】 【1280x720 8kbps】
+湖南卫视,http://107.150.60.122/live/hnwshd.m3u8$V4【线路8】 【1920x1080 1kbps】
+湖南卫视,http://173.208.212.130:8181/720p/hnws.m3u8$V4【线路9】 【1280x720 1kbps】
+浙江卫视,http://ali-xwl.cztv.com/live/channel011080Plxw.m3u8$V4【线路1】 【1920x1080 39Mbps】
+浙江卫视,http://ali-m-l.cztv.com:80/channels/lantian/channel001/1080p.m3u8$V4【线路2】 【1920x1080 6Mbps】
+浙江卫视,https://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8$V4【线路3】 【1920x1080 5Mbps】
+浙江卫视,http://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8$V4【线路4】 【1920x1080 4Mbps】
+浙江卫视,http://ali-m-l.cztv.com/channels/lantian/channel01/1080p.m3u8$V4【线路5】 【1920x1080 2Mbps】
+浙江卫视,http://107.150.60.122/live/zjwshd.m3u8$V4【线路6】 【1920x1080 12kbps】
+浙江卫视,http://38.75.136.137:98/gslb/dsdqpub/zjwshd.m3u8?auth=testpub$V4【线路7】 【1920x1080 8kbps】
+浙江卫视,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=zjwshd$V4【线路8】 【1920x1080 8kbps】
+东方卫视,http://107.150.60.122/live/dfwshd.m3u8$V4【线路1】 【1920x1080 12kbps】
+东方卫视,http://bp-resource-dfl.bestv.cn/155/3/video.m3u8$V4【线路2】 【1920x1080 12kbps】
+东方卫视,http://bp-resource-dfl.bestv.cn/148/3/video.m3u8$V4【线路3】 【1920x1080 11kbps】
+东方卫视,http://38.75.136.137:98/gslb/dsdqpub/dfwshd.m3u8?auth=testpub$V4【线路4】 【1920x1080 8kbps】
+东方卫视,http://38.75.136.137:98/gslb/dsdqbv/dfwshd.m3u8?auth=test20251009$V4【线路5】 【1920x1080 8kbps】
+东方卫视,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=dfwshd$V4【线路6】 【1920x1080 7kbps】
+北京卫视,http://120.211.62.180:8000/hls/35/index.m3u8$V4【线路1】 【1920x1080@256kbps 10Mbps】
+北京卫视,http://107.150.60.122/live/bjwshd.m3u8$V4【线路2】 【1920x1080 12kbps】
+北京卫视,http://38.75.136.137:98/gslb/dsdqbv/bjwshd.m3u8?auth=test20251009$V4【线路3】 【1920x1080 8kbps】
+北京卫视,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=bjwshd$V4【线路4】 【1920x1080 1kbps】
+江苏卫视,http://218.13.170.98:9901/tsfile/live/1003_1.m3u8$V4【线路1】 【1920x1080@256kbps 881kbps】
+江苏卫视,http://107.150.60.122/live/jswshd.m3u8$V4【线路2】 【1920x1080 12kbps】
+江苏卫视,http://204.12.221.218:8181/3m1080p/jsws.m3u8$V4【线路3】 【1920x1080 12kbps】
+江苏卫视,http://38.75.136.137:98/gslb/dsdqpub/jswshd.m3u8?auth=testpub$V4【线路4】 【1920x1080 8kbps】
+江苏卫视,http://38.75.136.137:98/gslb/dsdqbv/jswshd.m3u8?auth=test20251009$V4【线路5】 【1920x1080 8kbps】
+江苏卫视,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=jswshd$V4【线路6】 【1920x1080 1kbps】
+安徽卫视,http://120.211.62.180:8000/hls/33/index.m3u8$V4【线路1】 【1920x1080@256kbps 11Mbps】
+安徽卫视,http://107.150.60.122/live/ahwshd.m3u8$V4【线路2】 【1920x1080 12kbps】
+安徽卫视,http://204.12.221.218:8181/3m1080p/ahws.m3u8$V4【线路3】 【1920x1080 12kbps】
+安徽卫视,http://198.204.228.26/live/ahwshd.m3u8$V4【线路4】 【1920x1080 12kbps】
+安徽卫视,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=ahwshd$V4【线路5】 【1920x1080 8kbps】
+安徽卫视,http://222.169.85.8:9901/tsfile/live/0130_1.m3u8$V4【线路6】 【1920x1080】
+重庆卫视,http://107.150.60.122/live/cqwshd.m3u8$V4【线路1】 【1920x1080 12kbps】
+重庆卫视,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cqwshd$V4【线路2】 【1920x1080 8kbps】
+四川卫视,http://107.150.60.122/live/scwshd.m3u8$V4【线路1】 【1920x1080 12kbps】
+四川卫视,http://204.12.221.218:8181/3m1080p/scws.m3u8$V4【线路2】 【1920x1080 12kbps】
+四川卫视,http://38.75.136.137:98/gslb/dsdqpub/scwshd.m3u8?auth=testpub$V4【线路3】 【1920x1080 8kbps】
+四川卫视,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=scwshd$V4【线路4】 【1920x1080 1kbps】
+东南卫视,http://live.zohi.tv/video/s10001-fztv-3/index.m3u8$V4【线路1】 【1920x1080 1Mbps】
+东南卫视,http://107.150.60.122/live/dnwshd.m3u8$V4【线路2】 【1920x1080 12kbps】
+东南卫视,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=dnwshd$V4【线路3】 【1920x1080 8kbps】
+东南卫视,http://38.75.136.137:98/gslb/dsdqpub/dnwshd.m3u8?auth=testpub$V4【线路4】 【1920x1080 8kbps】
+广东卫视,http://120.238.94.82:9901/tsfile/live/1009_1.m3u8$V4【线路1】 【1920x1080@256kbps 4Mbps】
+广东卫视,http://107.150.60.122/live/gdwshd.m3u8$V4【线路2】 【1920x1080 11kbps】
+广东卫视,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=gdwshd$V4【线路3】 【1920x1080 8kbps】
+广东卫视,http://38.75.136.137:98/gslb/dsdqpub/gdwshd.m3u8?auth=testpub$V4【线路4】 【1920x1080 8kbps】
+广西卫视,https://hlscdn.liangtv.cn/live/de0f97348eb84f62aa6b7d8cf0430770/dd505d87880c478f901f38560ca4d4e6.m3u8$V4【线路1】 【1920x1080 93kbps】
+广西卫视,http://198.204.228.26/live/gxwshd.m3u8$V4【线路2】 【1920x1080 12kbps】
+广西卫视,http://107.150.60.122/live/gxwshd.m3u8$V4【线路3】 【1280x720 12kbps】
+广西卫视,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=gxwshd$V4【线路4】 【1920x1080 8kbps】
+广西卫视,http://38.75.136.137:98/gslb/dsdqpub/gxwshd.m3u8?auth=testpub$V4【线路5】 【1920x1080 8kbps】
+厦门卫视,http://192.151.150.154/live/xmws.m3u8$V4【线路1】 【720x576 11kbps】
+厦门卫视,http://107.150.60.122/live/xmws.m3u8$V4【线路2】 【720x576 11kbps】
+厦门卫视,http://38.75.136.137:98/gslb/dsdqpub/xmws.m3u8?auth=testpub$V4【线路3】 【720x576 8kbps】
+厦门卫视,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=xmws$V4【线路4】 【720x576 7kbps】
+厦门卫视,http://198.204.228.26/live/xmws.m3u8$V4【线路5】 【720x576 1kbps】
+甘肃卫视,http://38.75.136.137:98/gslb/dsdqpub/gswshd.m3u8?auth=testpub$V4【线路1】 【1920x1080 8kbps】
+甘肃卫视,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=gswshd$V4【线路2】 【1920x1080 7kbps】
+甘肃卫视,http://218.13.170.98:9901/tsfile/live/0141_1.m3u8$V4【线路3】 【1920x1080 256kbps】
+贵州卫视,http://107.150.60.122/live/gzwshd.m3u8$V4【线路1】 【1280x720 12kbps】
+贵州卫视,http://204.12.221.218:8181/3m1080p/gzws.m3u8$V4【线路2】 【1920x1080 11kbps】
+贵州卫视,http://38.75.136.137:98/gslb/dsdqpub/gzwshd.m3u8?auth=testpub$V4【线路3】 【1920x1080 8kbps】
+贵州卫视,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=gzwshd$V4【线路4】 【1920x1080 1kbps】
+河北卫视,http://event.pull.hebtv.com/jishi/weishi_tingyun.m3u8$V4【线路1】 【960x540 1Mbps】
+河北卫视,http://204.12.221.218:8181/3m1080p/hews.m3u8$V4【线路2】 【1920x1080 12kbps】
+河北卫视,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=hewshd$V4【线路3】 【1920x1080 8kbps】
+河北卫视,http://38.75.136.137:98/gslb/dsdqpub/hewshd.m3u8?auth=testpub$V4【线路4】 【1920x1080 8kbps】
+河北卫视,http://111.61.236.247:9081/hls/17/index.m3u8$V4【线路5】 【1920x1080】
+河南卫视,http://120.211.62.180:8000/hls/40/index.m3u8$V4【线路1】 【1920x1080@256kbps 10Mbps】
+河南卫视,http://111.59.139.82:11888/tsfile/live/0139_1.m3u8?key=txiptv&playlive=1&authid=0$V4【线路2】 【720x576@128kbps 4Mbps】
+河南卫视,http://107.150.60.122/live/hawshd.m3u8$V4【线路3】 【1920x1080 12kbps】
+河南卫视,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=hawshd$V4【线路4】 【1920x1080 8kbps】
+河南卫视,http://38.75.136.137:98/gslb/dsdqpub/hawshd.m3u8?auth=testpub$V4【线路5】 【1920x1080 8kbps】
+河南卫视,http://173.208.212.130:8181/720p/haws.m3u8$V4【线路6】 【1920x1080 1kbps】
+黑龙江卫视,http://198.204.228.26/live/hljwshd.m3u8$V4【线路1】 【1920x1080 12kbps】
+黑龙江卫视,http://107.150.60.122/live/hljwshd.m3u8$V4【线路2】 【1280x720 12kbps】
+黑龙江卫视,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=hljwshd$V4【线路3】 【1920x1080 8kbps】
+黑龙江卫视,http://38.75.136.137:98/gslb/dsdqpub/hljwshd.m3u8?auth=testpub$V4【线路4】 【1920x1080 8kbps】
+黑龙江卫视,http://124.116.183.146:9901/tsfile/live/0143_1.m3u8$V4【线路5】 【720x576 96kbps】
+湖北卫视,http://124.116.183.146:9901/tsfile/live/0132_1.m3u8$V4【线路1】 【720x576@96kbps 761kbps】
+湖北卫视,http://107.150.60.122/live/hbwshd.m3u8$V4【线路2】 【1920x1080 11kbps】
+湖北卫视,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=hbwshd$V4【线路3】 【1920x1080 8kbps】
+江西卫视,http://112.27.5.218:9901/tsfile/live/faacts/0138_1.m3u8?key=txiptv&playlive=1&authid=0$V4【线路1】 【1920x1080 4Mbps】
+江西卫视,http://107.150.60.122/live/jxwshd.m3u8$V4【线路2】 【1920x1080 12kbps】
+江西卫视,http://38.75.136.137:98/gslb/dsdqpub/jxwshd.m3u8?auth=testpub$V4【线路3】 【1920x1080 8kbps】
+江西卫视,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=jxwshd$V4【线路4】 【1920x1080 7kbps】
+吉林卫视,http://107.150.60.122/live/jlwshd.m3u8$V4【线路1】 【1280x720 12kbps】
+吉林卫视,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=jlwshd$V4【线路2】 【1920x1080 8kbps】
 吉林卫视,http://38.75.136.137:98/gslb/dsdqpub/jlwshd.m3u8?auth=testpub$V4【线路3】 【1920x1080 8kbps】
-吉林卫视,http://107.150.60.122/live/jlwshd.m3u8$V4【线路4】 【1920x1080 6kbps】
-吉林卫视,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=jlwshd$V4【线路5】 【1920x1080 4kbps】
-吉林卫视,http://guovin.central.eu.cc/43d70d02-cccb-4db1-a596-9bdfae7e585c/relay/ysp-jlws.m3u8$V4【线路6】 【1920x1080】
-内蒙古卫视,http://play1-qk.nmtv.cn/live/1769652018126032.m3u8$V4【线路1】 【1920x1080 11Mbps】
-内蒙古卫视,http://120.76.248.139/live/bfgd/4200000110.m3u8$V4【线路2】 【720x576@192kbps 5Mbps】
-内蒙古卫视,http://107.150.60.122/live/nmgws.m3u8$V4【线路3】 【1920x1080 6kbps】
-内蒙古卫视,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=nmgws$V4【线路4】 【1920x1080 4kbps】
-内蒙古卫视,http://111.61.236.247:9081/hls/48/index.m3u8$V4【线路5】 【720x576 96kbps】
-内蒙古卫视,http://guovin.central.eu.cc/43d70d02-cccb-4db1-a596-9bdfae7e585c/relay/ysp-nmgws.m3u8$V4【线路6】 【1920x1080】
-辽宁卫视,http://120.211.62.180:8000/hls/37/index.m3u8$V4【线路1】 【1920x1080@256kbps 14Mbps】
-辽宁卫视,http://38.75.136.137:98/gslb/dsdqpub/lnwshd.m3u8?auth=testpub$V4【线路2】 【1920x1080 8kbps】
-辽宁卫视,http://107.150.60.122/live/lnwshd.m3u8$V4【线路3】 【1920x1080 6kbps】
-辽宁卫视,http://198.204.228.26/live/lnwshd.m3u8$V4【线路4】 【1920x1080 6kbps】
-辽宁卫视,http://204.12.221.218:8181/3m1080p/lnws.m3u8$V4【线路5】 【1920x1080 6kbps】
-辽宁卫视,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=lnwshd$V4【线路6】 【1920x1080 4kbps】
-辽宁卫视,http://guovin.central.eu.cc/43d70d02-cccb-4db1-a596-9bdfae7e585c/relay/ysp-lnws.m3u8$V4【线路7】 【1920x1080】
-宁夏卫视,http://107.150.60.122/live/nxws.m3u8$V4【线路1】 【1920x1080 6kbps】
-宁夏卫视,http://198.204.228.26/live/nxws.m3u8$V4【线路2】 【1920x1080 6kbps】
-宁夏卫视,http://cssbyd.imwork.net:8082/hls/45/index.m3u8$V4【线路3】 【1920x1080 256kbps】
-宁夏卫视,http://guovin.central.eu.cc/43d70d02-cccb-4db1-a596-9bdfae7e585c/relay/ysp-nxws.m3u8$V4【线路4】 【1920x1080】
-青海卫视,http://120.76.248.139/live/bfgd/4200000111.m3u8$V4【线路1】 【1920x1080@384kbps 10Mbps】
-青海卫视,http://111.61.236.247:9081/hls/49/index.m3u8$V4【线路2】 【720x576@96kbps 1Mbps】
-青海卫视,http://107.150.60.122/live/qhws.m3u8$V4【线路3】 【1920x1080 6kbps】
-青海卫视,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=qhws$V4【线路4】 【1920x1080 4kbps】
-青海卫视,http://guovin.central.eu.cc/43d70d02-cccb-4db1-a596-9bdfae7e585c/relay/ysp-qhws.m3u8$V4【线路5】 【1920x1080】
-青海卫视,https://hls-qhmh.lanzhousobey.cn/qhmh/mhds.m3u8$V4【线路6】 【1920x1080】
-山东卫视,http://120.211.62.180:8000/hls/38/index.m3u8$V4【线路1】 【1920x1080@256kbps 14Mbps】
-山东卫视,http://120.76.248.139/live/bfgd/4200000099.m3u8$V4【线路2】 【1920x1080@128kbps 9Mbps】
-山东卫视,http://38.75.136.137:98/gslb/dsdqpub/sdwshd.m3u8?auth=testpub$V4【线路3】 【1920x1080 8kbps】
-山东卫视,http://107.150.60.122/live/sdwshd.m3u8$V4【线路4】 【1920x1080 6kbps】
-山东卫视,http://198.204.228.26/live/sdwshd.m3u8$V4【线路5】 【1920x1080 6kbps】
-山东卫视,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=sdwshd$V4【线路6】 【1920x1080 4kbps】
-山东卫视,http://guovin.central.eu.cc/43d70d02-cccb-4db1-a596-9bdfae7e585c/relay/ysp-sdws.m3u8$V4【线路7】 【1920x1080】
-天津卫视,http://38.75.136.137:98/gslb/dsdqpub/tjwshd.m3u8?auth=testpub$V4【线路1】 【1920x1080 8kbps】
-天津卫视,http://107.150.60.122/live/tjwshd.m3u8$V4【线路2】 【1920x1080 6kbps】
-天津卫视,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=tjwshd$V4【线路3】 【1920x1080 4kbps】
-天津卫视,http://111.61.236.247:9081/hls/29/index.m3u8$V4【线路4】 【1920x1080 256kbps】
-天津卫视,http://guovin.central.eu.cc/43d70d02-cccb-4db1-a596-9bdfae7e585c/relay/ysp-tjws.m3u8$V4【线路5】 【1920x1080】
-海南卫视,http://120.76.248.139/live/bfgd/4200000473.m3u8$V4【线路1】 【1920x1080@448kbps 10Mbps】
-海南卫视,http://guovin.central.eu.cc/43d70d02-cccb-4db1-a596-9bdfae7e585c/relay/ysp-hnws2.m3u8$V4【线路2】 【1920x1080】
-海南卫视,http://guovin.central.eu.cc/43d70d02-cccb-4db1-a596-9bdfae7e585c/hnntv-13$V4【线路3】 【1920x1080】
-新疆卫视,http://120.76.248.139/live/bfgd/4200000150.m3u8$V4【线路1】 【720x576@192kbps 7Mbps】
-新疆卫视,http://222.169.85.8:9901/tsfile/live/0110_1.m3u8$V4【线路2】 【720x576 3Mbps】
-新疆卫视,http://38.75.136.137:98/gslb/dsdqpub/xjws.m3u8?auth=testpub$V4【线路3】 【1920x1080 8kbps】
-新疆卫视,http://107.150.60.122/live/xjws.m3u8$V4【线路4】 【1920x1080 6kbps】
-新疆卫视,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=xjws$V4【线路5】 【1920x1080 4kbps】
-新疆卫视,http://198.204.228.26/live/xjws.m3u8$V4【线路6】 【1920x1080 1kbps】
-新疆卫视,http://guovin.central.eu.cc/43d70d02-cccb-4db1-a596-9bdfae7e585c/relay/ysp-xjws.m3u8$V4【线路7】 【1920x1080】
-云南卫视,http://120.76.248.139/live/bfgd/4200000482.m3u8$V4【线路1】 【1920x1080@128kbps 12Mbps】
-云南卫视,http://192.151.150.154/live/ynwshd.m3u8$V4【线路2】 【1920x1080 6kbps】
-云南卫视,http://107.150.60.122/live/ynwshd.m3u8$V4【线路3】 【1920x1080 6kbps】
-云南卫视,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=ynwshd$V4【线路4】 【1920x1080 4kbps】
-云南卫视,http://guovin.central.eu.cc/43d70d02-cccb-4db1-a596-9bdfae7e585c/relay/ysp-ynws.m3u8$V4【线路5】 【1920x1080】
-西藏卫视,http://120.76.248.139/live/bfgd/4200000121.m3u8$V4【线路1】 【1920x1080@128kbps 10Mbps】
-西藏卫视,http://112.27.5.218:9901/tsfile/live/0111_1.m3u8?key=txiptv&playlive=1&authid=0$V4【线路2】 【720x576@224kbps 6Mbps】
-西藏卫视,http://107.150.60.122/live/xzws.m3u8$V4【线路3】 【1920x1080 6kbps】
-西藏卫视,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=xzws$V4【线路4】 【1920x1080 4kbps】
-西藏卫视,http://183.11.239.36:808/hls/64/index.m3u8$V4【线路5】 【720x576 96kbps】
-西藏卫视,http://guovin.central.eu.cc/43d70d02-cccb-4db1-a596-9bdfae7e585c/relay/ysp-xzws.m3u8$V4【线路6】 【1920x1080】
-海峡卫视,http://38.64.72.148:80/hls/modn/list/4009/chunklist0.m3u8$V4【线路1】 【1920x1080 13Mbps】
-海峡卫视,http://38.64.72.148:80/hls/modn/list/4009/playlist.m3u8$V4【线路2】 【1920x1080 38kbps】
-兵团卫视,http://120.76.248.139/live/bfgd/4200000124.m3u8$V4【线路1】 【720x576@256kbps 9Mbps】
-兵团卫视,http://183.11.239.36:808/hls/7/index.m3u8$V4【线路2】 【720x576 96kbps】
-兵团卫视,http://218.13.170.98:9901/tsfile/live/0115_1.m3u8$V4【线路3】 【720x576 96kbps】
-农林卫视,http://120.76.248.139/live/bfgd/4200000122.m3u8$V4【线路1】 【720x576@256kbps 9Mbps】
-农林卫视,http://124.116.183.146:9901/tsfile/live/1004_1.m3u8$V4【线路2】 【720x576@128kbps 685kbps】
-农林卫视,http://124.116.183.146:9901/tsfile/live/1004_1.m3u8?key=txiptv&playlive=1&authid=0$V4【线路3】 【720x576 128kbps】
-三沙卫视,http://38.75.136.137:98/gslb/dsdqpub/ssws.m3u8?auth=testpub$V4【线路1】 【720x576@128kbps 7kbps】
-三沙卫视,http://107.150.60.122/live/ssws.m3u8$V4【线路2】 【720x576@128kbps 6kbps】
-三沙卫视,http://198.204.228.26/live/ssws.m3u8$V4【线路3】 【720x576@128kbps 6kbps】
-三沙卫视,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=ssws$V4【线路4】 【720x576@128kbps 4kbps】
-延边卫视,http://120.76.248.139/live/bfgd/4200000117.m3u8$V4 【720x576 6Mbps】
+内蒙古卫视,http://play1-qk.nmtv.cn/live/1769652018126032.m3u8$V4【线路1】 【1920x1080 6Mbps】
+内蒙古卫视,http://107.150.60.122/live/nmgws.m3u8$V4【线路2】 【1920x1080 12kbps】
+内蒙古卫视,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=nmgws$V4【线路3】 【1920x1080 8kbps】
+辽宁卫视,http://120.211.62.180:8000/hls/37/index.m3u8$V4【线路1】 【1920x1080@256kbps 10Mbps】
+辽宁卫视,http://107.150.60.122/live/lnwshd.m3u8$V4【线路2】 【1920x1080 12kbps】
+辽宁卫视,http://198.204.228.26/live/lnwshd.m3u8$V4【线路3】 【1920x1080 12kbps】
+辽宁卫视,http://204.12.221.218:8181/3m1080p/lnws.m3u8$V4【线路4】 【1920x1080 12kbps】
+辽宁卫视,http://38.75.136.137:98/gslb/dsdqpub/lnwshd.m3u8?auth=testpub$V4【线路5】 【1920x1080 8kbps】
+辽宁卫视,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=lnwshd$V4【线路6】 【1920x1080 7kbps】
+宁夏卫视,http://107.150.60.122/live/nxws.m3u8$V4【线路1】 【1920x1080 11kbps】
+宁夏卫视,http://198.204.228.26/live/nxws.m3u8$V4【线路2】 【1920x1080 1kbps】
+青海卫视,http://111.61.236.247:9081/hls/49/index.m3u8$V4【线路1】 【720x576@96kbps 720kbps】
+青海卫视,http://107.150.60.122/live/qhws.m3u8$V4【线路2】 【1920x1080 12kbps】
+青海卫视,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=qhws$V4【线路3】 【1920x1080 8kbps】
+青海卫视,https://hls-qhmh.lanzhousobey.cn/qhmh/mhds.m3u8$V4【线路4】 【1920x1080】
+山东卫视,http://120.211.62.180:8000/hls/38/index.m3u8$V4【线路1】 【1920x1080@256kbps 10Mbps】
+山东卫视,http://204.12.221.218:8181/3m1080p/sdws.m3u8$V4【线路2】 【1920x1080 12kbps】
+山东卫视,http://107.150.60.122/live/sdwshd.m3u8$V4【线路3】 【1920x1080 11kbps】
+山东卫视,http://198.204.228.26/live/sdwshd.m3u8$V4【线路4】 【1920x1080 11kbps】
+山东卫视,http://38.75.136.137:98/gslb/dsdqpub/sdwshd.m3u8?auth=testpub$V4【线路5】 【1920x1080 8kbps】
+山东卫视,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=sdwshd$V4【线路6】 【1920x1080 7kbps】
+天津卫视,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=tjwshd$V4【线路1】 【1280x720 8kbps】
+天津卫视,http://107.150.60.122/live/tjwshd.m3u8$V4【线路2】 【1920x1080 1kbps】
+天津卫视,http://38.75.136.137:98/gslb/dsdqpub/tjwshd.m3u8?auth=testpub$V4【线路3】 【1920x1080 1kbps】
+新疆卫视,http://198.204.228.26/live/xjws.m3u8$V4【线路1】 【1920x1080 11kbps】
+新疆卫视,http://38.75.136.137:98/gslb/dsdqpub/xjws.m3u8?auth=testpub$V4【线路2】 【1920x1080 8kbps】
+新疆卫视,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=xjws$V4【线路3】 【1920x1080 7kbps】
+新疆卫视,http://218.84.12.186:8001/hls/main/playlist.m3u8?zxinjd;http://218.84.12.186:8001/hls/main/playlist.m3u8zxinjd$V4【线路4】 【1920x1080 3kbps】
+新疆卫视,http://107.150.60.122/live/xjws.m3u8$V4【线路5】 【1920x1080 1kbps】
+新疆卫视,http://222.169.85.8:9901/tsfile/live/0110_1.m3u8$V4【线路6】 【720x576】
+云南卫视,http://192.151.150.154/live/ynwshd.m3u8$V4【线路1】 【1920x1080 12kbps】
+云南卫视,http://107.150.60.122/live/ynwshd.m3u8$V4【线路2】 【1920x1080 12kbps】
+云南卫视,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=ynwshd$V4【线路3】 【1920x1080 8kbps】
+西藏卫视,http://112.27.5.218:9901/tsfile/live/0111_1.m3u8?key=txiptv&playlive=1&authid=0$V4【线路1】 【720x576@224kbps 850kbps】
+西藏卫视,http://107.150.60.122/live/xzws.m3u8$V4【线路2】 【1920x1080 12kbps】
+西藏卫视,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=xzws$V4【线路3】 【1920x1080 5kbps】
+西藏卫视,http://183.11.239.36:808/hls/64/index.m3u8$V4【线路4】 【720x576 96kbps】
+西藏卫视,http://php.jdshipin.com:8880/xztv.php?id=zy$V4【线路5】 【1920x1080】
+海峡卫视,http://38.64.72.148:80/hls/modn/list/4009/chunklist0.m3u8$V4【线路1】 【1920x1080 10Mbps】
+海峡卫视,http://38.64.72.148:80/hls/modn/list/4009/playlist.m3u8$V4【线路2】 【1920x1080 21kbps】
+三沙卫视,http://221.226.51.220:50081/newlive/live/hls/38/live.m3u8$V4【线路1】 【1920x1080@128kbps 15Mbps】
+三沙卫视,http://198.204.228.26/live/ssws.m3u8$V4【线路2】 【720x576@128kbps 11kbps】
+三沙卫视,http://107.150.60.122/live/ssws.m3u8$V4【线路3】 【1280x720 11kbps】
+三沙卫视,http://38.75.136.137:98/gslb/dsdqpub/ssws.m3u8?auth=testpub$V4【线路4】 【720x576@128kbps 8kbps】
+三沙卫视,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=ssws$V4【线路5】 【720x576@128kbps 7kbps】
+延边卫视,https://srs.iyb983.cn/video/CYS/index.m3u8$V4【线路1】 【1920x1080 61Mbps】
+延边卫视,https://srs.iyb983.cn:443/video/CYS/index.m3u8$V4【线路2】 【1920x1080 23Mbps】
 港·澳·台,#genre#
-凤凰中文,https://7612-5516-affc-d88b.kylintv.tv/live/pxinhd_iphone.m3u8$V4【线路1】 【1280x720 29Mbps】
-凤凰中文,http://zmgd.zyrnet.com:8888/hls/110/index.m3u8$V4【线路2】 【1920x1080 192kbps】
-凤凰资讯,http://zmgd.zyrnet.com:8888/hls/109/index.m3u8$V4【线路1】 【1920x1080@192kbps 3Mbps】
-凤凰资讯,http://r.jdshipin.com/0Rp07$V4【线路2】 【1920x1080】
-凤凰资讯,http://php.jdshipin.com/TVOD/iptv.php?id=fhzx$V4【线路3】 【1920x1080】
-凤凰香港,http://r.jdshipin.com/yDoTN$V4【线路1】 【1920x1080】
-凤凰香港,http://r.jdshipin.com/NfC0f$V4【线路2】 【1920x1080】
-凤凰香港,http://php.jdshipin.com/TVOD/iptv.php?id=fhhk$V4【线路3】 【1920x1080】
-凤凰香港,https://cdn.qd.je/163189/fhhk$V4【线路4】 【1920x1080】
-TVBS亚洲,http://38.64.72.148/hls/modn/list/4005/chunklist0.m3u8$V4【线路1】 【1920x1080 14Mbps】
-TVBS亚洲,http://38.64.72.148:80/hls/modn/list/4005/playlist.m3u8$V4【线路2】 【1920x1080 39kbps】
-TVBS亚洲,http://38.64.72.148/hls/modn/list/4005/playlist.m3u8$V4【线路3】 【1920x1080 39kbps】
+凤凰中文,https://7612-5516-affc-d88b.kylintv.tv/live/pxinhd_iphone.m3u8$V4【线路1】 【1280x720 87Mbps】
+凤凰中文,http://zmgd.zyrnet.com:8888/hls/110/index.m3u8$V4【线路2】 【1920x1080@192kbps 8Mbps】
+凤凰中文,http://php.jdshipin.com/TVOD/iptv.php?id=fhzw$V4【线路3】 【1920x1080】
+凤凰中文,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzw$V4【线路4】 【1920x1080】
+凤凰中文,http://r.jdshipin.com/cCCzW$V4【线路5】 【1920x1080】
+凤凰资讯,http://zmgd.zyrnet.com:8888/hls/109/index.m3u8$V4【线路1】 【1920x1080@192kbps 10Mbps】
+凤凰资讯,http://173.208.234.146/live/fhzx.m3u8$V4【线路2】 【1280x720 12kbps】
+凤凰资讯,http://r.jdshipin.com/0Rp07$V4【线路3】 【1920x1080】
+凤凰资讯,http://php.jdshipin.com/TVOD/iptv.php?id=fhzx$V4【线路4】 【1920x1080】
+凤凰资讯,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzx$V4【线路5】 【1920x1080】
+凤凰香港,http://173.208.234.146/live/fhxg.m3u8$V4【线路1】 【1280x720 12kbps】
+凤凰香港,http://r.jdshipin.com/yDoTN$V4【线路2】 【1920x1080】
+凤凰香港,http://r.jdshipin.com/NfC0f$V4【线路3】 【1920x1080】
+凤凰香港,http://php.jdshipin.com/TVOD/iptv.php?id=fhhk$V4【线路4】 【1920x1080】
+凤凰香港,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhhk$V4【线路5】 【1920x1080】
+TVBS亚洲,http://38.64.72.148:80/hls/modn/list/4005/chunklist1.m3u8$V4【线路1】 【1920x1080 8Mbps】
+TVBS亚洲,http://38.64.72.148/hls/modn/list/4005/chunklist0.m3u8$V4【线路2】 【1920x1080 6Mbps】
+TVBS亚洲,http://38.64.72.148:80/hls/modn/list/4005/playlist.m3u8$V4【线路3】 【1920x1080 22kbps】
+J2,http://r.jdshipin.com/Nr5jq$V4【线路1】 【1920x1080】
+J2,http://r.jdshipin.com/ndGgS$V4【线路2】 【1920x1080】
+Viutv,http://php.jdshipin.com/TVOD/iptv.php?id=viutv$V4【线路1】 【1920x1080 0kbps】
+Viutv,http://php.jdshipin.com/TVOD/iptv.php?id=viutv2$V4【线路2】 【1920x1080 0kbps】
 翡翠台,http://r.jdshipin.com/qClQf$V4【线路1】 【1920x1080 256kbps】
-翡翠台,http://r.jdshipin.com/GeWKr$V4【线路2】 【1920x1080 256kbps】
-翡翠台,http://r.jdshipin.com/n90gt$V4【线路3】 【3840x2160】
-翡翠台,http://r.jdshipin.com/qrfbg$V4【线路4】 【1920x1080】
-翡翠台,https://cdn3.indevs.in/stream/tvb/fct/$V4【线路5】 【1920x1080】
-无线新闻,https://h5cdn3.kylintv.tv/live/tvbnews_iphone.m3u8$V4【线路1】 【1280x720 41Mbps】
+翡翠台,http://r.jdshipin.com/GeWKr?id=fct720$V4【线路2】 【1920x1080 256kbps】
+翡翠台,http://r.jdshipin.com/GeWKr?id=fct406$V4【线路3】 【1920x1080 256kbps】
+翡翠台,http://r.jdshipin.com/GeWKr$V4【线路4】 【1920x1080 256kbps】
+翡翠台,http://r.jdshipin.com/n90gt$V4【线路5】 【3840x2160】
+翡翠台,http://r.jdshipin.com/62WM7$V4【线路6】 【1920x1080】
+翡翠台,http://r.jdshipin.com/qrfbg$V4【线路7】 【1920x1080】
+明珠台,http://r.jdshipin.com/GeWKr?id=mzt720$V4【线路1】 【1920x1080 256kbps】
+明珠台,http://php.jdshipin.com:8880/iptv.php?id=mzt$V4【线路2】 【1920x1080】
+明珠台,http://r.jdshipin.com/ZQ4kN$V4【线路3】 【1920x1080】
+无线新闻,https://h5cdn3.kylintv.tv/live/tvbnews_iphone.m3u8$V4【线路1】 【1280x720 220Mbps】
 无线新闻,http://r.jdshipin.com/CkuBd$V4【线路2】 【1920x1080】
 无线新闻,http://php.jdshipin.com/TVOD/iptv.php?id=wxxw$V4【线路3】 【1920x1080】
-东森超视,http://38.64.72.148:80/hls/modn/list/2013/chunklist1.m3u8$V4 【1920x1080 21Mbps】
+东森超视,http://38.64.72.148:80/hls/modn/list/2013/chunklist1.m3u8$V4 【1920x1080 6Mbps】
 少儿频道,#genre#
-优漫卡通,http://t.061899.xyz/tl/tl.php?id=ymkt$V4 【1280x720】
 影视频道,#genre#
-CHC动作电影,http://120.238.94.82:9901/tsfile/live/1052_1.m3u8$V4【线路1】 【1920x1080@256kbps 8Mbps】
-CHC动作电影,http://38.75.136.137:98/gslb/dsdqpub/chcdz.m3u8?auth=testpub$V4【线路2】 【1920x1080 8kbps】
-CHC动作电影,http://198.204.228.26/live/chcdz.m3u8$V4【线路3】 【1920x1080 6kbps】
-CHC动作电影,http://107.150.60.122/live/chcdz.m3u8$V4【线路4】 【1920x1080 6kbps】
-CHC家庭影院,http://38.75.136.137:98/gslb/dsdqpub/chcjt.m3u8?auth=testpub$V4【线路1】 【1920x1080 8kbps】
-CHC家庭影院,http://192.151.150.154/live/chcjt.m3u8$V4【线路2】 【1920x1080 6kbps】
-CHC家庭影院,http://198.204.228.26/live/chcjt.m3u8$V4【线路3】 【1920x1080 6kbps】
-CHC家庭影院,http://107.150.60.122/live/chcjt.m3u8$V4【线路4】 【1280x720 6kbps】
-CHC家庭影院,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=chcjt$V4【线路5】 【1920x1080 4kbps】
+CHC动作电影,http://198.204.228.26/live/chcdz.m3u8$V4【线路1】 【1920x1080 12kbps】
+CHC动作电影,http://192.151.150.154/live/chcdz.m3u8$V4【线路2】 【1920x1080 11kbps】
+CHC动作电影,http://107.150.60.122/live/chcdz.m3u8$V4【线路3】 【1920x1080 11kbps】
+CHC动作电影,http://38.75.136.137:98/gslb/dsdqpub/chcdz.m3u8?auth=testpub$V4【线路4】 【1920x1080 7kbps】
+CHC动作电影,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=chcdz$V4【线路5】 【1920x1080 6kbps】
+CHC高清电影,http://183.237.95.108:9901/tsfile/live/1008_1.m3u8?key=txiptv&playlive=0&authid=0$V4 【1920x1080@256kbps 2Mbps】
+CHC家庭影院,http://192.151.150.154/live/chcjt.m3u8$V4【线路1】 【1920x1080 11kbps】
+CHC家庭影院,http://107.150.60.122/live/chcjt.m3u8$V4【线路2】 【1280x720 11kbps】
+CHC家庭影院,http://198.204.228.26/live/chcjt.m3u8$V4【线路3】 【1920x1080 10kbps】
+CHC家庭影院,http://38.75.136.137:98/gslb/dsdqpub/chcjt.m3u8?auth=testpub$V4【线路4】 【1920x1080 7kbps】
+CHC家庭影院,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=chcjt$V4【线路5】 【1920x1080 6kbps】
+NewTV动作电影,http://dassby.qqff.top:99/live/CHC动作电影/index.m3u8$V4 【1920x1080】
 
