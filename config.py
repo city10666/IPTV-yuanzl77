@@ -20,6 +20,11 @@ max_lines_per_channel = 0
 # 注：被注释掉的源暂时停用，可取消注释启用
 source_urls = [
     "https://raw.githubusercontent.com/pq0000/iptv-auto/refs/heads/main/output/favorites.m3u",
+    "https://ghproxy.net/https://raw.githubusercontent.com/ssili126/tv/main/itvlist.txt",
+    "http://xhztv.top/new.txt",
+    "https://szyyds.cn/tv/live/x.txt",
+    "http://iptv.ruyitv.cc/m3u/tv.txt",
+    "https://cdn.jsdelivr.net/gh/Guovin/iptv-api@gd/output/result.m3u",
     "https://guovin.github.io/iptv-api/result.m3u",
     "https://raw.githubusercontent.com/hehonghui/simple-iptv/refs/heads/main/simple.m3u",
     "https://iamhelloandyou.github.io/iptv-aggregator/output/iptv.m3u",
