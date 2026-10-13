@@ -32,7 +32,7 @@ source_urls = [
     # "https://raw.githubusercontent.com/Guovin/iptv-api/gd/output/result.m3u",
     # "https://raw.githubusercontent.com/vbskycn/iptv/refs/heads/master/tv/iptv4.m3u",
     # "https://raw.githubusercontent.com/hujingguang/ChinaIPTV/main/cnTV_AutoUpdate.m3u8"
-    "https://guovin.central.eu.cc/43d70d02-cccb-4db1-a596-9bdfae7e585c/interface.m3u"
+    "https://guovin.central.eu.cc/43d70d02-cccb-4db1-a596-9bdfae7e585c/interface.m3u?relay=2"
 ]
 
 # ── 酒店源 ────────────────────────────────────────────
