@@ -19,6 +19,7 @@ max_lines_per_channel = 0
 # main.py 会依次请求这些地址，提取频道名和播放地址
 # 注：被注释掉的源暂时停用，可取消注释启用
 source_urls = [
+    "https://live.hacks.tools/tv/ipv4/categories/卫视频道.m3u",
     "https://raw.githubusercontent.com/pq0000/iptv-auto/refs/heads/main/output/favorites.m3u",
     "https://ghproxy.net/https://raw.githubusercontent.com/ssili126/tv/main/itvlist.txt",
     "http://xhztv.top/new.txt",
