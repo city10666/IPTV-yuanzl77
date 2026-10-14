@@ -54,7 +54,11 @@ hotel_config = {
 url_blacklist = [
     "epg.pw/stream/",
     "45.192.97.170:8880",
-    "https://txmov2.a.kwimgs.com/bs3/video-hls/5199687338554291078_hlsb.m3u8"
+    "https://txmov2.a.kwimgs.com/bs3/video-hls/5199687338554291078_hlsb.m3u8",
+    "http://ali-m-l.cztv.com:80/channels/lantian/channel001/1080p.m3u8",
+    "http://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8",
+    "https://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8",
+    "http://yncbn.ks-cdn.gitv.tv/gitv_live/G_ZHEJIANG-HQ/G_ZHEJIANG-HQ.m3u8"
 ]
 
 # ── 公告条目 ────────────────────────────────────────────────────────
