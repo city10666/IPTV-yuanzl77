@@ -20,10 +20,9 @@ max_lines_per_channel = 0
 # 注：被注释掉的源暂时停用，可取消注释启用
 source_urls = [
     "https://live.hacks.tools/tv/ipv4/categories/卫视频道.m3u",
-    "https://github.com/kakaxi-1/zubo/blob/main/itvlist.txt",
+    "https://raw.githubusercontent.com/kakaxi-1/zubo/refs/heads/main/itvlist.txt",
     "https://raw.githubusercontent.com/jia070310/lemonTV/refs/heads/main/iptv-fe.m3u",
     "https://raw.githubusercontent.com/pq0000/iptv-auto/refs/heads/main/output/favorites.m3u",
-    "https://ghproxy.net/https://raw.githubusercontent.com/ssili126/tv/main/itvlist.txt",
     "http://xhztv.top/new.txt",
     "https://szyyds.cn/tv/live/x.txt",
     "http://iptv.ruyitv.cc/m3u/tv.txt",
