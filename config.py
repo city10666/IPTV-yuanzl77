@@ -59,7 +59,8 @@ url_blacklist = [
     "http://ali-m-l.cztv.com:80/channels/lantian/channel001/1080p.m3u8",
     "http://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8",
     "https://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8",
-    "http://yncbn.ks-cdn.gitv.tv/gitv_live/G_ZHEJIANG-HQ/G_ZHEJIANG-HQ.m3u8"
+    "http://yncbn.ks-cdn.gitv.tv/gitv_live/G_ZHEJIANG-HQ/G_ZHEJIANG-HQ.m3u8",
+    "http://ali-m-l.cztv.com/channels/lantian/channel01/1080p.m3u8"
 ]
 
 # ── 公告条目 ────────────────────────────────────────────────────────
